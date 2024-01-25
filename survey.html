@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ADV Airport Travel Survey 2024</title>
+    <title>Tirana Airport Customer Experience Survey</title>
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link
@@ -30,22 +30,17 @@
 
   <body>
     <survalyzer-survey
-      surveyhash="mxkaskffoc"
+      surveyhash="ppffnfaxpu"
       tenant="silverlining"
     ></survalyzer-survey>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://survalyzer.survalyzer.eu/assets/survalyzer-survey.js"></script>
 
-
-    <script src="data/VIE_departures_flight_list.js"></script>
-    <script src="data/airport_list.js"></script>
-    <script src="data/postal_Code_Germany.js"></script>
-    <script src="data/postal_Code_Austria.js"></script>
+    <script src="data/TIA_departures_flight_list.js"></script>
 
     <script src="scripts/flight_search.js"></script>
-    <script src="scripts/airport_search.js"></script>
-    <script src="scripts/postal_code_search.js"></script>
+
 
     <script src="scripts/auto_complete_ui.js"></script>
 
@@ -60,26 +55,10 @@
             
             switch (api.fn.getCurrentPageIndex()) {
               case 3:
-                show_flight_search_box("Core_Q2"); //flight
-                break;
-              case 11:
-                show_airport_search_box("Core_Q6_2"); ///From Airport
-                break;
-              case 13:
-                 show_postal_code_search_box("Core_Q6_3"); //If arriving VIE by plan: 
-                break;                
-              case 15:
-                 show_postal_code_search_box("Core_Q6_4"); //If arriving VIE by ground transport: 
-                break;
-              case 18:
-                show_postal_code_search_box("Core_Q7_2"); //place  mainly spend the trip
-                break;
-              case 29:
-                show_postal_code_search_box("Core_Q14"); //permanent residence?
+                show_flight_search_box("Q1D"); //flight
                 break;
 
-
-              default:
+                default:
                 aui_hide_external_search_box();
                 break;
             }

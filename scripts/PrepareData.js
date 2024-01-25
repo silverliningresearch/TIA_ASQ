@@ -115,7 +115,7 @@ function isvalid_id(id)
 function prepareInterviewData() {
   var quota_data_temp = JSON.parse(quota_info);
   var interview_data_full  = JSON.parse(interview_statistics);
-  var flight_list_full  = JSON.parse(VIE_Departures_Flight_List_Raw);
+  var flight_list_full  = JSON.parse(TIA_Departures_Flight_List_Raw);
 
   initCurrentTimeVars();		
   
