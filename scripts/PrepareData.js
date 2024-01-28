@@ -34,8 +34,10 @@ function initCurrentTimeVars() {
   currentDate = [day, month, year].join('-');
   currentYear = year;
 
-  currentMonth = [year, month].join('-');;
-  current_period =  currentMonth ;
+  currentMonth = month;//[year, month].join('-');;
+
+  currentQuarter = getQuarterFromMonth(currentMonth, currentYear);
+  current_period =  currentQuarter ;
   //////////
   var tomorrow = new Date();
   tomorrow.setDate(today.getDate()+1);
@@ -83,6 +85,25 @@ function getInterviewMonth(interviewEndDate)
 }
 
 
+function getQuarterFromMonth(month, year)
+{
+  //Input: mm, yyyy
+  var quarter = 0;
+  
+  if ((month == '01') || (month == '02') || (month == '03')) {
+    quarter = "Q1";  
+  }
+  else if ((month == '04') || (month == '05') || (month == '06')) {
+    quarter = "Q2";  
+  }
+  else if ((month == '07') || (month == '08') || (month == '09')) {
+    quarter = "Q3";  
+  }
+  else if ((month == '10') || (month == '11') || (month == '12')) {
+    quarter = "Q4";  
+  }
+  return (year + "-" + quarter);
+}
 function notDeparted(flight_time) {
   var current_time = new Date().toLocaleString('en-US', { timeZone:  'Europe/Vienna', hour12: false});
   //15:13:27
@@ -140,9 +161,13 @@ function prepareInterviewData() {
   for (i = 0; i < interview_data_full.length; i++) {
     var interview = interview_data_full[i];
 
+    var interview_year = interview["InterviewDate"].substring(0,4);
+    var interview_month = interview["InterviewDate"].substring(5,7);//"2023-04-01",
+    var interview_quarter = getQuarterFromMonth(interview_month, interview_year);
+
     //current_period: 2023-12
     //InterviewDate: 2023-04-01
-    if (current_period == interview.InterviewDate.substring(0,7))//"2023-04-01",
+    if (current_period == interview_quarter)//"2023-04-01",
     {
       if (interview["quota_id"]) {
         var quota_id = '"quota_id"' + ":" + '"' +  interview["quota_id"] + '", ';
