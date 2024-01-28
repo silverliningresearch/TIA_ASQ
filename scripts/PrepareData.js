@@ -196,7 +196,7 @@ function prepareInterviewData() {
 
     //current_period:2023-02
     //flight.Date: 08-02-2023
-    if (current_period == flight.Date.substring(6,10) + "-" +  flight.Date.substring(3,5)) { 
+    if (currentQuarter ==  getQuarterFromMonth(flight.Date.substring(3,5), flight.Date.substring(6,10))) { 
       this_month_flight_list.push(flight);
     }		 
 
