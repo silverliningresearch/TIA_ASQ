@@ -189,10 +189,16 @@ function prepareInterviewData() {
   this_month_flight_list.length = 0;
   
   for (i = 0; i < flight_list_full.length; i++) {
-    let flight = flight_list_full[i];
+    var flight = flight_list_full[i];
 
     //airport_airline
     flight.quota_id = flight.AirlineCode + "-" + flight.Dest;//code for compare
+    
+    flight.Time_org  = flight.Time;
+
+    var flight_time = flight.Time;
+    var flight_time_value = (flight_time.substring(0,2) * 1 + 1).toString() + flight_time.substring(2,4);
+    flight.Time = flight_time_value;
 
     //current_period:2023-02
     //flight.Date: 08-02-2023

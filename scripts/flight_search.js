@@ -59,12 +59,23 @@ function load_flight_list() {
 
   for (i = 0; i < flightRawList.length; i++) {
     var flight = flightRawList[i];
-    if ((flight.Date == getToDate() && notDeparted_flight_search(flight.Time)) //today flight && departure
+
+    //convert from UTC to local time
+    var flight_time = flightRawList[i].Time;
+    var flight_time_value = (flight_time.substring(0,2) * 1 + 1).toString() + flight_time.substring(2,4);
+
+    flightRawList[i].Time_Org  = flightRawList[i].Time;
+    flightRawList[i].Time = flight_time_value;
+
+    if ((flight.Date == getToDate() && notDeparted_flight_search(flightRawList[i].Time)) //today flight && departure
     ) 
     {
       {
         var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
+
         var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';
+
+
         var Flight = '"Flight"' + ":" + '"' +  flightRawList[i].Flight + '", ';
         var Airline = '"Airline"' + ":" + '"' +  flightRawList[i].Airline + '", '; //name
         var AirlineCode = '"AirlineCode"' + ":" + '"' +  flightRawList[i].AirlineCode + '", ';//code
