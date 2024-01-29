@@ -41,7 +41,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -50,7 +50,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -59,7 +59,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -68,7 +68,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -77,7 +77,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -95,7 +95,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -104,7 +104,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -113,7 +113,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -122,7 +122,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -131,7 +131,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -140,7 +140,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -149,7 +149,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -158,7 +158,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -167,7 +167,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -221,7 +221,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -230,7 +230,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -239,7 +239,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -248,7 +248,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -257,7 +257,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -266,7 +266,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -275,7 +275,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -302,7 +302,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -320,7 +320,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -329,7 +329,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -338,7 +338,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -347,7 +347,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -356,7 +356,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -365,7 +365,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -374,7 +374,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -392,7 +392,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -419,7 +419,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -428,7 +428,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -446,7 +446,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -455,7 +455,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -473,7 +473,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -482,7 +482,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -491,7 +491,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -509,7 +509,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -518,7 +518,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -527,7 +527,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -554,7 +554,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -572,7 +572,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -581,7 +581,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -590,7 +590,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -608,7 +608,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -617,7 +617,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -635,7 +635,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -653,7 +653,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -680,7 +680,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -689,7 +689,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -698,7 +698,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -716,7 +716,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -770,7 +770,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -779,7 +779,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -788,7 +788,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -797,7 +797,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -806,7 +806,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -815,7 +815,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -833,7 +833,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -842,7 +842,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -851,7 +851,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -860,7 +860,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -869,7 +869,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -878,7 +878,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -887,7 +887,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -896,7 +896,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -905,7 +905,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -950,7 +950,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -959,7 +959,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -968,7 +968,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -977,7 +977,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -986,7 +986,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -1013,7 +1013,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -1031,7 +1031,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -1040,7 +1040,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -1049,7 +1049,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -1058,7 +1058,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -1067,7 +1067,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -1076,7 +1076,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -1085,7 +1085,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -1094,7 +1094,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -1112,7 +1112,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -1130,7 +1130,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -1139,7 +1139,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -1166,7 +1166,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -1175,7 +1175,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -1184,7 +1184,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -1202,7 +1202,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -1220,7 +1220,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -1238,7 +1238,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -1247,7 +1247,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -1283,7 +1283,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -1292,7 +1292,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -1301,7 +1301,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -1319,7 +1319,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -1328,7 +1328,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -1337,7 +1337,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -1355,7 +1355,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -1373,7 +1373,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -1382,7 +1382,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -1391,7 +1391,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -1400,7 +1400,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -1409,7 +1409,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -1445,7 +1445,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -1454,7 +1454,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -1463,7 +1463,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -1472,7 +1472,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -1481,7 +1481,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -1490,7 +1490,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -1499,7 +1499,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -1508,7 +1508,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -1517,7 +1517,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -1526,7 +1526,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -1535,7 +1535,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -1544,7 +1544,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -1553,7 +1553,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -1562,7 +1562,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -1607,7 +1607,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -1616,7 +1616,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -1625,7 +1625,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -1634,7 +1634,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -1643,7 +1643,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -1652,7 +1652,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -1661,7 +1661,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -1688,7 +1688,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -1706,7 +1706,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -1715,7 +1715,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -1724,7 +1724,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -1733,7 +1733,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -1742,7 +1742,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -1769,7 +1769,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -1787,7 +1787,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -1796,7 +1796,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -1823,7 +1823,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -1832,7 +1832,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -1841,7 +1841,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -1850,7 +1850,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -1859,7 +1859,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -1886,7 +1886,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -1895,7 +1895,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -1922,7 +1922,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -1931,7 +1931,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -1949,7 +1949,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -1967,7 +1967,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -1976,7 +1976,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -1985,7 +1985,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -1994,7 +1994,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -2003,7 +2003,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -2012,7 +2012,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -2030,7 +2030,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -2048,7 +2048,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -2057,7 +2057,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -2066,7 +2066,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -2075,7 +2075,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -2084,7 +2084,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -2147,7 +2147,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -2156,7 +2156,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -2165,7 +2165,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -2174,7 +2174,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -2183,7 +2183,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -2192,7 +2192,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -2201,7 +2201,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -2210,7 +2210,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -2219,7 +2219,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -2228,7 +2228,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -2237,7 +2237,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -2246,7 +2246,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -2255,7 +2255,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -2264,7 +2264,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -2291,7 +2291,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -2300,7 +2300,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -2309,7 +2309,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -2318,7 +2318,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -2327,7 +2327,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -2336,7 +2336,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -2345,7 +2345,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -2381,7 +2381,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -2399,7 +2399,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -2408,7 +2408,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -2417,7 +2417,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -2426,7 +2426,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -2444,7 +2444,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -2462,7 +2462,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -2471,7 +2471,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -2498,7 +2498,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -2507,7 +2507,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -2516,7 +2516,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -2534,7 +2534,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -2543,7 +2543,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -2552,7 +2552,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -2561,7 +2561,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -2570,7 +2570,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -2579,7 +2579,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -2597,7 +2597,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -2615,7 +2615,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -2624,7 +2624,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -2642,7 +2642,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -2660,7 +2660,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -2678,7 +2678,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -2705,7 +2705,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -2714,7 +2714,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -2732,7 +2732,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -2750,7 +2750,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -2795,7 +2795,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -2804,7 +2804,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -2813,7 +2813,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -2822,7 +2822,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -2831,7 +2831,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -2840,7 +2840,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -2858,7 +2858,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -2867,7 +2867,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -2876,7 +2876,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -2885,7 +2885,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -2894,7 +2894,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -2903,7 +2903,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -2912,7 +2912,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -2921,7 +2921,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -2930,7 +2930,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -2984,7 +2984,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -2993,7 +2993,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -3002,7 +3002,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -3011,7 +3011,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -3020,7 +3020,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -3047,7 +3047,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -3065,7 +3065,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -3083,7 +3083,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -3092,7 +3092,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -3101,7 +3101,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -3110,7 +3110,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -3119,7 +3119,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -3128,7 +3128,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -3137,7 +3137,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -3173,7 +3173,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -3182,7 +3182,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -3209,7 +3209,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -3218,7 +3218,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -3236,7 +3236,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -3245,7 +3245,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -3263,7 +3263,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -3290,7 +3290,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -3299,7 +3299,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -3308,7 +3308,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -3326,7 +3326,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -3335,7 +3335,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -3353,7 +3353,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -3362,7 +3362,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -3371,7 +3371,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -3380,7 +3380,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -3398,7 +3398,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -3407,7 +3407,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -3416,7 +3416,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -3425,7 +3425,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -3434,7 +3434,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -3488,7 +3488,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -3497,7 +3497,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -3506,7 +3506,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -3515,7 +3515,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -3524,7 +3524,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -3542,7 +3542,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -3551,7 +3551,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -3560,7 +3560,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -3569,7 +3569,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -3578,7 +3578,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -3587,7 +3587,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -3596,7 +3596,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -3605,7 +3605,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -3614,7 +3614,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -3668,7 +3668,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -3677,7 +3677,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -3686,7 +3686,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -3695,7 +3695,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -3704,7 +3704,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -3713,7 +3713,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -3722,7 +3722,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -3740,7 +3740,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -3758,7 +3758,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -3767,7 +3767,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -3776,7 +3776,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -3785,7 +3785,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -3794,7 +3794,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -3803,7 +3803,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -3821,7 +3821,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -3830,7 +3830,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -3875,7 +3875,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -3884,7 +3884,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -3893,7 +3893,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -3911,7 +3911,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -3929,7 +3929,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -3938,7 +3938,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -3956,7 +3956,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -3965,7 +3965,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -3992,7 +3992,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -4001,7 +4001,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -4010,7 +4010,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -4019,7 +4019,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -4037,7 +4037,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -4055,7 +4055,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -4064,7 +4064,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -4091,7 +4091,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -4109,7 +4109,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -4118,7 +4118,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -4127,7 +4127,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -4145,7 +4145,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -4154,7 +4154,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -4235,7 +4235,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -4244,7 +4244,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -4253,7 +4253,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -4262,7 +4262,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -4271,7 +4271,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -4280,7 +4280,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -4298,7 +4298,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -4307,7 +4307,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -4316,7 +4316,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -4325,7 +4325,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -4334,7 +4334,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -4343,7 +4343,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -4352,7 +4352,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -4361,7 +4361,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -4370,7 +4370,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -4433,7 +4433,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -4442,7 +4442,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -4451,7 +4451,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -4460,7 +4460,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -4469,7 +4469,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -4478,7 +4478,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -4487,7 +4487,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -4514,7 +4514,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -4532,7 +4532,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -4541,7 +4541,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -4550,7 +4550,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -4559,7 +4559,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -4568,7 +4568,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -4604,7 +4604,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -4622,7 +4622,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -4649,7 +4649,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -4658,7 +4658,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -4667,7 +4667,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -4676,7 +4676,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -4685,7 +4685,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -4703,7 +4703,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -4730,7 +4730,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -4748,7 +4748,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -4757,7 +4757,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -4766,7 +4766,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -4775,7 +4775,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -4784,7 +4784,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -4802,7 +4802,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -4811,7 +4811,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -4820,7 +4820,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -4838,7 +4838,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -4856,7 +4856,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -4865,7 +4865,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -4874,7 +4874,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -4883,7 +4883,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -4946,7 +4946,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -4955,7 +4955,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -4964,7 +4964,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -4973,7 +4973,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -4982,7 +4982,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -5000,7 +5000,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -5009,7 +5009,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -5018,7 +5018,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -5027,7 +5027,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -5036,7 +5036,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -5045,7 +5045,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -5054,7 +5054,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -5063,7 +5063,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -5072,7 +5072,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -5126,7 +5126,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -5135,7 +5135,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -5144,7 +5144,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -5153,7 +5153,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -5162,7 +5162,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -5171,7 +5171,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -5180,7 +5180,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -5207,7 +5207,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -5225,7 +5225,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -5234,7 +5234,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -5243,7 +5243,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -5252,7 +5252,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -5261,7 +5261,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -5270,7 +5270,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -5288,7 +5288,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -5297,7 +5297,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -5324,7 +5324,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -5333,7 +5333,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -5351,7 +5351,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -5360,7 +5360,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -5378,7 +5378,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -5396,7 +5396,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -5405,7 +5405,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -5423,7 +5423,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -5432,7 +5432,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -5441,7 +5441,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -5468,7 +5468,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -5486,7 +5486,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -5495,7 +5495,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -5504,7 +5504,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -5513,7 +5513,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -5522,7 +5522,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -5531,7 +5531,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -5549,7 +5549,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -5567,7 +5567,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -5594,7 +5594,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -5603,7 +5603,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -5612,7 +5612,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -5630,7 +5630,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -5684,7 +5684,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -5693,7 +5693,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -5702,7 +5702,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -5711,7 +5711,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -5720,7 +5720,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -5729,7 +5729,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -5747,7 +5747,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -5756,7 +5756,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -5765,7 +5765,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -5774,7 +5774,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -5783,7 +5783,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -5792,7 +5792,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -5801,7 +5801,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -5810,7 +5810,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -5819,7 +5819,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -5864,7 +5864,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -5873,7 +5873,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -5882,7 +5882,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -5891,7 +5891,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -5900,7 +5900,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -5927,7 +5927,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -5936,7 +5936,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -5954,7 +5954,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -5963,7 +5963,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -5972,7 +5972,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -5981,7 +5981,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -5990,7 +5990,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -5999,7 +5999,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -6008,7 +6008,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -6026,7 +6026,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -6044,7 +6044,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -6053,7 +6053,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -6080,7 +6080,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -6089,7 +6089,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -6107,7 +6107,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -6125,7 +6125,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -6152,7 +6152,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -6170,7 +6170,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -6179,7 +6179,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -6215,7 +6215,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -6224,7 +6224,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -6233,7 +6233,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -6251,7 +6251,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -6260,7 +6260,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -6269,7 +6269,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -6287,7 +6287,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -6305,7 +6305,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -6314,7 +6314,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -6323,7 +6323,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -6332,7 +6332,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -6341,7 +6341,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -6395,7 +6395,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -6404,7 +6404,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -6413,7 +6413,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -6422,7 +6422,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -6431,7 +6431,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -6440,7 +6440,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -6449,7 +6449,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -6458,7 +6458,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -6467,7 +6467,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -6476,7 +6476,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -6485,7 +6485,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -6494,7 +6494,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -6503,7 +6503,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -6512,7 +6512,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -6557,7 +6557,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -6566,7 +6566,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -6575,7 +6575,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -6584,7 +6584,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -6593,7 +6593,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -6602,7 +6602,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -6611,7 +6611,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -6638,7 +6638,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -6656,7 +6656,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -6665,7 +6665,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -6674,7 +6674,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -6683,7 +6683,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -6692,7 +6692,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -6719,7 +6719,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -6737,7 +6737,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -6755,7 +6755,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -6782,7 +6782,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -6791,7 +6791,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -6800,7 +6800,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -6809,7 +6809,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -6818,7 +6818,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -6845,7 +6845,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -6854,7 +6854,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -6881,7 +6881,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -6890,7 +6890,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -6908,7 +6908,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -6926,7 +6926,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -6935,7 +6935,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -6944,7 +6944,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -6953,7 +6953,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -6962,7 +6962,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -6971,7 +6971,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -6989,7 +6989,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -7007,7 +7007,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -7016,7 +7016,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -7025,7 +7025,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -7034,7 +7034,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -7043,7 +7043,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -7106,7 +7106,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -7115,7 +7115,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -7124,7 +7124,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -7133,7 +7133,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -7142,7 +7142,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -7151,7 +7151,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -7160,7 +7160,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -7169,7 +7169,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -7178,7 +7178,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -7187,7 +7187,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -7196,7 +7196,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -7205,7 +7205,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -7214,7 +7214,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -7223,7 +7223,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -7250,7 +7250,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -7259,7 +7259,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -7268,7 +7268,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -7277,7 +7277,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -7286,7 +7286,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -7295,7 +7295,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -7304,7 +7304,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -7340,7 +7340,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -7358,7 +7358,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -7367,7 +7367,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -7376,7 +7376,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -7385,7 +7385,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -7403,7 +7403,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -7421,7 +7421,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -7430,7 +7430,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -7457,7 +7457,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -7466,7 +7466,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -7475,7 +7475,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -7493,7 +7493,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -7502,7 +7502,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -7511,7 +7511,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -7520,7 +7520,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -7529,7 +7529,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -7538,7 +7538,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -7556,7 +7556,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -7574,7 +7574,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -7583,7 +7583,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -7601,7 +7601,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -7619,7 +7619,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -7637,7 +7637,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -7664,7 +7664,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -7673,7 +7673,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -7691,7 +7691,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -7709,7 +7709,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -7754,7 +7754,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -7763,7 +7763,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -7772,7 +7772,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -7781,7 +7781,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -7790,7 +7790,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -7799,7 +7799,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -7817,7 +7817,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -7826,7 +7826,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -7835,7 +7835,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -7844,7 +7844,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -7853,7 +7853,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -7862,7 +7862,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -7871,7 +7871,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -7880,7 +7880,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -7889,7 +7889,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -7943,7 +7943,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -7952,7 +7952,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -7961,7 +7961,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -7970,7 +7970,7 @@
   "Time": "1030",
   "Flight": "2B353",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -7979,7 +7979,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -7988,7 +7988,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -8015,7 +8015,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -8033,7 +8033,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -8051,7 +8051,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -8060,7 +8060,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -8069,7 +8069,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -8078,7 +8078,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -8087,7 +8087,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -8096,7 +8096,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -8105,7 +8105,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -8150,7 +8150,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -8159,7 +8159,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -8186,7 +8186,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -8195,7 +8195,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -8222,7 +8222,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -8231,7 +8231,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -8249,7 +8249,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -8276,7 +8276,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -8285,7 +8285,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -8294,7 +8294,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -8312,7 +8312,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -8321,7 +8321,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -8339,7 +8339,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -8348,7 +8348,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -8357,7 +8357,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -8366,7 +8366,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -8384,7 +8384,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -8393,7 +8393,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -8402,7 +8402,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -8411,7 +8411,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -8420,7 +8420,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -8474,7 +8474,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -8483,7 +8483,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -8492,7 +8492,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -8501,7 +8501,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -8510,7 +8510,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -8528,7 +8528,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -8537,7 +8537,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -8546,7 +8546,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -8555,7 +8555,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -8564,7 +8564,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -8573,7 +8573,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -8582,7 +8582,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -8591,7 +8591,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -8600,7 +8600,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -8654,7 +8654,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -8663,7 +8663,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -8672,7 +8672,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -8681,7 +8681,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -8690,7 +8690,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -8699,7 +8699,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -8708,7 +8708,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -8726,7 +8726,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -8744,7 +8744,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -8753,7 +8753,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -8762,7 +8762,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -8771,7 +8771,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -8780,7 +8780,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -8789,7 +8789,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -8807,7 +8807,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -8816,7 +8816,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -8861,7 +8861,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -8870,7 +8870,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -8879,7 +8879,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -8897,7 +8897,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -8915,7 +8915,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -8924,7 +8924,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -8942,7 +8942,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -8951,7 +8951,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -8978,7 +8978,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -8987,7 +8987,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -8996,7 +8996,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -9005,7 +9005,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -9023,7 +9023,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -9041,7 +9041,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -9050,7 +9050,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -9077,7 +9077,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -9095,7 +9095,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -9104,7 +9104,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -9113,7 +9113,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -9131,7 +9131,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -9140,7 +9140,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -9221,7 +9221,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -9230,7 +9230,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -9239,7 +9239,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -9248,7 +9248,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -9257,7 +9257,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -9266,7 +9266,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -9284,7 +9284,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -9293,7 +9293,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -9302,7 +9302,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -9311,7 +9311,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -9320,7 +9320,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -9329,7 +9329,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -9338,7 +9338,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -9347,7 +9347,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -9356,7 +9356,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -9419,7 +9419,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -9428,7 +9428,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -9437,7 +9437,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -9446,7 +9446,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -9455,7 +9455,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -9464,7 +9464,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -9473,7 +9473,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -9500,7 +9500,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -9518,7 +9518,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -9527,7 +9527,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -9536,7 +9536,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -9545,7 +9545,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -9554,7 +9554,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -9590,7 +9590,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -9608,7 +9608,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -9635,7 +9635,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -9644,7 +9644,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -9653,7 +9653,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -9662,7 +9662,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -9671,7 +9671,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -9689,7 +9689,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -9716,7 +9716,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -9734,7 +9734,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -9743,7 +9743,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -9752,7 +9752,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -9761,7 +9761,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -9770,7 +9770,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -9788,7 +9788,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -9797,7 +9797,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -9806,7 +9806,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -9824,7 +9824,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -9842,7 +9842,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -9851,7 +9851,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -9860,7 +9860,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -9869,7 +9869,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -9932,7 +9932,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -9941,7 +9941,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -9950,7 +9950,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -9959,7 +9959,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -9968,7 +9968,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -9986,7 +9986,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -9995,7 +9995,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -10004,7 +10004,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -10013,7 +10013,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -10022,7 +10022,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -10031,7 +10031,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -10040,7 +10040,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -10049,7 +10049,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -10058,7 +10058,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -10112,7 +10112,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -10121,7 +10121,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -10130,7 +10130,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -10139,7 +10139,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -10148,7 +10148,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -10157,7 +10157,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -10166,7 +10166,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -10193,7 +10193,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -10211,7 +10211,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -10220,7 +10220,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -10229,7 +10229,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -10238,7 +10238,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -10247,7 +10247,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -10256,7 +10256,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -10274,7 +10274,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -10283,7 +10283,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -10310,7 +10310,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -10319,7 +10319,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -10337,7 +10337,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -10346,7 +10346,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -10364,7 +10364,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -10373,7 +10373,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -10382,7 +10382,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -10400,7 +10400,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -10409,7 +10409,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -10418,7 +10418,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -10445,7 +10445,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -10463,7 +10463,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -10472,7 +10472,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -10481,7 +10481,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -10490,7 +10490,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -10499,7 +10499,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -10508,7 +10508,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -10526,7 +10526,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -10544,7 +10544,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -10571,7 +10571,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -10580,7 +10580,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -10589,7 +10589,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -10607,7 +10607,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -10661,7 +10661,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -10670,7 +10670,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -10679,7 +10679,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -10688,7 +10688,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -10697,7 +10697,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -10706,7 +10706,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -10724,7 +10724,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -10733,7 +10733,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -10742,7 +10742,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -10751,7 +10751,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -10760,7 +10760,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -10769,7 +10769,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -10778,7 +10778,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -10787,7 +10787,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -10796,7 +10796,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -10850,7 +10850,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -10859,7 +10859,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -10868,7 +10868,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -10877,7 +10877,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -10886,7 +10886,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -10913,7 +10913,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -10922,7 +10922,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -10940,7 +10940,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -10949,7 +10949,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -10958,7 +10958,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -10967,7 +10967,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -10976,7 +10976,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -10985,7 +10985,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -10994,7 +10994,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -11012,7 +11012,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -11030,7 +11030,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -11039,7 +11039,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -11066,7 +11066,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -11075,7 +11075,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -11093,7 +11093,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -11111,7 +11111,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -11129,7 +11129,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -11147,7 +11147,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -11156,7 +11156,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -11192,7 +11192,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -11201,7 +11201,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -11210,7 +11210,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -11228,7 +11228,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -11237,7 +11237,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -11246,7 +11246,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -11264,7 +11264,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -11282,7 +11282,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -11291,7 +11291,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -11300,7 +11300,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -11309,7 +11309,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -11318,7 +11318,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -11372,7 +11372,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -11381,7 +11381,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -11390,7 +11390,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -11399,7 +11399,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -11408,7 +11408,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -11417,7 +11417,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -11426,7 +11426,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -11435,7 +11435,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -11444,7 +11444,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -11453,7 +11453,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -11462,7 +11462,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -11471,7 +11471,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -11480,7 +11480,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -11489,7 +11489,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -11534,7 +11534,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -11543,7 +11543,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -11552,7 +11552,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -11561,7 +11561,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -11570,7 +11570,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -11579,7 +11579,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -11588,7 +11588,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -11615,7 +11615,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -11633,7 +11633,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -11642,7 +11642,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -11651,7 +11651,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -11660,7 +11660,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -11669,7 +11669,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -11696,7 +11696,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -11714,7 +11714,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -11732,7 +11732,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -11759,7 +11759,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -11768,7 +11768,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -11777,7 +11777,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -11786,7 +11786,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -11795,7 +11795,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -11822,7 +11822,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -11831,7 +11831,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -11858,7 +11858,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -11867,7 +11867,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -11885,7 +11885,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -11903,7 +11903,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -11912,7 +11912,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -11921,7 +11921,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -11930,7 +11930,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -11939,7 +11939,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -11948,7 +11948,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -11966,7 +11966,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -11984,7 +11984,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -11993,7 +11993,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -12002,7 +12002,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -12011,7 +12011,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -12020,7 +12020,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -12083,7 +12083,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -12092,7 +12092,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -12101,7 +12101,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -12110,7 +12110,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -12119,7 +12119,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -12128,7 +12128,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -12137,7 +12137,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -12146,7 +12146,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -12155,7 +12155,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -12164,7 +12164,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -12173,7 +12173,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -12182,7 +12182,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -12191,7 +12191,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -12200,7 +12200,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -12227,7 +12227,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -12236,7 +12236,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -12245,7 +12245,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -12254,7 +12254,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -12263,7 +12263,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -12272,7 +12272,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -12281,7 +12281,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -12317,7 +12317,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -12335,7 +12335,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -12344,7 +12344,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -12353,7 +12353,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -12362,7 +12362,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -12380,7 +12380,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -12398,7 +12398,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -12407,7 +12407,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -12434,7 +12434,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -12443,7 +12443,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -12452,7 +12452,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -12470,7 +12470,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -12479,7 +12479,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -12488,7 +12488,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -12497,7 +12497,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -12506,7 +12506,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -12515,7 +12515,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -12533,7 +12533,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -12551,7 +12551,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -12560,7 +12560,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -12578,7 +12578,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -12596,7 +12596,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -12614,7 +12614,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -12641,7 +12641,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -12650,7 +12650,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -12668,7 +12668,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -12686,7 +12686,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -12731,7 +12731,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -12740,7 +12740,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -12749,7 +12749,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -12758,7 +12758,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -12767,7 +12767,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -12776,7 +12776,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -12794,7 +12794,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -12803,7 +12803,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -12812,7 +12812,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -12821,7 +12821,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -12830,7 +12830,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -12839,7 +12839,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -12848,7 +12848,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -12857,7 +12857,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -12866,7 +12866,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -12920,7 +12920,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -12929,7 +12929,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -12938,7 +12938,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -12947,7 +12947,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -12956,7 +12956,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -12983,7 +12983,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -13001,7 +13001,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -13019,7 +13019,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -13028,7 +13028,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -13037,7 +13037,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -13046,7 +13046,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -13055,7 +13055,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -13064,7 +13064,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -13073,7 +13073,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -13118,7 +13118,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -13127,7 +13127,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -13154,7 +13154,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -13163,7 +13163,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -13190,7 +13190,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -13199,7 +13199,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -13208,7 +13208,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -13235,7 +13235,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -13244,7 +13244,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -13253,7 +13253,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -13271,7 +13271,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -13280,7 +13280,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -13298,7 +13298,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -13307,7 +13307,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -13316,7 +13316,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -13325,7 +13325,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -13343,7 +13343,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -13352,7 +13352,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -13361,7 +13361,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -13370,7 +13370,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -13379,7 +13379,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -13433,7 +13433,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -13442,7 +13442,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -13451,7 +13451,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -13460,7 +13460,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -13469,7 +13469,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -13487,7 +13487,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -13496,7 +13496,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -13505,7 +13505,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -13514,7 +13514,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -13523,7 +13523,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -13532,7 +13532,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -13541,7 +13541,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -13550,7 +13550,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -13559,7 +13559,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -13613,7 +13613,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -13622,7 +13622,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -13631,7 +13631,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -13640,7 +13640,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -13649,7 +13649,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -13658,7 +13658,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -13667,7 +13667,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -13685,7 +13685,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -13703,7 +13703,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -13712,7 +13712,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -13721,7 +13721,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -13730,7 +13730,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -13739,7 +13739,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -13748,7 +13748,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -13766,7 +13766,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -13775,7 +13775,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -13820,7 +13820,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -13829,7 +13829,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -13838,7 +13838,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -13856,7 +13856,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -13865,7 +13865,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -13874,7 +13874,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -13892,7 +13892,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -13901,7 +13901,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -13928,7 +13928,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -13937,7 +13937,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -13946,7 +13946,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -13955,7 +13955,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -13973,7 +13973,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -13991,7 +13991,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -14000,7 +14000,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -14027,7 +14027,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -14045,7 +14045,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -14054,7 +14054,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -14063,7 +14063,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -14081,7 +14081,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -14090,7 +14090,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -14171,7 +14171,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -14180,7 +14180,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -14189,7 +14189,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -14198,7 +14198,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -14207,7 +14207,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -14216,7 +14216,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -14234,7 +14234,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -14243,7 +14243,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -14252,7 +14252,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -14261,7 +14261,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -14270,7 +14270,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -14279,7 +14279,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -14288,7 +14288,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -14297,7 +14297,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -14306,7 +14306,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -14369,7 +14369,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -14378,7 +14378,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -14387,7 +14387,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -14396,7 +14396,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -14405,7 +14405,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -14414,7 +14414,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -14423,7 +14423,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -14450,7 +14450,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -14468,7 +14468,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -14477,7 +14477,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -14486,7 +14486,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -14495,7 +14495,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -14504,7 +14504,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -14540,7 +14540,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -14558,7 +14558,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -14585,7 +14585,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -14594,7 +14594,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -14603,7 +14603,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -14612,7 +14612,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -14621,7 +14621,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -14630,7 +14630,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -14657,7 +14657,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -14675,7 +14675,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -14684,7 +14684,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -14693,7 +14693,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -14702,7 +14702,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -14711,7 +14711,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -14729,7 +14729,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -14738,7 +14738,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -14747,7 +14747,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -14765,7 +14765,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -14783,7 +14783,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -14792,7 +14792,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -14801,7 +14801,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -14810,7 +14810,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -14873,7 +14873,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -14882,7 +14882,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -14891,7 +14891,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -14900,7 +14900,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -14909,7 +14909,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -14927,7 +14927,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -14936,7 +14936,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -14945,7 +14945,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -14954,7 +14954,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -14963,7 +14963,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -14972,7 +14972,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -14981,7 +14981,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -14990,7 +14990,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -14999,7 +14999,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -15053,7 +15053,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -15062,7 +15062,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -15071,7 +15071,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -15080,7 +15080,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -15089,7 +15089,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -15098,7 +15098,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -15107,7 +15107,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -15134,7 +15134,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -15152,7 +15152,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -15161,7 +15161,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -15170,7 +15170,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -15179,7 +15179,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -15188,7 +15188,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -15197,7 +15197,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -15215,7 +15215,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -15224,7 +15224,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -15251,7 +15251,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -15260,7 +15260,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -15278,7 +15278,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -15287,7 +15287,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -15305,7 +15305,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -15314,7 +15314,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -15323,7 +15323,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -15341,7 +15341,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -15350,7 +15350,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -15359,7 +15359,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -15386,7 +15386,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -15404,7 +15404,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -15413,7 +15413,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -15422,7 +15422,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -15431,7 +15431,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -15440,7 +15440,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -15449,7 +15449,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -15467,7 +15467,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -15485,7 +15485,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -15512,7 +15512,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -15521,7 +15521,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -15530,7 +15530,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -15548,7 +15548,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -15602,7 +15602,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -15611,7 +15611,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -15620,7 +15620,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -15629,7 +15629,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -15638,7 +15638,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -15647,7 +15647,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -15665,7 +15665,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -15674,7 +15674,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -15683,7 +15683,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -15692,7 +15692,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -15701,7 +15701,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -15710,7 +15710,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -15719,7 +15719,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -15728,7 +15728,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -15737,7 +15737,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -15791,7 +15791,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -15800,7 +15800,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -15809,7 +15809,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -15818,7 +15818,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -15827,7 +15827,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -15854,7 +15854,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -15863,7 +15863,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -15881,7 +15881,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -15890,7 +15890,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -15899,7 +15899,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -15908,7 +15908,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -15917,7 +15917,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -15926,7 +15926,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -15935,7 +15935,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -15953,7 +15953,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -15971,7 +15971,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -15980,7 +15980,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -16007,7 +16007,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -16016,7 +16016,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -16034,7 +16034,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -16052,7 +16052,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -16070,7 +16070,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -16088,7 +16088,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -16097,7 +16097,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -16133,7 +16133,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -16142,7 +16142,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -16151,7 +16151,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -16169,7 +16169,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -16178,7 +16178,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -16187,7 +16187,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -16205,7 +16205,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -16223,7 +16223,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -16232,7 +16232,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -16241,7 +16241,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -16250,7 +16250,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -16259,7 +16259,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -16313,7 +16313,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -16322,7 +16322,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -16331,7 +16331,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -16340,7 +16340,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -16349,7 +16349,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -16358,7 +16358,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -16367,7 +16367,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -16376,7 +16376,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -16385,7 +16385,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -16394,7 +16394,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -16403,7 +16403,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -16412,7 +16412,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -16421,7 +16421,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -16430,7 +16430,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -16475,7 +16475,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -16484,7 +16484,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -16493,7 +16493,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -16502,7 +16502,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -16511,7 +16511,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -16520,7 +16520,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -16529,7 +16529,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -16556,7 +16556,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -16574,7 +16574,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -16583,7 +16583,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -16592,7 +16592,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -16601,7 +16601,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -16610,7 +16610,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -16637,7 +16637,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -16655,7 +16655,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -16673,7 +16673,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -16700,7 +16700,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -16709,7 +16709,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -16718,7 +16718,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -16727,7 +16727,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -16736,7 +16736,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -16763,7 +16763,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -16772,7 +16772,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -16799,7 +16799,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -16808,7 +16808,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -16826,7 +16826,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -16844,7 +16844,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -16853,7 +16853,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -16862,7 +16862,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -16871,7 +16871,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -16880,7 +16880,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -16889,7 +16889,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -16907,7 +16907,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -16925,7 +16925,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -16934,7 +16934,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -16943,7 +16943,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -16952,7 +16952,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -16961,7 +16961,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -17024,7 +17024,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -17033,7 +17033,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -17042,7 +17042,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -17051,7 +17051,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -17060,7 +17060,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -17069,7 +17069,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -17078,7 +17078,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -17087,7 +17087,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -17096,7 +17096,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -17105,7 +17105,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -17114,7 +17114,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -17123,7 +17123,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -17132,7 +17132,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -17141,7 +17141,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -17168,7 +17168,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -17177,7 +17177,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -17186,7 +17186,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -17195,7 +17195,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -17204,7 +17204,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -17213,7 +17213,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -17222,7 +17222,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -17258,7 +17258,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -17276,7 +17276,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -17285,7 +17285,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -17294,7 +17294,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -17303,7 +17303,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -17321,7 +17321,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -17339,7 +17339,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -17348,7 +17348,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -17375,7 +17375,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -17384,7 +17384,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -17393,7 +17393,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -17411,7 +17411,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -17420,7 +17420,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -17429,7 +17429,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -17438,7 +17438,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -17447,7 +17447,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -17456,7 +17456,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -17474,7 +17474,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -17492,7 +17492,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -17501,7 +17501,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -17519,7 +17519,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -17537,7 +17537,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -17555,7 +17555,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -17582,7 +17582,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -17591,7 +17591,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -17609,7 +17609,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -17627,7 +17627,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -17672,7 +17672,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -17681,7 +17681,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -17690,7 +17690,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -17699,7 +17699,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -17708,7 +17708,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -17717,7 +17717,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -17735,7 +17735,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -17744,7 +17744,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -17753,7 +17753,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -17762,7 +17762,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -17771,7 +17771,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -17780,7 +17780,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -17789,7 +17789,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -17798,7 +17798,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -17807,7 +17807,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -17861,7 +17861,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -17870,7 +17870,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -17879,7 +17879,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -17888,7 +17888,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -17897,7 +17897,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -17924,7 +17924,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -17942,7 +17942,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -17960,7 +17960,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -17969,7 +17969,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -17978,7 +17978,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -17987,7 +17987,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -17996,7 +17996,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -18005,7 +18005,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -18014,7 +18014,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -18059,7 +18059,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -18068,7 +18068,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -18095,7 +18095,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -18104,7 +18104,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -18131,7 +18131,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -18140,7 +18140,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -18158,7 +18158,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -18185,7 +18185,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -18194,7 +18194,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -18203,7 +18203,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -18221,7 +18221,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -18230,7 +18230,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -18248,7 +18248,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -18257,7 +18257,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -18266,7 +18266,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -18275,7 +18275,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -18293,7 +18293,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -18302,7 +18302,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -18311,7 +18311,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -18320,7 +18320,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -18329,7 +18329,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -18383,7 +18383,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -18392,7 +18392,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -18401,7 +18401,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -18410,7 +18410,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -18419,7 +18419,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -18437,7 +18437,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -18446,7 +18446,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -18455,7 +18455,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -18464,7 +18464,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -18473,7 +18473,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -18482,7 +18482,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -18491,7 +18491,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -18500,7 +18500,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -18509,7 +18509,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -18563,7 +18563,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -18572,7 +18572,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -18581,7 +18581,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -18590,7 +18590,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -18599,7 +18599,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -18608,7 +18608,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -18617,7 +18617,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -18635,7 +18635,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -18653,7 +18653,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -18662,7 +18662,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -18671,7 +18671,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -18680,7 +18680,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -18689,7 +18689,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -18698,7 +18698,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -18716,7 +18716,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -18725,7 +18725,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -18770,7 +18770,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -18779,7 +18779,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -18788,7 +18788,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -18806,7 +18806,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -18815,7 +18815,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -18824,7 +18824,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -18842,7 +18842,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -18851,7 +18851,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -18878,7 +18878,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -18887,7 +18887,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -18896,7 +18896,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -18905,7 +18905,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -18923,7 +18923,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -18941,7 +18941,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -18950,7 +18950,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -18977,7 +18977,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -18995,7 +18995,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -19004,7 +19004,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -19013,7 +19013,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -19031,7 +19031,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -19040,7 +19040,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -19121,7 +19121,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -19130,7 +19130,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -19139,7 +19139,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -19148,7 +19148,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -19157,7 +19157,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -19166,7 +19166,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -19184,7 +19184,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -19193,7 +19193,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -19202,7 +19202,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -19211,7 +19211,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -19220,7 +19220,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -19229,7 +19229,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -19238,7 +19238,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -19247,7 +19247,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -19256,7 +19256,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -19319,7 +19319,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -19328,7 +19328,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -19337,7 +19337,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -19346,7 +19346,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -19355,7 +19355,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -19364,7 +19364,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -19373,7 +19373,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -19400,7 +19400,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -19418,7 +19418,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -19427,7 +19427,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -19436,7 +19436,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -19445,7 +19445,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -19454,7 +19454,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -19490,7 +19490,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -19508,7 +19508,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -19535,7 +19535,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -19544,7 +19544,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -19553,7 +19553,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -19562,7 +19562,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -19571,7 +19571,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -19589,7 +19589,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -19616,7 +19616,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -19634,7 +19634,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -19643,7 +19643,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -19652,7 +19652,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -19661,7 +19661,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -19670,7 +19670,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -19688,7 +19688,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -19697,7 +19697,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -19706,7 +19706,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -19724,7 +19724,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -19742,7 +19742,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -19751,7 +19751,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -19760,7 +19760,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -19769,7 +19769,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -19832,7 +19832,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -19841,7 +19841,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -19850,7 +19850,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -19859,7 +19859,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -19868,7 +19868,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -19886,7 +19886,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -19895,7 +19895,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -19904,7 +19904,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -19913,7 +19913,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -19922,7 +19922,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -19931,7 +19931,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -19940,7 +19940,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -19949,7 +19949,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -19958,7 +19958,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -20012,7 +20012,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -20021,7 +20021,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -20030,7 +20030,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -20039,7 +20039,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -20048,7 +20048,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -20057,7 +20057,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -20066,7 +20066,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -20093,7 +20093,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -20111,7 +20111,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -20120,7 +20120,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -20129,7 +20129,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -20138,7 +20138,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -20147,7 +20147,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -20156,7 +20156,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -20174,7 +20174,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -20183,7 +20183,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -20210,7 +20210,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -20219,7 +20219,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -20237,7 +20237,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -20246,7 +20246,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -20264,7 +20264,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -20273,7 +20273,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -20282,7 +20282,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -20300,7 +20300,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -20309,7 +20309,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -20318,7 +20318,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -20345,7 +20345,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -20363,7 +20363,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -20372,7 +20372,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -20381,7 +20381,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -20390,7 +20390,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -20399,7 +20399,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -20408,7 +20408,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -20426,7 +20426,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -20444,7 +20444,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -20471,7 +20471,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -20480,7 +20480,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -20489,7 +20489,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -20507,7 +20507,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -20561,7 +20561,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -20570,7 +20570,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -20579,7 +20579,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -20588,7 +20588,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -20597,7 +20597,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -20606,7 +20606,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -20624,7 +20624,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -20633,7 +20633,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -20642,7 +20642,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -20651,7 +20651,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -20660,7 +20660,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -20669,7 +20669,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -20678,7 +20678,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -20687,7 +20687,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -20696,7 +20696,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -20750,7 +20750,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -20759,7 +20759,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -20768,7 +20768,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -20777,7 +20777,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -20786,7 +20786,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -20813,7 +20813,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -20822,7 +20822,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -20840,7 +20840,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -20849,7 +20849,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -20858,7 +20858,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -20867,7 +20867,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -20876,7 +20876,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -20885,7 +20885,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -20894,7 +20894,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -20912,7 +20912,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -20930,7 +20930,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -20939,7 +20939,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -20966,7 +20966,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -20975,7 +20975,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -20984,7 +20984,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -21002,7 +21002,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -21020,7 +21020,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -21038,7 +21038,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -21047,7 +21047,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -21083,7 +21083,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -21092,7 +21092,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -21110,7 +21110,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -21128,7 +21128,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -21137,7 +21137,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -21146,7 +21146,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -21164,7 +21164,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -21182,7 +21182,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -21191,7 +21191,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -21200,7 +21200,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -21209,7 +21209,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -21218,7 +21218,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -21272,7 +21272,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -21281,7 +21281,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -21290,7 +21290,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -21299,7 +21299,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -21308,7 +21308,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -21317,7 +21317,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -21326,7 +21326,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -21335,7 +21335,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -21344,7 +21344,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -21353,7 +21353,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -21362,7 +21362,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -21371,7 +21371,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -21380,7 +21380,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -21389,7 +21389,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -21434,7 +21434,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -21443,7 +21443,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -21452,7 +21452,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -21461,7 +21461,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -21470,7 +21470,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -21479,7 +21479,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -21488,7 +21488,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -21515,7 +21515,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -21533,7 +21533,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -21542,7 +21542,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -21551,7 +21551,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -21560,7 +21560,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -21569,7 +21569,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -21596,7 +21596,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -21614,7 +21614,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -21632,7 +21632,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -21659,7 +21659,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -21668,7 +21668,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -21677,7 +21677,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -21686,7 +21686,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -21695,7 +21695,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -21722,7 +21722,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -21731,7 +21731,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -21758,7 +21758,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -21767,7 +21767,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -21785,7 +21785,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -21803,7 +21803,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -21812,7 +21812,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -21821,7 +21821,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -21830,7 +21830,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -21839,7 +21839,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -21848,7 +21848,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -21866,7 +21866,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -21884,7 +21884,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -21893,7 +21893,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -21902,7 +21902,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -21911,7 +21911,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -21920,7 +21920,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -21983,7 +21983,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -21992,7 +21992,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -22001,7 +22001,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -22010,7 +22010,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -22019,7 +22019,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -22028,7 +22028,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -22037,7 +22037,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -22046,7 +22046,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -22055,7 +22055,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -22064,7 +22064,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -22073,7 +22073,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -22082,7 +22082,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -22091,7 +22091,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -22100,7 +22100,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -22127,7 +22127,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -22136,7 +22136,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -22145,7 +22145,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -22154,7 +22154,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -22163,7 +22163,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -22172,7 +22172,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -22181,7 +22181,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -22217,7 +22217,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -22235,7 +22235,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -22244,7 +22244,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -22253,7 +22253,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -22262,7 +22262,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -22280,7 +22280,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -22298,7 +22298,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -22307,7 +22307,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -22334,7 +22334,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -22343,7 +22343,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -22352,7 +22352,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -22370,7 +22370,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -22379,7 +22379,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -22388,7 +22388,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -22397,7 +22397,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -22406,7 +22406,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -22415,7 +22415,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -22433,7 +22433,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -22451,7 +22451,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -22460,7 +22460,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -22478,7 +22478,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -22496,7 +22496,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -22514,7 +22514,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -22541,7 +22541,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -22550,7 +22550,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -22568,7 +22568,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -22586,7 +22586,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -22631,7 +22631,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -22640,7 +22640,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -22649,7 +22649,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -22658,7 +22658,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -22667,7 +22667,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -22676,7 +22676,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -22694,7 +22694,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -22703,7 +22703,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -22712,7 +22712,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -22721,7 +22721,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -22730,7 +22730,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -22739,7 +22739,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -22748,7 +22748,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -22757,7 +22757,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -22766,7 +22766,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -22820,7 +22820,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -22829,7 +22829,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -22838,7 +22838,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -22847,7 +22847,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -22856,7 +22856,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -22883,7 +22883,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -22901,7 +22901,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -22919,7 +22919,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -22928,7 +22928,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -22937,7 +22937,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -22946,7 +22946,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -22955,7 +22955,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -22964,7 +22964,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -22973,7 +22973,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -23018,7 +23018,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -23027,7 +23027,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -23054,7 +23054,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -23063,7 +23063,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -23090,7 +23090,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -23099,7 +23099,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -23108,7 +23108,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -23135,7 +23135,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -23144,7 +23144,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -23153,7 +23153,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -23171,7 +23171,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -23180,7 +23180,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -23198,7 +23198,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -23207,7 +23207,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -23216,7 +23216,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -23225,7 +23225,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -23243,7 +23243,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -23252,7 +23252,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -23261,7 +23261,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -23270,7 +23270,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -23279,7 +23279,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -23333,7 +23333,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -23342,7 +23342,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -23351,7 +23351,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -23360,7 +23360,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -23369,7 +23369,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -23387,7 +23387,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -23396,7 +23396,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -23405,7 +23405,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -23414,7 +23414,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -23423,7 +23423,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -23432,7 +23432,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -23441,7 +23441,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -23450,7 +23450,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -23459,7 +23459,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -23513,7 +23513,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -23522,7 +23522,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -23531,7 +23531,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -23540,7 +23540,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -23549,7 +23549,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -23558,7 +23558,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -23567,7 +23567,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -23585,7 +23585,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -23603,7 +23603,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -23612,7 +23612,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -23621,7 +23621,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -23630,7 +23630,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -23639,7 +23639,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -23648,7 +23648,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -23666,7 +23666,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -23675,7 +23675,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -23720,7 +23720,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -23729,7 +23729,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -23738,7 +23738,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -23756,7 +23756,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -23765,7 +23765,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -23774,7 +23774,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -23792,7 +23792,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -23801,7 +23801,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -23828,7 +23828,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -23837,7 +23837,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -23846,7 +23846,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -23855,7 +23855,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -23873,7 +23873,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -23891,7 +23891,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -23900,7 +23900,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -23927,7 +23927,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -23945,7 +23945,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -23954,7 +23954,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -23963,7 +23963,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -23981,7 +23981,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -23990,7 +23990,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -24071,7 +24071,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -24080,7 +24080,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -24089,7 +24089,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -24098,7 +24098,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -24107,7 +24107,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -24116,7 +24116,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -24134,7 +24134,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -24143,7 +24143,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -24152,7 +24152,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -24161,7 +24161,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -24170,7 +24170,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -24179,7 +24179,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -24188,7 +24188,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -24197,7 +24197,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -24206,7 +24206,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -24269,7 +24269,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -24278,7 +24278,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -24287,7 +24287,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -24296,7 +24296,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -24305,7 +24305,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -24314,7 +24314,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -24323,7 +24323,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -24350,7 +24350,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -24368,7 +24368,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -24377,7 +24377,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -24386,7 +24386,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -24395,7 +24395,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -24404,7 +24404,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -24440,7 +24440,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -24458,7 +24458,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -24485,7 +24485,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -24494,7 +24494,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -24503,7 +24503,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -24512,7 +24512,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -24521,7 +24521,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -24539,7 +24539,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -24566,7 +24566,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -24584,7 +24584,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -24593,7 +24593,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -24602,7 +24602,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -24611,7 +24611,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -24620,7 +24620,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -24638,7 +24638,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -24647,7 +24647,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -24656,7 +24656,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -24674,7 +24674,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -24692,7 +24692,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -24701,7 +24701,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -24710,7 +24710,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -24719,7 +24719,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -24782,7 +24782,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -24791,7 +24791,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -24800,7 +24800,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -24809,7 +24809,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -24818,7 +24818,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -24836,7 +24836,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -24845,7 +24845,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -24854,7 +24854,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -24863,7 +24863,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -24872,7 +24872,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -24881,7 +24881,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -24890,7 +24890,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -24899,7 +24899,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -24908,7 +24908,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -24962,7 +24962,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -24971,7 +24971,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -24980,7 +24980,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -24989,7 +24989,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -24998,7 +24998,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -25007,7 +25007,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -25016,7 +25016,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -25043,7 +25043,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -25061,7 +25061,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -25070,7 +25070,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -25079,7 +25079,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -25088,7 +25088,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -25097,7 +25097,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -25106,7 +25106,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -25124,7 +25124,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -25133,7 +25133,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -25160,7 +25160,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -25169,7 +25169,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -25187,7 +25187,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -25196,7 +25196,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -25214,7 +25214,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -25223,7 +25223,7 @@
   "Time": "1555",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -25241,7 +25241,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -25250,7 +25250,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -25268,7 +25268,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -25277,7 +25277,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -25286,7 +25286,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -25313,7 +25313,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -25331,7 +25331,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -25340,7 +25340,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -25349,7 +25349,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -25358,7 +25358,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -25367,7 +25367,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -25376,7 +25376,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -25394,7 +25394,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -25412,7 +25412,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -25439,7 +25439,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -25448,7 +25448,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -25457,7 +25457,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -25475,7 +25475,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -25529,7 +25529,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -25538,7 +25538,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -25547,7 +25547,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -25556,7 +25556,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -25565,7 +25565,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -25574,7 +25574,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -25592,7 +25592,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -25601,7 +25601,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -25610,7 +25610,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -25619,7 +25619,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -25628,7 +25628,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -25637,7 +25637,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -25646,7 +25646,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -25655,7 +25655,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -25664,7 +25664,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -25718,7 +25718,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -25727,7 +25727,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -25736,7 +25736,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -25745,7 +25745,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -25754,7 +25754,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -25781,7 +25781,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -25790,7 +25790,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -25808,7 +25808,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -25817,7 +25817,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -25826,7 +25826,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -25835,7 +25835,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -25844,7 +25844,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -25853,7 +25853,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -25862,7 +25862,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -25880,7 +25880,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -25898,7 +25898,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -25907,7 +25907,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -25934,7 +25934,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -25943,7 +25943,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -25952,7 +25952,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -25970,7 +25970,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -25988,7 +25988,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -26006,7 +26006,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -26015,7 +26015,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -26051,7 +26051,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -26060,7 +26060,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -26078,7 +26078,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -26096,7 +26096,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -26105,7 +26105,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -26114,7 +26114,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -26132,7 +26132,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -26150,7 +26150,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -26159,7 +26159,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -26168,7 +26168,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -26177,7 +26177,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -26186,7 +26186,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -26240,7 +26240,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -26249,7 +26249,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -26258,7 +26258,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -26267,7 +26267,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -26276,7 +26276,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -26285,7 +26285,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -26294,7 +26294,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -26303,7 +26303,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -26312,7 +26312,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -26321,7 +26321,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -26330,7 +26330,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -26339,7 +26339,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -26348,7 +26348,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -26357,7 +26357,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -26402,7 +26402,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -26411,7 +26411,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -26420,7 +26420,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -26429,7 +26429,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -26438,7 +26438,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -26447,7 +26447,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -26456,7 +26456,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -26483,7 +26483,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -26501,7 +26501,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -26510,7 +26510,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -26519,7 +26519,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -26528,7 +26528,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -26537,7 +26537,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -26564,7 +26564,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -26582,7 +26582,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -26600,7 +26600,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -26627,7 +26627,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -26636,7 +26636,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -26645,7 +26645,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -26654,7 +26654,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -26663,7 +26663,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -26690,7 +26690,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -26699,7 +26699,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -26726,7 +26726,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -26735,7 +26735,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -26753,7 +26753,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -26771,7 +26771,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -26780,7 +26780,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -26789,7 +26789,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -26798,7 +26798,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -26807,7 +26807,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -26816,7 +26816,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -26834,7 +26834,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -26852,7 +26852,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -26861,7 +26861,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -26870,7 +26870,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -26879,7 +26879,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -26888,7 +26888,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -26951,7 +26951,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -26960,7 +26960,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -26969,7 +26969,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -26978,7 +26978,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -26987,7 +26987,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -26996,7 +26996,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -27005,7 +27005,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -27014,7 +27014,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -27023,7 +27023,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -27032,7 +27032,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -27041,7 +27041,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -27050,7 +27050,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -27059,7 +27059,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -27068,7 +27068,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -27095,7 +27095,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -27104,7 +27104,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -27113,7 +27113,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -27122,7 +27122,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -27131,7 +27131,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -27140,7 +27140,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -27149,7 +27149,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -27185,7 +27185,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -27203,7 +27203,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -27212,7 +27212,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -27221,7 +27221,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -27230,7 +27230,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -27248,7 +27248,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -27266,7 +27266,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -27275,7 +27275,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -27302,7 +27302,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -27311,7 +27311,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -27320,7 +27320,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -27338,7 +27338,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -27347,7 +27347,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -27356,7 +27356,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -27365,7 +27365,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -27374,7 +27374,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -27383,7 +27383,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -27401,7 +27401,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -27419,7 +27419,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -27428,7 +27428,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -27446,7 +27446,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -27464,7 +27464,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -27482,7 +27482,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -27509,7 +27509,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -27518,7 +27518,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -27536,7 +27536,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -27554,7 +27554,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -27599,7 +27599,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -27608,7 +27608,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -27617,7 +27617,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -27626,7 +27626,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -27635,7 +27635,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -27644,7 +27644,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -27662,7 +27662,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -27671,7 +27671,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -27680,7 +27680,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -27689,7 +27689,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -27698,7 +27698,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -27707,7 +27707,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -27716,7 +27716,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -27725,7 +27725,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -27734,7 +27734,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -27788,7 +27788,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -27797,7 +27797,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -27806,7 +27806,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -27815,7 +27815,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -27824,7 +27824,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -27851,7 +27851,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -27869,7 +27869,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -27887,7 +27887,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -27896,7 +27896,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -27905,7 +27905,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -27914,7 +27914,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -27923,7 +27923,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -27932,7 +27932,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -27941,7 +27941,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -27986,7 +27986,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -27995,7 +27995,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -28022,7 +28022,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -28031,7 +28031,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -28049,7 +28049,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -28058,7 +28058,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -28076,7 +28076,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -28103,7 +28103,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -28112,7 +28112,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -28130,7 +28130,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -28148,7 +28148,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -28157,7 +28157,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -28175,7 +28175,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -28184,7 +28184,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -28193,7 +28193,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -28202,7 +28202,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -28220,7 +28220,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -28229,7 +28229,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -28238,7 +28238,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -28247,7 +28247,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -28256,7 +28256,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -28310,7 +28310,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -28319,7 +28319,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -28328,7 +28328,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -28337,7 +28337,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -28346,7 +28346,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -28364,7 +28364,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -28373,7 +28373,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -28382,7 +28382,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -28391,7 +28391,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -28400,7 +28400,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -28409,7 +28409,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -28418,7 +28418,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -28427,7 +28427,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -28436,7 +28436,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -28490,7 +28490,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -28499,7 +28499,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -28508,7 +28508,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -28517,7 +28517,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -28526,7 +28526,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -28535,7 +28535,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -28544,7 +28544,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -28562,7 +28562,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -28580,7 +28580,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -28589,7 +28589,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -28598,7 +28598,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -28607,7 +28607,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -28616,7 +28616,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -28625,7 +28625,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -28643,7 +28643,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -28652,7 +28652,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -28697,7 +28697,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -28706,7 +28706,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -28715,7 +28715,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -28733,7 +28733,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -28742,7 +28742,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -28751,7 +28751,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -28769,7 +28769,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -28778,7 +28778,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -28805,7 +28805,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -28814,7 +28814,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -28823,7 +28823,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -28832,7 +28832,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -28850,7 +28850,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -28868,7 +28868,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -28877,7 +28877,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -28904,7 +28904,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -28922,7 +28922,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -28931,7 +28931,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -28940,7 +28940,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -28958,7 +28958,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -28967,7 +28967,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -29048,7 +29048,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -29057,7 +29057,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -29066,7 +29066,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -29075,7 +29075,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -29084,7 +29084,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -29093,7 +29093,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -29111,7 +29111,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -29120,7 +29120,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -29129,7 +29129,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -29138,7 +29138,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -29147,7 +29147,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -29156,7 +29156,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -29165,7 +29165,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -29174,7 +29174,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -29183,7 +29183,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -29246,7 +29246,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -29255,7 +29255,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -29264,7 +29264,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -29273,7 +29273,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -29282,7 +29282,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -29291,7 +29291,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -29300,7 +29300,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -29327,7 +29327,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -29345,7 +29345,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -29354,7 +29354,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -29363,7 +29363,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -29372,7 +29372,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -29381,7 +29381,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -29417,7 +29417,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -29435,7 +29435,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -29462,7 +29462,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -29471,7 +29471,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -29480,7 +29480,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -29489,7 +29489,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -29498,7 +29498,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -29516,7 +29516,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -29543,7 +29543,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -29561,7 +29561,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -29570,7 +29570,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -29579,7 +29579,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -29588,7 +29588,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -29597,7 +29597,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -29615,7 +29615,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -29624,7 +29624,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -29633,7 +29633,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -29651,7 +29651,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -29669,7 +29669,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -29678,7 +29678,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -29687,7 +29687,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -29696,7 +29696,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -29759,7 +29759,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -29768,7 +29768,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -29777,7 +29777,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -29786,7 +29786,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -29795,7 +29795,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -29813,7 +29813,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -29822,7 +29822,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -29831,7 +29831,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -29840,7 +29840,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -29849,7 +29849,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -29858,7 +29858,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -29867,7 +29867,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -29876,7 +29876,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -29885,7 +29885,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -29939,7 +29939,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -29948,7 +29948,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -29957,7 +29957,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -29966,7 +29966,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -29975,7 +29975,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -29984,7 +29984,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -29993,7 +29993,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -30020,7 +30020,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -30038,7 +30038,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -30047,7 +30047,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -30056,7 +30056,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -30065,7 +30065,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -30074,7 +30074,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -30083,7 +30083,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -30101,7 +30101,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -30110,7 +30110,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -30137,7 +30137,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -30146,7 +30146,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -30164,7 +30164,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -30173,7 +30173,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -30191,7 +30191,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -30200,7 +30200,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -30209,7 +30209,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -30227,7 +30227,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -30236,7 +30236,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -30245,7 +30245,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -30272,7 +30272,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -30290,7 +30290,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -30299,7 +30299,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -30308,7 +30308,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -30317,7 +30317,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -30326,7 +30326,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -30335,7 +30335,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -30353,7 +30353,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -30371,7 +30371,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -30398,7 +30398,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -30407,7 +30407,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -30416,7 +30416,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -30434,7 +30434,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -30488,7 +30488,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -30497,7 +30497,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -30506,7 +30506,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -30515,7 +30515,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -30524,7 +30524,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -30533,7 +30533,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -30551,7 +30551,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -30560,7 +30560,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -30569,7 +30569,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -30578,7 +30578,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -30587,7 +30587,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -30596,7 +30596,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -30605,7 +30605,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -30614,7 +30614,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -30623,7 +30623,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -30677,7 +30677,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -30686,7 +30686,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -30695,7 +30695,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -30704,7 +30704,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -30713,7 +30713,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -30740,7 +30740,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -30749,7 +30749,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -30767,7 +30767,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -30776,7 +30776,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -30785,7 +30785,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -30794,7 +30794,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -30803,7 +30803,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -30812,7 +30812,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -30821,7 +30821,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -30839,7 +30839,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -30857,7 +30857,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -30866,7 +30866,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -30893,7 +30893,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -30902,7 +30902,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -30911,7 +30911,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -30929,7 +30929,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -30947,7 +30947,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -30965,7 +30965,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -30974,7 +30974,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -31010,7 +31010,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -31019,7 +31019,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -31037,7 +31037,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -31055,7 +31055,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -31064,7 +31064,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -31073,7 +31073,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -31091,7 +31091,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -31109,7 +31109,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -31118,7 +31118,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -31127,7 +31127,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -31136,7 +31136,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -31145,7 +31145,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -31199,7 +31199,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -31208,7 +31208,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -31217,7 +31217,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -31226,7 +31226,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -31235,7 +31235,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -31244,7 +31244,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -31253,7 +31253,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -31262,7 +31262,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -31271,7 +31271,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -31280,7 +31280,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -31289,7 +31289,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -31298,7 +31298,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -31307,7 +31307,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -31316,7 +31316,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -31361,7 +31361,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -31370,7 +31370,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -31379,7 +31379,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -31388,7 +31388,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -31397,7 +31397,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -31406,7 +31406,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -31415,7 +31415,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -31442,7 +31442,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -31460,7 +31460,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -31469,7 +31469,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -31478,7 +31478,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -31487,7 +31487,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -31496,7 +31496,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -31523,7 +31523,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -31541,7 +31541,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -31559,7 +31559,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -31586,7 +31586,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -31595,7 +31595,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -31604,7 +31604,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -31613,7 +31613,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -31622,7 +31622,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -31631,7 +31631,7 @@
   "Time": "1555",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -31658,7 +31658,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -31667,7 +31667,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -31694,7 +31694,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -31703,7 +31703,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -31721,7 +31721,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -31739,7 +31739,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -31748,7 +31748,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -31757,7 +31757,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -31766,7 +31766,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -31775,7 +31775,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -31784,7 +31784,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -31802,7 +31802,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -31820,7 +31820,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -31829,7 +31829,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -31838,7 +31838,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -31847,7 +31847,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -31856,7 +31856,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -31919,7 +31919,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -31928,7 +31928,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -31937,7 +31937,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -31946,7 +31946,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -31955,7 +31955,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -31964,7 +31964,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -31973,7 +31973,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -31982,7 +31982,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -31991,7 +31991,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -32000,7 +32000,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -32009,7 +32009,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -32018,7 +32018,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -32027,7 +32027,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -32036,7 +32036,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -32063,7 +32063,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -32072,7 +32072,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -32081,7 +32081,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -32090,7 +32090,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -32099,7 +32099,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -32108,7 +32108,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -32117,7 +32117,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -32153,7 +32153,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -32171,7 +32171,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -32180,7 +32180,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -32189,7 +32189,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -32198,7 +32198,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -32216,7 +32216,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -32234,7 +32234,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -32243,7 +32243,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -32270,7 +32270,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -32279,7 +32279,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -32288,7 +32288,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -32306,7 +32306,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -32315,7 +32315,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -32324,7 +32324,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -32333,7 +32333,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -32342,7 +32342,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -32351,7 +32351,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -32369,7 +32369,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -32387,7 +32387,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -32396,7 +32396,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -32414,7 +32414,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -32432,7 +32432,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -32450,7 +32450,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -32477,7 +32477,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -32486,7 +32486,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -32504,7 +32504,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -32522,7 +32522,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -32567,7 +32567,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -32576,7 +32576,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -32585,7 +32585,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -32594,7 +32594,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -32603,7 +32603,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -32612,7 +32612,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -32630,7 +32630,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -32639,7 +32639,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -32648,7 +32648,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -32657,7 +32657,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -32666,7 +32666,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -32675,7 +32675,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -32684,7 +32684,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -32693,7 +32693,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -32702,7 +32702,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -32756,7 +32756,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -32765,7 +32765,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -32774,7 +32774,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -32783,7 +32783,7 @@
   "Time": "1030",
   "Flight": "2B353",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -32792,7 +32792,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -32801,7 +32801,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -32828,7 +32828,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -32846,7 +32846,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -32864,7 +32864,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -32873,7 +32873,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -32882,7 +32882,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -32891,7 +32891,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -32900,7 +32900,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -32909,7 +32909,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -32918,7 +32918,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -32963,7 +32963,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -32972,7 +32972,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -32999,7 +32999,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -33008,7 +33008,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -33026,7 +33026,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -33035,7 +33035,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -33053,7 +33053,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -33080,7 +33080,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -33089,7 +33089,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -33107,7 +33107,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -33125,7 +33125,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -33134,7 +33134,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -33152,7 +33152,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -33161,7 +33161,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -33170,7 +33170,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -33179,7 +33179,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -33197,7 +33197,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -33206,7 +33206,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -33215,7 +33215,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -33224,7 +33224,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -33233,7 +33233,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -33287,7 +33287,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -33296,7 +33296,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -33305,7 +33305,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -33314,7 +33314,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -33323,7 +33323,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -33341,7 +33341,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -33350,7 +33350,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -33359,7 +33359,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -33368,7 +33368,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -33377,7 +33377,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -33386,7 +33386,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -33395,7 +33395,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -33404,7 +33404,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -33413,7 +33413,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -33467,7 +33467,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -33476,7 +33476,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -33485,7 +33485,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -33494,7 +33494,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -33503,7 +33503,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -33512,7 +33512,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -33521,7 +33521,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -33539,7 +33539,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -33557,7 +33557,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -33566,7 +33566,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -33575,7 +33575,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -33584,7 +33584,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -33593,7 +33593,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -33602,7 +33602,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -33620,7 +33620,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -33629,7 +33629,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -33674,7 +33674,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -33683,7 +33683,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -33692,7 +33692,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -33710,7 +33710,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -33728,7 +33728,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -33737,7 +33737,7 @@
   "Time": "1630",
   "Flight": "2B241",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -33746,7 +33746,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -33764,7 +33764,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -33773,7 +33773,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -33800,7 +33800,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -33809,7 +33809,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -33818,7 +33818,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -33827,7 +33827,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -33845,7 +33845,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -33863,7 +33863,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -33872,7 +33872,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -33899,7 +33899,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -33917,7 +33917,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -33926,7 +33926,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -33935,7 +33935,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -33953,7 +33953,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -33962,7 +33962,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -34043,7 +34043,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -34052,7 +34052,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -34061,7 +34061,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -34070,7 +34070,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -34079,7 +34079,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -34088,7 +34088,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -34106,7 +34106,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -34115,7 +34115,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -34124,7 +34124,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -34133,7 +34133,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -34142,7 +34142,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -34151,7 +34151,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -34160,7 +34160,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -34169,7 +34169,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -34178,7 +34178,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -34241,7 +34241,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -34250,7 +34250,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -34259,7 +34259,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -34268,7 +34268,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -34277,7 +34277,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -34286,7 +34286,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -34295,7 +34295,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -34322,7 +34322,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -34340,7 +34340,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -34349,7 +34349,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -34358,7 +34358,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -34367,7 +34367,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -34376,7 +34376,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -34412,7 +34412,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -34430,7 +34430,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -34457,7 +34457,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -34466,7 +34466,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -34475,7 +34475,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -34484,7 +34484,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -34493,7 +34493,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -34511,7 +34511,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -34538,7 +34538,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -34556,7 +34556,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -34565,7 +34565,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -34574,7 +34574,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -34583,7 +34583,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -34592,7 +34592,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -34610,7 +34610,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -34619,7 +34619,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -34628,7 +34628,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -34646,7 +34646,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -34664,7 +34664,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -34673,7 +34673,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -34682,7 +34682,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -34691,7 +34691,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -34754,7 +34754,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -34763,7 +34763,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -34772,7 +34772,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -34781,7 +34781,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -34790,7 +34790,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -34808,7 +34808,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -34817,7 +34817,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -34826,7 +34826,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -34835,7 +34835,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -34844,7 +34844,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -34853,7 +34853,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -34862,7 +34862,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -34871,7 +34871,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -34880,7 +34880,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -34934,7 +34934,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -34943,7 +34943,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -34952,7 +34952,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -34961,7 +34961,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -34970,7 +34970,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -34979,7 +34979,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -34988,7 +34988,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -35015,7 +35015,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -35033,7 +35033,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -35042,7 +35042,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -35051,7 +35051,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -35060,7 +35060,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -35069,7 +35069,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -35078,7 +35078,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -35096,7 +35096,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -35105,7 +35105,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -35132,7 +35132,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -35141,7 +35141,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -35159,7 +35159,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -35168,7 +35168,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -35186,7 +35186,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -35195,7 +35195,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -35204,7 +35204,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -35222,7 +35222,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -35231,7 +35231,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -35240,7 +35240,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -35267,7 +35267,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -35285,7 +35285,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -35294,7 +35294,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -35303,7 +35303,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -35312,7 +35312,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -35321,7 +35321,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -35330,7 +35330,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -35348,7 +35348,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -35366,7 +35366,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -35393,7 +35393,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -35402,7 +35402,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -35411,7 +35411,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -35429,7 +35429,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -35483,7 +35483,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -35492,7 +35492,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -35501,7 +35501,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -35510,7 +35510,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -35519,7 +35519,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -35528,7 +35528,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -35546,7 +35546,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -35555,7 +35555,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -35564,7 +35564,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -35573,7 +35573,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -35582,7 +35582,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -35591,7 +35591,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -35600,7 +35600,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -35609,7 +35609,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -35618,7 +35618,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -35672,7 +35672,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -35681,7 +35681,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -35690,7 +35690,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -35699,7 +35699,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -35708,7 +35708,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -35735,7 +35735,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -35744,7 +35744,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -35762,7 +35762,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -35771,7 +35771,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -35780,7 +35780,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -35789,7 +35789,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -35798,7 +35798,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -35807,7 +35807,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -35816,7 +35816,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -35834,7 +35834,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -35852,7 +35852,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -35861,7 +35861,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -35888,7 +35888,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -35897,7 +35897,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -35906,7 +35906,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -35924,7 +35924,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -35942,7 +35942,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -35960,7 +35960,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -35969,7 +35969,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -36005,7 +36005,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -36014,7 +36014,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -36032,7 +36032,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -36050,7 +36050,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -36059,7 +36059,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -36068,7 +36068,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -36086,7 +36086,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -36104,7 +36104,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -36113,7 +36113,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -36122,7 +36122,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -36131,7 +36131,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -36140,7 +36140,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -36194,7 +36194,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -36203,7 +36203,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -36212,7 +36212,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -36221,7 +36221,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -36230,7 +36230,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -36239,7 +36239,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -36248,7 +36248,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -36257,7 +36257,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -36266,7 +36266,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -36275,7 +36275,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -36284,7 +36284,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -36293,7 +36293,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -36302,7 +36302,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -36311,7 +36311,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -36356,7 +36356,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -36365,7 +36365,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -36374,7 +36374,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -36383,7 +36383,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -36392,7 +36392,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -36401,7 +36401,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -36410,7 +36410,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -36437,7 +36437,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -36455,7 +36455,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -36464,7 +36464,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -36473,7 +36473,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -36482,7 +36482,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -36491,7 +36491,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -36518,7 +36518,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -36536,7 +36536,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -36554,7 +36554,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -36581,7 +36581,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -36590,7 +36590,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -36599,7 +36599,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -36608,7 +36608,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -36617,7 +36617,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -36644,7 +36644,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -36653,7 +36653,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -36680,7 +36680,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -36689,7 +36689,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -36707,7 +36707,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -36725,7 +36725,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -36734,7 +36734,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -36743,7 +36743,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -36752,7 +36752,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -36761,7 +36761,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -36770,7 +36770,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -36788,7 +36788,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -36806,7 +36806,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -36815,7 +36815,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -36824,7 +36824,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -36833,7 +36833,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -36842,7 +36842,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -36905,7 +36905,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -36914,7 +36914,7 @@
   "Time": "500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -36923,7 +36923,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -36932,7 +36932,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -36941,7 +36941,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -36950,7 +36950,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -36959,7 +36959,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -36968,7 +36968,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -36977,7 +36977,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -36986,7 +36986,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -36995,7 +36995,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -37004,7 +37004,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -37013,7 +37013,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -37022,7 +37022,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -37049,7 +37049,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -37058,7 +37058,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -37067,7 +37067,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -37076,7 +37076,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -37085,7 +37085,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -37094,7 +37094,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -37103,7 +37103,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -37139,7 +37139,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -37157,7 +37157,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -37166,7 +37166,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -37175,7 +37175,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -37184,7 +37184,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -37202,7 +37202,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -37220,7 +37220,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -37229,7 +37229,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -37256,7 +37256,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -37265,7 +37265,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -37274,7 +37274,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -37292,7 +37292,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -37301,7 +37301,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -37310,7 +37310,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -37319,7 +37319,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -37328,7 +37328,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -37337,7 +37337,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -37355,7 +37355,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -37373,7 +37373,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -37382,7 +37382,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -37400,7 +37400,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -37418,7 +37418,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -37436,7 +37436,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -37463,7 +37463,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -37472,7 +37472,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -37490,7 +37490,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -37508,7 +37508,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -37553,7 +37553,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -37562,7 +37562,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -37571,7 +37571,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -37580,7 +37580,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -37589,7 +37589,7 @@
   "Time": "520",
   "Flight": "W46327",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)"
  },
@@ -37598,7 +37598,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -37616,7 +37616,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -37625,7 +37625,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -37634,7 +37634,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -37643,7 +37643,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -37652,7 +37652,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -37661,7 +37661,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -37670,7 +37670,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -37679,7 +37679,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -37688,7 +37688,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -37742,7 +37742,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -37751,7 +37751,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -37760,7 +37760,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -37769,7 +37769,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -37778,7 +37778,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -37805,7 +37805,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -37823,7 +37823,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -37841,7 +37841,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -37850,7 +37850,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -37859,7 +37859,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -37868,7 +37868,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -37877,7 +37877,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -37886,7 +37886,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -37895,7 +37895,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -37940,7 +37940,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -37949,7 +37949,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -37976,7 +37976,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -37985,7 +37985,7 @@
   "Time": "1455",
   "Flight": "W44815",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PMO",
   "DestName": "PMO (Palermo Falcone-Borsellino - Italy)"
  },
@@ -38003,7 +38003,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -38012,7 +38012,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -38030,7 +38030,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -38057,7 +38057,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -38066,7 +38066,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -38075,7 +38075,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -38093,7 +38093,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -38111,7 +38111,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -38129,7 +38129,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -38138,7 +38138,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -38147,7 +38147,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -38156,7 +38156,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -38174,7 +38174,7 @@
   "Time": "1925",
   "Flight": "W46354",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)"
  },
@@ -38183,7 +38183,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -38192,7 +38192,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -38201,7 +38201,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -38210,7 +38210,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -38219,7 +38219,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -38273,7 +38273,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -38282,7 +38282,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -38291,7 +38291,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -38300,7 +38300,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -38309,7 +38309,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -38327,7 +38327,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -38336,7 +38336,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -38345,7 +38345,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -38354,7 +38354,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -38363,7 +38363,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -38372,7 +38372,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -38381,7 +38381,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -38390,7 +38390,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -38399,7 +38399,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -38444,7 +38444,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -38453,7 +38453,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -38462,7 +38462,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -38471,7 +38471,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -38480,7 +38480,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -38489,7 +38489,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -38498,7 +38498,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -38516,7 +38516,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -38534,7 +38534,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -38543,7 +38543,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -38552,7 +38552,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -38561,7 +38561,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -38570,7 +38570,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -38579,7 +38579,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -38597,7 +38597,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -38606,7 +38606,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -38651,7 +38651,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -38660,7 +38660,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -38678,7 +38678,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -38687,7 +38687,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -38696,7 +38696,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -38714,7 +38714,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -38723,7 +38723,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -38750,7 +38750,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -38759,7 +38759,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -38768,7 +38768,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -38777,7 +38777,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -38795,7 +38795,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -38813,7 +38813,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -38822,7 +38822,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -38849,7 +38849,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -38867,7 +38867,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -38876,7 +38876,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -38885,7 +38885,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -38903,7 +38903,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -38912,7 +38912,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -38993,7 +38993,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -39002,7 +39002,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -39011,7 +39011,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -39020,7 +39020,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -39029,7 +39029,7 @@
   "Time": "520",
   "Flight": "W46327",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)"
  },
@@ -39038,7 +39038,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -39056,7 +39056,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -39065,7 +39065,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -39074,7 +39074,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -39083,7 +39083,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -39092,7 +39092,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -39101,7 +39101,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -39110,7 +39110,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -39119,7 +39119,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -39128,7 +39128,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -39182,7 +39182,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -39191,7 +39191,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -39200,7 +39200,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -39209,7 +39209,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -39218,7 +39218,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -39227,7 +39227,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -39236,7 +39236,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -39263,7 +39263,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -39281,7 +39281,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -39290,7 +39290,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -39299,7 +39299,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -39308,7 +39308,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -39317,7 +39317,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -39353,7 +39353,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -39371,7 +39371,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -39398,7 +39398,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -39407,7 +39407,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -39416,7 +39416,7 @@
   "Time": "1455",
   "Flight": "W44815",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PMO",
   "DestName": "PMO (Palermo Falcone-Borsellino - Italy)"
  },
@@ -39425,7 +39425,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -39434,7 +39434,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -39443,7 +39443,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -39470,7 +39470,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -39488,7 +39488,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -39497,7 +39497,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -39506,7 +39506,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -39515,7 +39515,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -39524,7 +39524,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -39542,7 +39542,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -39551,7 +39551,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -39560,7 +39560,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -39578,7 +39578,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -39596,7 +39596,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -39605,7 +39605,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -39614,7 +39614,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -39623,7 +39623,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -39686,7 +39686,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -39695,7 +39695,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -39704,7 +39704,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -39713,7 +39713,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -39722,7 +39722,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -39740,7 +39740,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -39749,7 +39749,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -39758,7 +39758,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -39767,7 +39767,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -39776,7 +39776,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -39785,7 +39785,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -39794,7 +39794,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -39803,7 +39803,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -39812,7 +39812,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -39857,7 +39857,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -39866,7 +39866,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -39875,7 +39875,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -39884,7 +39884,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -39893,7 +39893,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -39902,7 +39902,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -39920,7 +39920,7 @@
   "Time": "1100",
   "Flight": "2B233",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -39938,7 +39938,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -39956,7 +39956,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -39965,7 +39965,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -39974,7 +39974,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -39983,7 +39983,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -39992,7 +39992,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -40001,7 +40001,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -40019,7 +40019,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -40028,7 +40028,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -40055,7 +40055,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -40064,7 +40064,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -40082,7 +40082,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -40091,7 +40091,7 @@
   "Time": "1555",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -40100,7 +40100,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -40109,7 +40109,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -40127,7 +40127,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -40136,7 +40136,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -40163,7 +40163,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -40181,7 +40181,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -40190,7 +40190,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -40199,7 +40199,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -40208,7 +40208,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -40217,7 +40217,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -40244,7 +40244,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -40271,7 +40271,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -40280,7 +40280,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -40289,7 +40289,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -40352,7 +40352,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -40361,7 +40361,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -40370,7 +40370,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -40379,7 +40379,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -40388,7 +40388,7 @@
   "Time": "520",
   "Flight": "W46327",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)"
  },
@@ -40397,7 +40397,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -40415,7 +40415,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -40424,7 +40424,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -40433,7 +40433,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -40442,7 +40442,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -40451,7 +40451,7 @@
   "Time": "555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -40460,7 +40460,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -40469,7 +40469,7 @@
   "Time": "625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -40478,7 +40478,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -40487,7 +40487,7 @@
   "Time": "710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -40532,7 +40532,7 @@
   "Time": "930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -40541,7 +40541,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -40550,7 +40550,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -40559,7 +40559,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -40586,7 +40586,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -40595,7 +40595,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -40613,7 +40613,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -40622,7 +40622,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -40631,7 +40631,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -40640,7 +40640,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -40649,7 +40649,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -40658,7 +40658,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -40667,7 +40667,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -40694,7 +40694,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -40703,7 +40703,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -40730,7 +40730,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -40739,7 +40739,7 @@
   "Time": "1455",
   "Flight": "W44815",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PMO",
   "DestName": "PMO (Palermo Falcone-Borsellino - Italy)"
  },
@@ -40748,7 +40748,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -40766,7 +40766,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -40784,7 +40784,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -40802,7 +40802,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -40811,7 +40811,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -40847,7 +40847,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -40856,7 +40856,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -40874,7 +40874,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -40883,7 +40883,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -40892,7 +40892,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -40901,7 +40901,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -40919,7 +40919,7 @@
   "Time": "1925",
   "Flight": "W46354",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)"
  },
@@ -40928,7 +40928,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -40937,7 +40937,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -40946,7 +40946,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -40955,7 +40955,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -40964,7 +40964,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -41009,7 +41009,7 @@
   "Time": "500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -41018,7 +41018,7 @@
   "Time": "500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -41027,7 +41027,7 @@
   "Time": "510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -41036,7 +41036,7 @@
   "Time": "510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -41045,7 +41045,7 @@
   "Time": "520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -41054,7 +41054,7 @@
   "Time": "550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -41063,7 +41063,7 @@
   "Time": "550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -41072,7 +41072,7 @@
   "Time": "555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -41081,7 +41081,7 @@
   "Time": "555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -41090,7 +41090,7 @@
   "Time": "610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -41099,7 +41099,7 @@
   "Time": "630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -41135,7 +41135,7 @@
   "Time": "930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -41144,7 +41144,7 @@
   "Time": "935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -41153,7 +41153,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -41162,7 +41162,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -41171,7 +41171,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -41180,7 +41180,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -41189,7 +41189,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -41207,7 +41207,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -41216,7 +41216,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -41225,7 +41225,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -41234,7 +41234,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -41261,7 +41261,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -41279,7 +41279,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -41315,7 +41315,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -41324,7 +41324,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -41333,7 +41333,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -41360,7 +41360,7 @@
   "Time": "1625",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -41378,7 +41378,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -41387,7 +41387,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -41405,7 +41405,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -41423,7 +41423,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -41432,7 +41432,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -41441,7 +41441,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -41450,7 +41450,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -41468,7 +41468,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -41486,7 +41486,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -41495,7 +41495,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -41504,7 +41504,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -41513,7 +41513,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -41522,7 +41522,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -41576,7 +41576,7 @@
   "Time": "0500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -41585,7 +41585,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -41594,7 +41594,7 @@
   "Time": "0505",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -41603,7 +41603,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -41621,7 +41621,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -41630,7 +41630,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -41639,7 +41639,7 @@
   "Time": "0550",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -41648,7 +41648,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -41657,7 +41657,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -41675,7 +41675,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -41738,7 +41738,7 @@
   "Time": "0930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -41747,7 +41747,7 @@
   "Time": "0935",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -41756,7 +41756,7 @@
   "Time": "1015",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -41765,7 +41765,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -41774,7 +41774,7 @@
   "Time": "1020",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -41792,7 +41792,7 @@
   "Time": "1100",
   "Flight": "2B195",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -41801,7 +41801,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -41828,7 +41828,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -41837,7 +41837,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -41846,7 +41846,7 @@
   "Time": "1140",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -41864,7 +41864,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -41882,7 +41882,7 @@
   "Time": "1235",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -41909,7 +41909,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -41918,7 +41918,7 @@
   "Time": "1350",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -41954,7 +41954,7 @@
   "Time": "1450",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -41972,7 +41972,7 @@
   "Time": "1535",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -41981,7 +41981,7 @@
   "Time": "1600",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -42026,7 +42026,7 @@
   "Time": "1645",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -42035,7 +42035,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -42044,7 +42044,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -42062,7 +42062,7 @@
   "Time": "1700",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -42071,7 +42071,7 @@
   "Time": "1710",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -42089,7 +42089,7 @@
   "Time": "1835",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -42098,7 +42098,7 @@
   "Time": "1845",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -42116,7 +42116,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -42134,7 +42134,7 @@
   "Time": "1900",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -42143,7 +42143,7 @@
   "Time": "1905",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -42170,7 +42170,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -42179,7 +42179,7 @@
   "Time": "2005",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -42233,7 +42233,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -42260,7 +42260,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -42269,7 +42269,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -42278,7 +42278,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -42305,7 +42305,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -42314,7 +42314,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -42323,7 +42323,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -42332,7 +42332,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -42341,7 +42341,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -42350,7 +42350,7 @@
   "Time": "0620",
   "Flight": "2B267",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "FLR",
   "DestName": "FLR (Florence Peretola - Italy)"
  },
@@ -42359,7 +42359,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -42368,7 +42368,7 @@
   "Time": "0630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -42431,7 +42431,7 @@
   "Time": "0940",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -42440,7 +42440,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -42449,7 +42449,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -42458,7 +42458,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -42467,7 +42467,7 @@
   "Time": "1025",
   "Flight": "W46661",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -42476,7 +42476,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -42485,7 +42485,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -42494,7 +42494,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -42512,7 +42512,7 @@
   "Time": "1130",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -42521,7 +42521,7 @@
   "Time": "1130",
   "Flight": "2B233",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -42539,7 +42539,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -42548,7 +42548,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -42557,7 +42557,7 @@
   "Time": "1155",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -42575,7 +42575,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -42602,7 +42602,7 @@
   "Time": "1315",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -42656,7 +42656,7 @@
   "Time": "1415",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -42665,7 +42665,7 @@
   "Time": "1425",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -42674,7 +42674,7 @@
   "Time": "1425",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -42701,7 +42701,7 @@
   "Time": "1550",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -42710,7 +42710,7 @@
   "Time": "1600",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -42719,7 +42719,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -42728,7 +42728,7 @@
   "Time": "1630",
   "Flight": "2B241",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -42737,7 +42737,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -42755,7 +42755,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -42773,7 +42773,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -42791,7 +42791,7 @@
   "Time": "1740",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -42800,7 +42800,7 @@
   "Time": "1745",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -42809,7 +42809,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -42827,7 +42827,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -42863,7 +42863,7 @@
   "Time": "1850",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -42890,7 +42890,7 @@
   "Time": "1900",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -42917,7 +42917,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -42926,7 +42926,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -42935,7 +42935,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -42962,7 +42962,7 @@
   "Time": "2055",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -43025,7 +43025,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -43034,7 +43034,7 @@
   "Time": "0500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -43052,7 +43052,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -43061,7 +43061,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -43070,7 +43070,7 @@
   "Time": "0520",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -43088,7 +43088,7 @@
   "Time": "0530",
   "Flight": "2B331",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -43097,7 +43097,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -43115,7 +43115,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -43124,7 +43124,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -43142,7 +43142,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -43205,7 +43205,7 @@
   "Time": "0930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -43223,7 +43223,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -43241,7 +43241,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -43259,7 +43259,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -43268,7 +43268,7 @@
   "Time": "1035",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -43295,7 +43295,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -43313,7 +43313,7 @@
   "Time": "1130",
   "Flight": "2B273",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -43322,7 +43322,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -43331,7 +43331,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -43340,7 +43340,7 @@
   "Time": "1155",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -43349,7 +43349,7 @@
   "Time": "1200",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -43394,7 +43394,7 @@
   "Time": "1310",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -43403,7 +43403,7 @@
   "Time": "1350",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -43439,7 +43439,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -43466,7 +43466,7 @@
   "Time": "1530",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -43475,7 +43475,7 @@
   "Time": "1540",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -43493,7 +43493,7 @@
   "Time": "1600",
   "Flight": "2B235",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -43502,7 +43502,7 @@
   "Time": "1610",
   "Flight": "2B231",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -43511,7 +43511,7 @@
   "Time": "1620",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -43529,7 +43529,7 @@
   "Time": "1650",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -43556,7 +43556,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -43565,7 +43565,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -43583,7 +43583,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -43592,7 +43592,7 @@
   "Time": "1845",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -43610,7 +43610,7 @@
   "Time": "1850",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -43664,7 +43664,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -43673,7 +43673,7 @@
   "Time": "2005",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -43682,7 +43682,7 @@
   "Time": "2005",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -43691,7 +43691,7 @@
   "Time": "2020",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -43754,7 +43754,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -43763,7 +43763,7 @@
   "Time": "0500",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -43781,7 +43781,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -43790,7 +43790,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -43799,7 +43799,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -43826,7 +43826,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -43835,7 +43835,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -43844,7 +43844,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -43871,7 +43871,7 @@
   "Time": "0620",
   "Flight": "2B267",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "FLR",
   "DestName": "FLR (Florence Peretola - Italy)"
  },
@@ -43880,7 +43880,7 @@
   "Time": "0700",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -43889,7 +43889,7 @@
   "Time": "0710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -43934,7 +43934,7 @@
   "Time": "0840",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -43970,7 +43970,7 @@
   "Time": "0935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -43979,7 +43979,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -43988,7 +43988,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -43997,7 +43997,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -44006,7 +44006,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -44015,7 +44015,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -44042,7 +44042,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -44060,7 +44060,7 @@
   "Time": "1130",
   "Flight": "2B233",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -44069,7 +44069,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -44078,7 +44078,7 @@
   "Time": "1130",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -44087,7 +44087,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -44096,7 +44096,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -44114,7 +44114,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -44186,7 +44186,7 @@
   "Time": "1400",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -44195,7 +44195,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -44204,7 +44204,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -44222,7 +44222,7 @@
   "Time": "1425",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -44231,7 +44231,7 @@
   "Time": "1430",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -44258,7 +44258,7 @@
   "Time": "1515",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -44276,7 +44276,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -44285,7 +44285,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -44294,7 +44294,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -44339,7 +44339,7 @@
   "Time": "1755",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -44348,7 +44348,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -44357,7 +44357,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -44375,7 +44375,7 @@
   "Time": "1855",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -44402,7 +44402,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -44420,7 +44420,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -44429,7 +44429,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -44447,7 +44447,7 @@
   "Time": "2000",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -44510,7 +44510,7 @@
   "Time": "0500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -44519,7 +44519,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -44528,7 +44528,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -44537,7 +44537,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -44573,7 +44573,7 @@
   "Time": "0530",
   "Flight": "2B331",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -44582,7 +44582,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -44591,7 +44591,7 @@
   "Time": "0550",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -44600,7 +44600,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -44618,7 +44618,7 @@
   "Time": "0610",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -44627,7 +44627,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -44636,7 +44636,7 @@
   "Time": "0630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -44654,7 +44654,7 @@
   "Time": "0720",
   "Flight": "W46116",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -44708,7 +44708,7 @@
   "Time": "0930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -44717,7 +44717,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -44726,7 +44726,7 @@
   "Time": "1015",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -44735,7 +44735,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -44744,7 +44744,7 @@
   "Time": "1020",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -44771,7 +44771,7 @@
   "Time": "1100",
   "Flight": "2B195",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -44780,7 +44780,7 @@
   "Time": "1100",
   "Flight": "2B229",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -44807,7 +44807,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -44825,7 +44825,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -44834,7 +44834,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -44852,7 +44852,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -44861,7 +44861,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -44870,7 +44870,7 @@
   "Time": "1210",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -44906,7 +44906,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -44915,7 +44915,7 @@
   "Time": "1350",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -44951,7 +44951,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -44960,7 +44960,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -44969,7 +44969,7 @@
   "Time": "1555",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -44978,7 +44978,7 @@
   "Time": "1600",
   "Flight": "2B235",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -44996,7 +44996,7 @@
   "Time": "1610",
   "Flight": "2B231",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -45005,7 +45005,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -45050,7 +45050,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -45059,7 +45059,7 @@
   "Time": "1710",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -45095,7 +45095,7 @@
   "Time": "1750",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -45122,7 +45122,7 @@
   "Time": "1835",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -45131,7 +45131,7 @@
   "Time": "1845",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -45158,7 +45158,7 @@
   "Time": "1855",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -45167,7 +45167,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -45176,7 +45176,7 @@
   "Time": "1905",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -45203,7 +45203,7 @@
   "Time": "1950",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -45212,7 +45212,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -45248,7 +45248,7 @@
   "Time": "0500",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -45275,7 +45275,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -45293,7 +45293,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -45320,7 +45320,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -45329,7 +45329,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -45338,7 +45338,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -45347,7 +45347,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -45356,7 +45356,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -45365,7 +45365,7 @@
   "Time": "0620",
   "Flight": "2B267",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "FLR",
   "DestName": "FLR (Florence Peretola - Italy)"
  },
@@ -45374,7 +45374,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -45383,7 +45383,7 @@
   "Time": "0715",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -45410,7 +45410,7 @@
   "Time": "0725",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -45455,7 +45455,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -45464,7 +45464,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -45473,7 +45473,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -45482,7 +45482,7 @@
   "Time": "1025",
   "Flight": "W46661",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -45491,7 +45491,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -45500,7 +45500,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -45509,7 +45509,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -45527,7 +45527,7 @@
   "Time": "1130",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -45536,7 +45536,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -45545,7 +45545,7 @@
   "Time": "1140",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -45554,7 +45554,7 @@
   "Time": "1150",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -45581,7 +45581,7 @@
   "Time": "1205",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -45590,7 +45590,7 @@
   "Time": "1210",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -45608,7 +45608,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -45617,7 +45617,7 @@
   "Time": "1310",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -45635,7 +45635,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -45671,7 +45671,7 @@
   "Time": "1410",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -45689,7 +45689,7 @@
   "Time": "1425",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -45698,7 +45698,7 @@
   "Time": "1425",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -45725,7 +45725,7 @@
   "Time": "1515",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -45752,7 +45752,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -45761,7 +45761,7 @@
   "Time": "1630",
   "Flight": "2B241",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -45770,7 +45770,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -45788,7 +45788,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -45806,7 +45806,7 @@
   "Time": "1735",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -45815,7 +45815,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -45851,7 +45851,7 @@
   "Time": "1850",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -45860,7 +45860,7 @@
   "Time": "1850",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -45887,7 +45887,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -45896,7 +45896,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -45905,7 +45905,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -45914,7 +45914,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -45923,7 +45923,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -45977,7 +45977,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -45986,7 +45986,7 @@
   "Time": "0500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -45995,7 +45995,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -46004,7 +46004,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -46013,7 +46013,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -46022,7 +46022,7 @@
   "Time": "0520",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -46049,7 +46049,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -46067,7 +46067,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -46076,7 +46076,7 @@
   "Time": "0600",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -46085,7 +46085,7 @@
   "Time": "0605",
   "Flight": "W62234",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
  },
@@ -46103,7 +46103,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -46112,7 +46112,7 @@
   "Time": "0630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -46121,7 +46121,7 @@
   "Time": "0700",
   "Flight": "2B273",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -46166,7 +46166,7 @@
   "Time": "0930",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -46175,7 +46175,7 @@
   "Time": "0955",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -46184,7 +46184,7 @@
   "Time": "1005",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -46193,7 +46193,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -46202,7 +46202,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -46211,7 +46211,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -46220,7 +46220,7 @@
   "Time": "1035",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -46274,7 +46274,7 @@
   "Time": "1130",
   "Flight": "2B233",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -46283,7 +46283,7 @@
   "Time": "1130",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -46292,7 +46292,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -46301,7 +46301,7 @@
   "Time": "1150",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -46319,7 +46319,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -46328,7 +46328,7 @@
   "Time": "1300",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -46346,7 +46346,7 @@
   "Time": "1310",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -46364,7 +46364,7 @@
   "Time": "1345",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -46391,7 +46391,7 @@
   "Time": "1415",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -46400,7 +46400,7 @@
   "Time": "1440",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -46409,7 +46409,7 @@
   "Time": "1505",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -46418,7 +46418,7 @@
   "Time": "1515",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -46454,7 +46454,7 @@
   "Time": "1610",
   "Flight": "2B231",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -46463,7 +46463,7 @@
   "Time": "1620",
   "Flight": "2B235",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -46481,7 +46481,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -46490,7 +46490,7 @@
   "Time": "1720",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -46508,7 +46508,7 @@
   "Time": "1755",
   "Flight": "W43883",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -46526,7 +46526,7 @@
   "Time": "1845",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -46535,7 +46535,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -46562,7 +46562,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -46571,7 +46571,7 @@
   "Time": "1915",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -46589,7 +46589,7 @@
   "Time": "1940",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -46598,7 +46598,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -46607,7 +46607,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -46634,7 +46634,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -46670,7 +46670,7 @@
   "Time": "2235",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -46706,7 +46706,7 @@
   "Time": "0500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -46724,7 +46724,7 @@
   "Time": "0505",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -46733,7 +46733,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -46742,7 +46742,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -46751,7 +46751,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -46760,7 +46760,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -46769,7 +46769,7 @@
   "Time": "0550",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -46787,7 +46787,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -46796,7 +46796,7 @@
   "Time": "0600",
   "Flight": "2B229",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -46814,7 +46814,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -46823,7 +46823,7 @@
   "Time": "0720",
   "Flight": "W46116",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -46877,7 +46877,7 @@
   "Time": "0930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -46886,7 +46886,7 @@
   "Time": "0935",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -46895,7 +46895,7 @@
   "Time": "1015",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -46904,7 +46904,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -46913,7 +46913,7 @@
   "Time": "1020",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -46922,7 +46922,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -46931,7 +46931,7 @@
   "Time": "1100",
   "Flight": "2B195",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -46967,7 +46967,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -46976,7 +46976,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -46985,7 +46985,7 @@
   "Time": "1145",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -46994,7 +46994,7 @@
   "Time": "1150",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -47003,7 +47003,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -47039,7 +47039,7 @@
   "Time": "1235",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -47066,7 +47066,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -47075,7 +47075,7 @@
   "Time": "1350",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -47102,7 +47102,7 @@
   "Time": "1415",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -47111,7 +47111,7 @@
   "Time": "1450",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -47138,7 +47138,7 @@
   "Time": "1535",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -47147,7 +47147,7 @@
   "Time": "1600",
   "Flight": "2B235",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -47183,7 +47183,7 @@
   "Time": "1645",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -47192,7 +47192,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -47201,7 +47201,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -47210,7 +47210,7 @@
   "Time": "1700",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -47255,7 +47255,7 @@
   "Time": "1835",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -47273,7 +47273,7 @@
   "Time": "1845",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -47282,7 +47282,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -47291,7 +47291,7 @@
   "Time": "1855",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -47300,7 +47300,7 @@
   "Time": "1900",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -47309,7 +47309,7 @@
   "Time": "1905",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -47336,7 +47336,7 @@
   "Time": "1955",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -47390,7 +47390,7 @@
   "Time": "0500",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -47417,7 +47417,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -47435,7 +47435,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -47462,7 +47462,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -47471,7 +47471,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -47480,7 +47480,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -47489,7 +47489,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -47507,7 +47507,7 @@
   "Time": "0620",
   "Flight": "2B267",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "FLR",
   "DestName": "FLR (Florence Peretola - Italy)"
  },
@@ -47516,7 +47516,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -47525,7 +47525,7 @@
   "Time": "0630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -47588,7 +47588,7 @@
   "Time": "0940",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -47597,7 +47597,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -47606,7 +47606,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -47615,7 +47615,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -47633,7 +47633,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -47651,7 +47651,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -47669,7 +47669,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -47678,7 +47678,7 @@
   "Time": "1130",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -47687,7 +47687,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -47705,7 +47705,7 @@
   "Time": "1155",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -47714,7 +47714,7 @@
   "Time": "1210",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -47723,7 +47723,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -47750,7 +47750,7 @@
   "Time": "1315",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -47795,7 +47795,7 @@
   "Time": "1415",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -47813,7 +47813,7 @@
   "Time": "1425",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -47840,7 +47840,7 @@
   "Time": "1550",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -47867,7 +47867,7 @@
   "Time": "1630",
   "Flight": "2B241",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -47876,7 +47876,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -47894,7 +47894,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -47921,7 +47921,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -47930,7 +47930,7 @@
   "Time": "1740",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -47939,7 +47939,7 @@
   "Time": "1745",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -47948,7 +47948,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -47957,7 +47957,7 @@
   "Time": "1815",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -47984,7 +47984,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -48020,7 +48020,7 @@
   "Time": "1900",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -48047,7 +48047,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -48056,7 +48056,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -48065,7 +48065,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -48092,7 +48092,7 @@
   "Time": "2055",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -48146,7 +48146,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -48155,7 +48155,7 @@
   "Time": "0500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -48164,7 +48164,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -48209,7 +48209,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -48218,7 +48218,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -48227,7 +48227,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -48236,7 +48236,7 @@
   "Time": "0600",
   "Flight": "2B233",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -48245,7 +48245,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -48254,7 +48254,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -48317,7 +48317,7 @@
   "Time": "0930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -48335,7 +48335,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -48362,7 +48362,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -48380,7 +48380,7 @@
   "Time": "1035",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -48398,7 +48398,7 @@
   "Time": "1100",
   "Flight": "W43883",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -48416,7 +48416,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -48425,7 +48425,7 @@
   "Time": "1130",
   "Flight": "2B273",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -48443,7 +48443,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -48452,7 +48452,7 @@
   "Time": "1155",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -48461,7 +48461,7 @@
   "Time": "1200",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -48506,7 +48506,7 @@
   "Time": "1310",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -48524,7 +48524,7 @@
   "Time": "1350",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -48569,7 +48569,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -48587,7 +48587,7 @@
   "Time": "1525",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -48596,7 +48596,7 @@
   "Time": "1530",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -48623,7 +48623,7 @@
   "Time": "1600",
   "Flight": "2B235",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -48632,7 +48632,7 @@
   "Time": "1620",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -48659,7 +48659,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -48695,7 +48695,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -48704,7 +48704,7 @@
   "Time": "1845",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -48722,7 +48722,7 @@
   "Time": "1850",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -48767,7 +48767,7 @@
   "Time": "1945",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -48776,7 +48776,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -48785,7 +48785,7 @@
   "Time": "2005",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -48803,7 +48803,7 @@
   "Time": "2020",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -48812,7 +48812,7 @@
   "Time": "2040",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -48884,7 +48884,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -48902,7 +48902,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -48911,7 +48911,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -48938,7 +48938,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -48947,7 +48947,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -48974,7 +48974,7 @@
   "Time": "0610",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -48983,7 +48983,7 @@
   "Time": "0620",
   "Flight": "2B267",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "FLR",
   "DestName": "FLR (Florence Peretola - Italy)"
  },
@@ -48992,7 +48992,7 @@
   "Time": "0700",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -49001,7 +49001,7 @@
   "Time": "0710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -49055,7 +49055,7 @@
   "Time": "0930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -49064,7 +49064,7 @@
   "Time": "0935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -49073,7 +49073,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -49082,7 +49082,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -49100,7 +49100,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -49109,7 +49109,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -49118,7 +49118,7 @@
   "Time": "1040",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -49163,7 +49163,7 @@
   "Time": "1130",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -49172,7 +49172,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -49181,7 +49181,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -49199,7 +49199,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -49244,7 +49244,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -49271,7 +49271,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -49280,7 +49280,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -49307,7 +49307,7 @@
   "Time": "1430",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -49325,7 +49325,7 @@
   "Time": "1515",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -49334,7 +49334,7 @@
   "Time": "1515",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -49343,7 +49343,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -49361,7 +49361,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -49397,7 +49397,7 @@
   "Time": "1755",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -49415,7 +49415,7 @@
   "Time": "1800",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -49433,7 +49433,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -49442,7 +49442,7 @@
   "Time": "1850",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -49478,7 +49478,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -49496,7 +49496,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -49514,7 +49514,7 @@
   "Time": "2000",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -49568,7 +49568,7 @@
   "Time": "0500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -49577,7 +49577,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -49613,7 +49613,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -49640,7 +49640,7 @@
   "Time": "0550",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -49649,7 +49649,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -49658,7 +49658,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -49685,7 +49685,7 @@
   "Time": "0720",
   "Flight": "W46116",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -49721,7 +49721,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -49748,7 +49748,7 @@
   "Time": "1020",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -49775,7 +49775,7 @@
   "Time": "1100",
   "Flight": "2B195",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -49802,7 +49802,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -49829,7 +49829,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -49838,7 +49838,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -49847,7 +49847,7 @@
   "Time": "1210",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -49865,7 +49865,7 @@
   "Time": "1235",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -49874,7 +49874,7 @@
   "Time": "1300",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -49892,7 +49892,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -49955,7 +49955,7 @@
   "Time": "1555",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -49964,7 +49964,7 @@
   "Time": "1600",
   "Flight": "2B235",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -49982,7 +49982,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -50000,7 +50000,7 @@
   "Time": "1645",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -50009,7 +50009,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -50018,7 +50018,7 @@
   "Time": "1700",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -50081,7 +50081,7 @@
   "Time": "1855",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -50099,7 +50099,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -50117,7 +50117,7 @@
   "Time": "1905",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -50216,7 +50216,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -50243,7 +50243,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -50279,7 +50279,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -50288,7 +50288,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -50297,7 +50297,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -50306,7 +50306,7 @@
   "Time": "0600",
   "Flight": "ZB1003A",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -50315,7 +50315,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -50324,7 +50324,7 @@
   "Time": "0620",
   "Flight": "2B267",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "FLR",
   "DestName": "FLR (Florence Peretola - Italy)"
  },
@@ -50333,7 +50333,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -50342,7 +50342,7 @@
   "Time": "0715",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -50387,7 +50387,7 @@
   "Time": "0930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -50405,7 +50405,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -50423,7 +50423,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -50432,7 +50432,7 @@
   "Time": "1025",
   "Flight": "W46661",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -50441,7 +50441,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -50459,7 +50459,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -50486,7 +50486,7 @@
   "Time": "1150",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -50495,7 +50495,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -50504,7 +50504,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -50513,7 +50513,7 @@
   "Time": "1205",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -50531,7 +50531,7 @@
   "Time": "1210",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -50549,7 +50549,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -50567,7 +50567,7 @@
   "Time": "1320",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -50576,7 +50576,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -50603,7 +50603,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -50621,7 +50621,7 @@
   "Time": "1425",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -50648,7 +50648,7 @@
   "Time": "1515",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -50675,7 +50675,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -50684,7 +50684,7 @@
   "Time": "1630",
   "Flight": "2B241",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -50693,7 +50693,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -50711,7 +50711,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -50729,7 +50729,7 @@
   "Time": "1735",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -50738,7 +50738,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -50756,7 +50756,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -50783,7 +50783,7 @@
   "Time": "1850",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -50801,7 +50801,7 @@
   "Time": "1915",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -50819,7 +50819,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -50837,7 +50837,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -50846,7 +50846,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -50891,7 +50891,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -50900,7 +50900,7 @@
   "Time": "0500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -50918,7 +50918,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -50927,7 +50927,7 @@
   "Time": "0520",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -50936,7 +50936,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -50972,7 +50972,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -50981,7 +50981,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -50990,7 +50990,7 @@
   "Time": "0600",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -51008,7 +51008,7 @@
   "Time": "0610",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -51017,7 +51017,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -51026,7 +51026,7 @@
   "Time": "0700",
   "Flight": "2B273",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -51080,7 +51080,7 @@
   "Time": "0955",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -51089,7 +51089,7 @@
   "Time": "1005",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -51098,7 +51098,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -51125,7 +51125,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -51152,7 +51152,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -51179,7 +51179,7 @@
   "Time": "1130",
   "Flight": "2B225",
   "AirlineCode": "2B",
-  "Airline": "Ak Bars Aero",
+  "Airline": "Albawings",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -51188,7 +51188,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -51206,7 +51206,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -51215,7 +51215,7 @@
   "Time": "1300",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -51224,7 +51224,7 @@
   "Time": "1310",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -51251,7 +51251,7 @@
   "Time": "1345",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -51287,7 +51287,7 @@
   "Time": "1440",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -51296,7 +51296,7 @@
   "Time": "1505",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -51314,7 +51314,7 @@
   "Time": "1520",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -51332,7 +51332,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -51350,7 +51350,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -51368,7 +51368,7 @@
   "Time": "1755",
   "Flight": "W43883",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -51386,7 +51386,7 @@
   "Time": "1845",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -51395,7 +51395,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -51431,7 +51431,7 @@
   "Time": "1915",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -51449,7 +51449,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -51467,7 +51467,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -51485,7 +51485,7 @@
   "Time": "1950",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -51494,7 +51494,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -51530,7 +51530,7 @@
   "Time": "2235",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -51575,7 +51575,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -51593,7 +51593,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -51602,7 +51602,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -51611,7 +51611,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -51620,7 +51620,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -51629,7 +51629,7 @@
   "Time": "0550",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -51638,7 +51638,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -51647,7 +51647,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -51665,7 +51665,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -51674,7 +51674,7 @@
   "Time": "0720",
   "Flight": "W46116",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -51728,7 +51728,7 @@
   "Time": "0935",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -51737,7 +51737,7 @@
   "Time": "1015",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -51746,7 +51746,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -51755,7 +51755,7 @@
   "Time": "1020",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -51773,7 +51773,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -51782,7 +51782,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -51818,7 +51818,7 @@
   "Time": "1145",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -51827,7 +51827,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -51854,7 +51854,7 @@
   "Time": "1235",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -51872,7 +51872,7 @@
   "Time": "1300",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -51890,7 +51890,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -51926,7 +51926,7 @@
   "Time": "1415",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -51935,7 +51935,7 @@
   "Time": "1450",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -51953,7 +51953,7 @@
   "Time": "1535",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -51962,7 +51962,7 @@
   "Time": "1535",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -51998,7 +51998,7 @@
   "Time": "1645",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -52016,7 +52016,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -52025,7 +52025,7 @@
   "Time": "1700",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -52034,7 +52034,7 @@
   "Time": "1710",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -52070,7 +52070,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -52079,7 +52079,7 @@
   "Time": "1855",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -52088,7 +52088,7 @@
   "Time": "1900",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -52097,7 +52097,7 @@
   "Time": "1905",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -52124,7 +52124,7 @@
   "Time": "1955",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -52133,7 +52133,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -52178,7 +52178,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -52187,7 +52187,7 @@
   "Time": "0500",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -52196,7 +52196,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -52205,7 +52205,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -52214,7 +52214,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -52259,7 +52259,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -52268,7 +52268,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -52277,7 +52277,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -52286,7 +52286,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -52349,7 +52349,7 @@
   "Time": "0940",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -52358,7 +52358,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -52367,7 +52367,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -52376,7 +52376,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -52385,7 +52385,7 @@
   "Time": "1025",
   "Flight": "W46661",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -52403,7 +52403,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -52412,7 +52412,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -52430,7 +52430,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -52448,7 +52448,7 @@
   "Time": "1155",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -52457,7 +52457,7 @@
   "Time": "1155",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -52493,7 +52493,7 @@
   "Time": "1315",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -52511,7 +52511,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -52556,7 +52556,7 @@
   "Time": "1425",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -52565,7 +52565,7 @@
   "Time": "1425",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -52583,7 +52583,7 @@
   "Time": "1550",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -52601,7 +52601,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -52610,7 +52610,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -52637,7 +52637,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -52646,7 +52646,7 @@
   "Time": "1745",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -52655,7 +52655,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -52691,7 +52691,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -52700,7 +52700,7 @@
   "Time": "1850",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -52718,7 +52718,7 @@
   "Time": "1850",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -52727,7 +52727,7 @@
   "Time": "1900",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -52754,7 +52754,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -52772,7 +52772,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -52844,7 +52844,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -52862,7 +52862,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -52871,7 +52871,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -52880,7 +52880,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -52889,7 +52889,7 @@
   "Time": "0520",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -52898,7 +52898,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -52916,7 +52916,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -52943,7 +52943,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -53006,7 +53006,7 @@
   "Time": "1005",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -53015,7 +53015,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -53024,7 +53024,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -53033,7 +53033,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -53051,7 +53051,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -53087,7 +53087,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -53096,7 +53096,7 @@
   "Time": "1135",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -53114,7 +53114,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -53123,7 +53123,7 @@
   "Time": "1155",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -53132,7 +53132,7 @@
   "Time": "1200",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -53195,7 +53195,7 @@
   "Time": "1415",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -53213,7 +53213,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -53258,7 +53258,7 @@
   "Time": "1620",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -53276,7 +53276,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -53303,7 +53303,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -53312,7 +53312,7 @@
   "Time": "1800",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -53330,7 +53330,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -53366,7 +53366,7 @@
   "Time": "1855",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -53402,7 +53402,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -53483,7 +53483,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -53492,7 +53492,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -53510,7 +53510,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -53519,7 +53519,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -53528,7 +53528,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -53555,7 +53555,7 @@
   "Time": "0610",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -53564,7 +53564,7 @@
   "Time": "0700",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -53573,7 +53573,7 @@
   "Time": "0710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -53618,7 +53618,7 @@
   "Time": "0930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -53627,7 +53627,7 @@
   "Time": "0935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -53636,7 +53636,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -53645,7 +53645,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -53654,7 +53654,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -53663,7 +53663,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -53681,7 +53681,7 @@
   "Time": "1040",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -53726,7 +53726,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -53735,7 +53735,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -53789,7 +53789,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -53816,7 +53816,7 @@
   "Time": "1405",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -53825,7 +53825,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -53843,7 +53843,7 @@
   "Time": "1425",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -53879,7 +53879,7 @@
   "Time": "1515",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -53897,7 +53897,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -53960,7 +53960,7 @@
   "Time": "1755",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -53969,7 +53969,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -53987,7 +53987,7 @@
   "Time": "1850",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -53996,7 +53996,7 @@
   "Time": "1855",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -54023,7 +54023,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -54050,7 +54050,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -54068,7 +54068,7 @@
   "Time": "2020",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -54122,7 +54122,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -54140,7 +54140,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -54149,7 +54149,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -54185,7 +54185,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -54194,7 +54194,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -54212,7 +54212,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -54248,7 +54248,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -54257,7 +54257,7 @@
   "Time": "1015",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -54284,7 +54284,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -54320,7 +54320,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -54356,7 +54356,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -54365,7 +54365,7 @@
   "Time": "1210",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -54374,7 +54374,7 @@
   "Time": "1220",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -54410,7 +54410,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -54419,7 +54419,7 @@
   "Time": "1350",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -54446,7 +54446,7 @@
   "Time": "1420",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -54482,7 +54482,7 @@
   "Time": "1555",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -54500,7 +54500,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -54536,7 +54536,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -54599,7 +54599,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -54608,7 +54608,7 @@
   "Time": "1845",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -54626,7 +54626,7 @@
   "Time": "1855",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -54635,7 +54635,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -54644,7 +54644,7 @@
   "Time": "1905",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -54716,7 +54716,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -54725,7 +54725,7 @@
   "Time": "0500",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -54752,7 +54752,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -54806,7 +54806,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -54824,7 +54824,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -54887,7 +54887,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -54932,7 +54932,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -54941,7 +54941,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -54959,7 +54959,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -54968,7 +54968,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -54977,7 +54977,7 @@
   "Time": "1150",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -54986,7 +54986,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -54995,7 +54995,7 @@
   "Time": "1205",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -55058,7 +55058,7 @@
   "Time": "1410",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -55130,7 +55130,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -55157,7 +55157,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -55184,7 +55184,7 @@
   "Time": "1755",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -55211,7 +55211,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -55256,7 +55256,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -55265,7 +55265,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -55292,7 +55292,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -55346,7 +55346,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -55355,7 +55355,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -55409,7 +55409,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -55418,7 +55418,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -55445,7 +55445,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -55490,7 +55490,7 @@
   "Time": "0930",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -55508,7 +55508,7 @@
   "Time": "1005",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -55526,7 +55526,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -55571,7 +55571,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -55598,7 +55598,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -55616,7 +55616,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -55634,7 +55634,7 @@
   "Time": "1310",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -55643,7 +55643,7 @@
   "Time": "1310",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -55697,7 +55697,7 @@
   "Time": "1455",
   "Flight": "W43883",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -55706,7 +55706,7 @@
   "Time": "1505",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -55751,7 +55751,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -55760,7 +55760,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -55787,7 +55787,7 @@
   "Time": "1845",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -55832,7 +55832,7 @@
   "Time": "1915",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -55859,7 +55859,7 @@
   "Time": "1940",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -55868,7 +55868,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -55877,7 +55877,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -55940,7 +55940,7 @@
   "Time": "2255",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -55985,7 +55985,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -56021,7 +56021,7 @@
   "Time": "0525",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -56030,7 +56030,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -56039,7 +56039,7 @@
   "Time": "0555",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -56048,7 +56048,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -56066,7 +56066,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -56111,7 +56111,7 @@
   "Time": "0935",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -56129,7 +56129,7 @@
   "Time": "1015",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -56138,7 +56138,7 @@
   "Time": "1015",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -56165,7 +56165,7 @@
   "Time": "1050",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -56201,7 +56201,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -56210,7 +56210,7 @@
   "Time": "1155",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -56246,7 +56246,7 @@
   "Time": "1300",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -56264,7 +56264,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -56318,7 +56318,7 @@
   "Time": "1510",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -56336,7 +56336,7 @@
   "Time": "1545",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -56390,7 +56390,7 @@
   "Time": "1700",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -56417,7 +56417,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -56426,7 +56426,7 @@
   "Time": "1900",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -56462,7 +56462,7 @@
   "Time": "1930",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -56489,7 +56489,7 @@
   "Time": "2020",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -56498,7 +56498,7 @@
   "Time": "2025",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -56579,7 +56579,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -56588,7 +56588,7 @@
   "Time": "0520",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -56606,7 +56606,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -56615,7 +56615,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -56642,7 +56642,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -56651,7 +56651,7 @@
   "Time": "0650",
   "Flight": "W46116",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -56714,7 +56714,7 @@
   "Time": "0940",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -56732,7 +56732,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -56741,7 +56741,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -56759,7 +56759,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -56777,7 +56777,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -56786,7 +56786,7 @@
   "Time": "1110",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -56813,7 +56813,7 @@
   "Time": "1155",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -56822,7 +56822,7 @@
   "Time": "1210",
   "Flight": "W43883",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -56894,7 +56894,7 @@
   "Time": "1415",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -56912,7 +56912,7 @@
   "Time": "1425",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -56966,7 +56966,7 @@
   "Time": "1745",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -57029,7 +57029,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -57056,7 +57056,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -57092,7 +57092,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -57110,7 +57110,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -57128,7 +57128,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -57173,7 +57173,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -57254,7 +57254,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -57263,7 +57263,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -57308,7 +57308,7 @@
   "Time": "1135",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -57317,7 +57317,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -57326,7 +57326,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -57344,7 +57344,7 @@
   "Time": "1205",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -57452,7 +57452,7 @@
   "Time": "1525",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -57470,7 +57470,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -57515,7 +57515,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -57524,7 +57524,7 @@
   "Time": "1800",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -57542,7 +57542,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -57578,7 +57578,7 @@
   "Time": "1945",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -57605,7 +57605,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -57659,7 +57659,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -57668,7 +57668,7 @@
   "Time": "0505",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -57686,7 +57686,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -57749,7 +57749,7 @@
   "Time": "0700",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -57758,7 +57758,7 @@
   "Time": "0710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -57794,7 +57794,7 @@
   "Time": "0925",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -57803,7 +57803,7 @@
   "Time": "0935",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -57812,7 +57812,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -57848,7 +57848,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -57884,7 +57884,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -57893,7 +57893,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -57947,7 +57947,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -57992,7 +57992,7 @@
   "Time": "1420",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -58001,7 +58001,7 @@
   "Time": "1430",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -58010,7 +58010,7 @@
   "Time": "1430",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -58028,7 +58028,7 @@
   "Time": "1515",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -58046,7 +58046,7 @@
   "Time": "1610",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -58064,7 +58064,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -58100,7 +58100,7 @@
   "Time": "1835",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -58118,7 +58118,7 @@
   "Time": "1850",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -58127,7 +58127,7 @@
   "Time": "1850",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -58136,7 +58136,7 @@
   "Time": "1855",
   "Flight": "W46661",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -58163,7 +58163,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -58181,7 +58181,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -58190,7 +58190,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -58199,7 +58199,7 @@
   "Time": "2020",
   "Flight": "W46718",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VCE",
   "DestName": "VCE (Venice Marco Polo - Italy)"
  },
@@ -58244,7 +58244,7 @@
   "Time": "0500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -58262,7 +58262,7 @@
   "Time": "0510",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -58271,7 +58271,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -58280,7 +58280,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -58289,7 +58289,7 @@
   "Time": "0525",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -58298,7 +58298,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -58307,7 +58307,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -58316,7 +58316,7 @@
   "Time": "0555",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -58325,7 +58325,7 @@
   "Time": "0610",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -58334,7 +58334,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -58361,7 +58361,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -58370,7 +58370,7 @@
   "Time": "1015",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -58379,7 +58379,7 @@
   "Time": "1015",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -58388,7 +58388,7 @@
   "Time": "1020",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -58397,7 +58397,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -58406,7 +58406,7 @@
   "Time": "1040",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -58442,7 +58442,7 @@
   "Time": "1110",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -58460,7 +58460,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -58469,7 +58469,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -58478,7 +58478,7 @@
   "Time": "1210",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -58487,7 +58487,7 @@
   "Time": "1210",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -58505,7 +58505,7 @@
   "Time": "1220",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -58514,7 +58514,7 @@
   "Time": "1300",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -58532,7 +58532,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -58559,7 +58559,7 @@
   "Time": "1415",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -58577,7 +58577,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -58586,7 +58586,7 @@
   "Time": "1520",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -58595,7 +58595,7 @@
   "Time": "1545",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -58604,7 +58604,7 @@
   "Time": "1555",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -58631,7 +58631,7 @@
   "Time": "1620",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -58640,7 +58640,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -58658,7 +58658,7 @@
   "Time": "1700",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -58667,7 +58667,7 @@
   "Time": "1710",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -58721,7 +58721,7 @@
   "Time": "1855",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -58730,7 +58730,7 @@
   "Time": "1855",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -58739,7 +58739,7 @@
   "Time": "1905",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -58748,7 +58748,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -58775,7 +58775,7 @@
   "Time": "1950",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -58784,7 +58784,7 @@
   "Time": "2005",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -58793,7 +58793,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -58829,7 +58829,7 @@
   "Time": "0500",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -58838,7 +58838,7 @@
   "Time": "0500",
   "Flight": "W46617",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FKB",
   "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
@@ -58847,7 +58847,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -58856,7 +58856,7 @@
   "Time": "0510",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -58865,7 +58865,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -58874,7 +58874,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -58892,7 +58892,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -58901,7 +58901,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -58910,7 +58910,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -58919,7 +58919,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -58928,7 +58928,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -58937,7 +58937,7 @@
   "Time": "0650",
   "Flight": "W46116",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -58982,7 +58982,7 @@
   "Time": "0930",
   "Flight": "W43875",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "RMI",
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
@@ -59000,7 +59000,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -59009,7 +59009,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -59018,7 +59018,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -59027,7 +59027,7 @@
   "Time": "1020",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -59036,7 +59036,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -59045,7 +59045,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -59054,7 +59054,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -59063,7 +59063,7 @@
   "Time": "1110",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -59081,7 +59081,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -59090,7 +59090,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -59099,7 +59099,7 @@
   "Time": "1150",
   "Flight": "RK8293",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)"
  },
@@ -59117,7 +59117,7 @@
   "Time": "1220",
   "Flight": "W43883",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -59135,7 +59135,7 @@
   "Time": "1230",
   "Flight": "W43889",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
@@ -59153,7 +59153,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -59171,7 +59171,7 @@
   "Time": "1410",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -59180,7 +59180,7 @@
   "Time": "1425",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -59189,7 +59189,7 @@
   "Time": "1425",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -59216,7 +59216,7 @@
   "Time": "1500",
   "Flight": "W44811",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PEG",
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
@@ -59225,7 +59225,7 @@
   "Time": "1520",
   "Flight": "W44835",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRS",
   "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
  },
@@ -59252,7 +59252,7 @@
   "Time": "1635",
   "Flight": "W46685",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -59270,7 +59270,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -59297,7 +59297,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -59306,7 +59306,7 @@
   "Time": "1845",
   "Flight": "W46615",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HHN",
   "DestName": "HHN (Frankfurt Hahn - Germany)"
  },
@@ -59315,7 +59315,7 @@
   "Time": "1850",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -59324,7 +59324,7 @@
   "Time": "1850",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -59342,7 +59342,7 @@
   "Time": "1915",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -59360,7 +59360,7 @@
   "Time": "1940",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -59369,7 +59369,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -59378,7 +59378,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -59387,7 +59387,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -59396,7 +59396,7 @@
   "Time": "2010",
   "Flight": "RK8295",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)"
  },
@@ -59441,7 +59441,7 @@
   "Time": "0500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -59450,7 +59450,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -59459,7 +59459,7 @@
   "Time": "0500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -59468,7 +59468,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -59477,7 +59477,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -59486,7 +59486,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -59504,7 +59504,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -59513,7 +59513,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -59522,7 +59522,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -59531,7 +59531,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -59540,7 +59540,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -59549,7 +59549,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -59558,7 +59558,7 @@
   "Time": "0630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -59567,7 +59567,7 @@
   "Time": "0710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -59594,7 +59594,7 @@
   "Time": "1005",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -59603,7 +59603,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -59612,7 +59612,7 @@
   "Time": "1015",
   "Flight": "W43863",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSR",
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
@@ -59621,7 +59621,7 @@
   "Time": "1015",
   "Flight": "W43855",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "AOI",
   "DestName": "AOI (Ancona - Italy)"
  },
@@ -59630,7 +59630,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -59639,7 +59639,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -59648,7 +59648,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -59684,7 +59684,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -59702,7 +59702,7 @@
   "Time": "1140",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -59711,7 +59711,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -59720,7 +59720,7 @@
   "Time": "1150",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -59729,7 +59729,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -59747,7 +59747,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -59765,7 +59765,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -59774,7 +59774,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -59801,7 +59801,7 @@
   "Time": "1415",
   "Flight": "W43206",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
  },
@@ -59810,7 +59810,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -59819,7 +59819,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -59837,7 +59837,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -59846,7 +59846,7 @@
   "Time": "1600",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -59855,7 +59855,7 @@
   "Time": "1650",
   "Flight": "W43861",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NYO",
   "DestName": "NYO (Stockholm Skavsta - Sweden)"
  },
@@ -59864,7 +59864,7 @@
   "Time": "1655",
   "Flight": "W46683",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -59873,7 +59873,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -59882,7 +59882,7 @@
   "Time": "1710",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -59900,7 +59900,7 @@
   "Time": "1730",
   "Flight": "W46629",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -59918,7 +59918,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -59927,7 +59927,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -59945,7 +59945,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -59963,7 +59963,7 @@
   "Time": "1900",
   "Flight": "W44819",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "SUF",
   "DestName": "SUF (Lamezia Terme - Italy)"
  },
@@ -59981,7 +59981,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -60008,7 +60008,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -60017,7 +60017,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -60035,7 +60035,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },
@@ -60053,7 +60053,7 @@
   "Time": "2100",
   "Flight": "W42882",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)"
  },
@@ -60098,7 +60098,7 @@
   "Time": "0500",
   "Flight": "W46611",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
@@ -60107,7 +60107,7 @@
   "Time": "0500",
   "Flight": "W43841",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "DTM",
   "DestName": "DTM (Dortmund - Germany)"
  },
@@ -60116,7 +60116,7 @@
   "Time": "0500",
   "Flight": "W46625",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
@@ -60125,7 +60125,7 @@
   "Time": "0510",
   "Flight": "W43857",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -60134,7 +60134,7 @@
   "Time": "0510",
   "Flight": "W43845",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -60143,7 +60143,7 @@
   "Time": "0520",
   "Flight": "W46607",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -60161,7 +60161,7 @@
   "Time": "0550",
   "Flight": "W43851",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -60170,7 +60170,7 @@
   "Time": "0550",
   "Flight": "W43853",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -60179,7 +60179,7 @@
   "Time": "0555",
   "Flight": "W46681",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -60188,7 +60188,7 @@
   "Time": "0555",
   "Flight": "W46603",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)"
  },
@@ -60197,7 +60197,7 @@
   "Time": "0555",
   "Flight": "W46627",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "EIN",
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
@@ -60206,7 +60206,7 @@
   "Time": "0610",
   "Flight": "W44813",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "ATH",
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
@@ -60215,7 +60215,7 @@
   "Time": "0625",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -60224,7 +60224,7 @@
   "Time": "0630",
   "Flight": "ZB2009",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -60233,7 +60233,7 @@
   "Time": "0710",
   "Flight": "W46605",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -60287,7 +60287,7 @@
   "Time": "0930",
   "Flight": "W44825",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NAP",
   "DestName": "NAP (Naples - Italy)"
  },
@@ -60305,7 +60305,7 @@
   "Time": "1010",
   "Flight": "RK8289",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -60314,7 +60314,7 @@
   "Time": "1015",
   "Flight": "W46637",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "GOA",
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
@@ -60323,7 +60323,7 @@
   "Time": "1030",
   "Flight": "W43877",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -60332,7 +60332,7 @@
   "Time": "1035",
   "Flight": "W46601",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -60359,7 +60359,7 @@
   "Time": "1110",
   "Flight": "W43885",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -60386,7 +60386,7 @@
   "Time": "1125",
   "Flight": "W45100",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)"
  },
@@ -60395,7 +60395,7 @@
   "Time": "1130",
   "Flight": "W46633",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BVA",
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
@@ -60404,7 +60404,7 @@
   "Time": "1135",
   "Flight": "W46631",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
@@ -60413,7 +60413,7 @@
   "Time": "1140",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -60422,7 +60422,7 @@
   "Time": "1150",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -60431,7 +60431,7 @@
   "Time": "1155",
   "Flight": "W46673",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CIY",
   "DestName": "CIY (Comiso - Italy)"
  },
@@ -60440,7 +60440,7 @@
   "Time": "1210",
   "Flight": "W46613",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "HAM",
   "DestName": "HAM (Hamburg - Germany)"
  },
@@ -60449,7 +60449,7 @@
   "Time": "1220",
   "Flight": "W46679",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -60485,7 +60485,7 @@
   "Time": "1320",
   "Flight": "W46635",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MLH",
   "DestName": "MLH (Euro - France)"
  },
@@ -60494,7 +60494,7 @@
   "Time": "1355",
   "Flight": "W43869",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
@@ -60521,7 +60521,7 @@
   "Time": "1435",
   "Flight": "W43881",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "NUE",
   "DestName": "NUE (Nuremberg - Germany)"
  },
@@ -60530,7 +60530,7 @@
   "Time": "1445",
   "Flight": "W43843",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FMM",
   "DestName": "FMM (Memmingen - Germany)"
  },
@@ -60548,7 +60548,7 @@
   "Time": "1510",
   "Flight": "W46649",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
@@ -60557,7 +60557,7 @@
   "Time": "1550",
   "Flight": "W44809",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)"
  },
@@ -60566,7 +60566,7 @@
   "Time": "1630",
   "Flight": "W46645",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)"
  },
@@ -60593,7 +60593,7 @@
   "Time": "1650",
   "Flight": "W43879",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
@@ -60602,7 +60602,7 @@
   "Time": "1655",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
@@ -60611,7 +60611,7 @@
   "Time": "1700",
   "Flight": "W43865",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
@@ -60629,7 +60629,7 @@
   "Time": "1800",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
-  "Airline": "Monarch Airlines",
+  "Airline": "Air Albania",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -60638,7 +60638,7 @@
   "Time": "1825",
   "Flight": "W43887",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -60656,7 +60656,7 @@
   "Time": "1840",
   "Flight": "RK8291",
   "AirlineCode": "RK",
-  "Airline": "Skyview Airways Company Limiteddba Skyview",
+  "Airline": "Ryanair UK",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)"
  },
@@ -60665,7 +60665,7 @@
   "Time": "1840",
   "Flight": "W46688",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CTA",
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
@@ -60674,7 +60674,7 @@
   "Time": "1845",
   "Flight": "W43867",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "CGN",
   "DestName": "CGN (Cologne Bonn - Germany)"
  },
@@ -60683,7 +60683,7 @@
   "Time": "1910",
   "Flight": "W46609",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
@@ -60701,7 +60701,7 @@
   "Time": "1945",
   "Flight": "W43847",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
@@ -60710,7 +60710,7 @@
   "Time": "1950",
   "Flight": "W46691",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
@@ -60719,7 +60719,7 @@
   "Time": "1955",
   "Flight": "W46647",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)"
  },
@@ -60728,7 +60728,7 @@
   "Time": "2000",
   "Flight": "W44817",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "BDS",
   "DestName": "BDS (Brindisi - Italy)"
  },
@@ -60737,7 +60737,7 @@
   "Time": "2015",
   "Flight": "W43849",
   "AirlineCode": "W4",
-  "Airline": "LC Busre SAC",
+  "Airline": "Wizzair Malta",
   "Dest": "VRN",
   "DestName": "VRN (Verona - Italy)"
  },

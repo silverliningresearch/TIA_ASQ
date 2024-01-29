@@ -59,7 +59,8 @@
         var data = new google.visualization.DataTable();
 
         //define header
-        data.addColumn('string', 'Flight');
+        data.addColumn('string', 'Airline-Airport');
+        data.addColumn('string', 'Airline');
         data.addColumn('string', 'To');
         //data.addColumn('string', 'DOOP [Mon-Sun]');
         data.addColumn('number', 'Remaining Flights');                
@@ -75,6 +76,7 @@
           [
             row.quota_id, 
             row.Dest,
+            row.Airline,
             //row.doop,
             Number(row.remaining_flights), 
             Number(row.Quota),
@@ -94,7 +96,11 @@
           'controlType': 'CategoryFilter',
           'containerId': 'filter_div',
           'options': {
-            'filterColumnLabel': 'To'
+            'filterColumnLabel': 'To',
+            "ui": {"label": "", 
+                "labelStacking": 'horizotal',
+                "caption": "Filter by Destination",
+                }
           }
         });
   
@@ -113,7 +119,7 @@
         dashboard.bind(tableFilter, tableChart);
 
         var view = new google.visualization.DataView(data);
-        document.getElementById("filter_div").style.display = "none";
+        //document.getElementById("filter_div").style.display = "none";
         dashboard.draw(view);
 
         //Update time info
@@ -144,6 +150,7 @@
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_div"></div>
+      <br>
       <div id="table_div"></div>
     </div>
 
