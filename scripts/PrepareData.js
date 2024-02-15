@@ -194,12 +194,6 @@ function prepareInterviewData() {
     //airport_airline
     flight.quota_id = flight.AirlineCode + "-" + flight.Dest;//code for compare
     
-    flight.Time_org  = flight.Time;
-
-    var flight_time = flight.Time;
-    var flight_time_value = (flight_time.substring(0,2) * 1 + 1).toString() + flight_time.substring(2,4);
-    flight.Time = flight_time_value;
-
     //current_period:2023-02
     //flight.Date: 08-02-2023
     if (currentQuarter ==  getQuarterFromMonth(flight.Date.substring(3,5), flight.Date.substring(6,10))) { 
