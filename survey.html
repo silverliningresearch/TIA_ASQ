@@ -22,7 +22,7 @@
       href="https://survalyzereu.blob.core.windows.net/public/assets/dx.light.css"
     />
     <link
-      href="https://survalyzer.survalyzer.eu/assets/themes/default/rt-theme.min.css"
+      href="https://survalyzer.survalyzer.eu/assets/themes/default/rt-theme.css"
       rel="stylesheet"
       type="text/css"
     />
@@ -34,7 +34,7 @@
       tenant="silverlining"
     ></survalyzer-survey>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js"></script>
     <script src="https://survalyzer.survalyzer.eu/assets/survalyzer-survey.js"></script>
 
     <script src="data/TIA_departures_flight_list.js"></script>
@@ -53,15 +53,12 @@
           const listSearchHandler = () => {
             console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
             
-            switch (api.fn.getCurrentPageIndex()) {
-              case 3:
-                show_flight_search_box("Q1D"); //flight
-                break;
+            if (api.fn.getCurrentPageIndex()==4) {
+              show_flight_search_box("Q1D");
+            } else {
+              hide_flight_search_box();
+            };
 
-                default:
-                aui_hide_external_search_box();
-                break;
-            }
           }    
           api.events.subscribe('next', listSearchHandler);
           api.events.subscribe('back', listSearchHandler);
