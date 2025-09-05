@@ -1,7 +1,7 @@
      let TIA_Departures_Flight_List_Raw = ` 
 [
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0120",
   "Flight": "XQ215",
   "AirlineCode": "XQ",
@@ -10,7 +10,7 @@
   "DestName": "AYT (Antalya - Turkey)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0125",
   "Flight": "PC5550",
   "AirlineCode": "PC",
@@ -19,7 +19,16 @@
   "DestName": "AYT (Antalya - Turkey)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
+  "Time": "0135",
+  "Flight": "BT470",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "0145",
   "Flight": "PC284",
   "AirlineCode": "PC",
@@ -28,25 +37,25 @@
   "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0220",
-  "Flight": "FH810",
+  "Date": "05-09-2025",
+  "Time": "0230",
+  "Flight": "FH808",
   "AirlineCode": "FH",
   "Airline": "Freebird Airlines",
-  "Dest": "BJV",
-  "DestName": "BJV (Bodrum Milas - Turkey)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "0225",
-  "Flight": "XC106",
-  "AirlineCode": "XC",
-  "Airline": "Corendon Airlines",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
+  "Time": "0240",
+  "Flight": "3Z7707",
+  "AirlineCode": "3Z",
+  "Airline": "Travel Service Polska Sp. z.o.o.",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "0300",
   "Flight": "JU167",
   "AirlineCode": "JU",
@@ -55,7 +64,7 @@
   "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0400",
   "Flight": "W45123",
   "AirlineCode": "W4",
@@ -64,8 +73,17 @@
   "DestName": "MLH (Euro - France)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0430",
+  "Date": "05-09-2025",
+  "Time": "0405",
+  "Flight": "TK3432",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines",
+  "Dest": "BJV",
+  "DestName": "BJV (Bodrum Milas - Turkey)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "0410",
   "Flight": "ZB2005",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -73,7 +91,7 @@
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0435",
   "Flight": "LH1715",
   "AirlineCode": "LH",
@@ -82,7 +100,7 @@
   "DestName": "MUC (Munich - Germany)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0435",
   "Flight": "AZ507",
   "AirlineCode": "AZ",
@@ -91,7 +109,16 @@
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
+  "Time": "0440",
+  "Flight": "3Z7804",
+  "AirlineCode": "3Z",
+  "Airline": "Travel Service Polska Sp. z.o.o.",
+  "Dest": "WRO",
+  "DestName": "WRO (Wroclaw Copernicus - Poland)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "0450",
   "Flight": "W45131",
   "AirlineCode": "W4",
@@ -100,7 +127,7 @@
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0455",
   "Flight": "W45101",
   "AirlineCode": "W4",
@@ -109,25 +136,7 @@
   "DestName": "DTM (Dortmund - Germany)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0500",
-  "Flight": "W45041",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BRI",
-  "DestName": "BRI (Bari - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "0500",
-  "Flight": "W45011",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "FCO",
-  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
- },
- {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0500",
   "Flight": "OS850",
   "AirlineCode": "OS",
@@ -136,7 +145,25 @@
   "DestName": "VIE (Vienna International - Austria)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
+  "Time": "0500",
+  "Flight": "W45041",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "0500",
+  "Flight": "W45011",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "0505",
   "Flight": "W45139",
   "AirlineCode": "W4",
@@ -145,7 +172,7 @@
   "DestName": "BVA (Paris Beauvais-Tille - France)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0510",
   "Flight": "W45075",
   "AirlineCode": "W4",
@@ -154,7 +181,7 @@
   "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0515",
   "Flight": "W45047",
   "AirlineCode": "W4",
@@ -163,7 +190,7 @@
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0540",
   "Flight": "LH1457",
   "AirlineCode": "LH",
@@ -172,7 +199,7 @@
   "DestName": "FRA (Frankfurt - Germany)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0545",
   "Flight": "W45017",
   "AirlineCode": "W4",
@@ -181,7 +208,7 @@
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0545",
   "Flight": "W45135",
   "AirlineCode": "W4",
@@ -190,7 +217,7 @@
   "DestName": "EIN (Eindhoven - Netherlands)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0550",
   "Flight": "W45035",
   "AirlineCode": "W4",
@@ -199,7 +226,7 @@
   "DestName": "TSF (Treviso - Italy)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0555",
   "Flight": "W45145",
   "AirlineCode": "W4",
@@ -208,16 +235,7 @@
   "DestName": "NCE (Nice Cote dAzur - France)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0555",
-  "Flight": "W45029",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "PSA",
-  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
- },
- {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0600",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
@@ -226,7 +244,7 @@
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0610",
   "Flight": "W45103",
   "AirlineCode": "W4",
@@ -235,53 +253,26 @@
   "DestName": "FMM (Memmingen - Germany)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0615",
-  "Flight": "TK3432",
-  "AirlineCode": "TK",
-  "Airline": "Turkish Airlines",
-  "Dest": "AYT",
-  "DestName": "AYT (Antalya - Turkey)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "0630",
-  "Flight": "FR7091",
+  "Date": "05-09-2025",
+  "Time": "0720",
+  "Flight": "FR8424",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
-  "Dest": "SUF",
-  "DestName": "SUF (Lamezia Terme - Italy)"
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0640",
-  "Flight": "FR8399",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BLQ",
-  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "0655",
-  "Flight": "FR8356",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BGY",
-  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "0705",
-  "Flight": "FR3020",
+  "Date": "05-09-2025",
+  "Time": "0740",
+  "Flight": "FR8320",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
   "Dest": "CIA",
   "DestName": "CIA (Rome Ciampino - Italy)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0705",
+  "Date": "05-09-2025",
+  "Time": "0800",
   "Flight": "IZ412",
   "AirlineCode": "IZ",
   "Airline": "Arkia",
@@ -289,16 +280,7 @@
   "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0715",
-  "Flight": "LY5184",
-  "AirlineCode": "LY",
-  "Airline": "El Al Israel Airlines",
-  "Dest": "TLV",
-  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
- },
- {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0805",
   "Flight": "W45023",
   "AirlineCode": "W4",
@@ -307,61 +289,34 @@
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0810",
-  "Flight": "GQ691",
-  "AirlineCode": "GQ",
-  "Airline": "Sky Express",
-  "Dest": "ATH",
-  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
- },
- {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0815",
-  "Flight": "FR8431",
+  "Flight": "FR8343",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
-  "Dest": "TSF",
-  "DestName": "TSF (Treviso - Italy)"
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0820",
-  "Flight": "QS1137",
-  "AirlineCode": "QS",
-  "Airline": "SmartWings",
-  "Dest": "PRG",
-  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "0825",
-  "Flight": "FR8418",
+  "Flight": "FR8356",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
-  "Dest": "ARN",
-  "DestName": "ARN (Stockholm Arlanda - Sweden)"
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0830",
-  "Flight": "D83293",
-  "AirlineCode": "D8",
-  "Airline": "Norwegian Air International",
-  "Dest": "CPH",
-  "DestName": "CPH (Copenhagen - Denmark)"
+  "Date": "05-09-2025",
+  "Time": "0850",
+  "Flight": "LX1443",
+  "AirlineCode": "LX",
+  "Airline": "Swiss International Air Lines",
+  "Dest": "ZRH",
+  "DestName": "ZRH (Zurich - Switzerland)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0900",
-  "Flight": "TO4451",
-  "AirlineCode": "TO",
-  "Airline": "Transavia",
-  "Dest": "ORY",
-  "DestName": "ORY (Paris Orly - France)"
- },
- {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0905",
   "Flight": "A3971",
   "AirlineCode": "A3",
@@ -370,25 +325,25 @@
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0910",
-  "Flight": "FR8480",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BGY",
-  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+  "Date": "05-09-2025",
+  "Time": "0915",
+  "Flight": "XY344",
+  "AirlineCode": "XY",
+  "Airline": "Nas Air",
+  "Dest": "RUH",
+  "DestName": "RUH (Riyadh King Khalid International - Saudi Arabia)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0910",
-  "Flight": "EW2913",
-  "AirlineCode": "EW",
-  "Airline": "Eurowings",
-  "Dest": "STR",
-  "DestName": "STR (Stuttgart - Germany)"
+  "Date": "05-09-2025",
+  "Time": "0920",
+  "Flight": "TK3431",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0925",
   "Flight": "W45083",
   "AirlineCode": "W4",
@@ -397,16 +352,16 @@
   "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0930",
-  "Flight": "RK8289",
-  "AirlineCode": "RK",
-  "Airline": "Ryanair UK",
-  "Dest": "STN",
-  "DestName": "STN (London Stansted - United Kingdom)"
+  "Flight": "EW9917",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings",
+  "Dest": "DUS",
+  "DestName": "DUS (Dusseldorf International - Germany)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0940",
   "Flight": "W45081",
   "AirlineCode": "W4",
@@ -415,16 +370,7 @@
   "DestName": "RMI (Rimini Federico Fellini - Italy)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "0945",
-  "Flight": "W95001",
-  "AirlineCode": "W9",
-  "Airline": "Wizz Air",
-  "Dest": "LTN",
-  "DestName": "LTN (London Luton - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0945",
   "Flight": "W42882",
   "AirlineCode": "W4",
@@ -433,7 +379,7 @@
   "DestName": "VIE (Vienna International - Austria)"
  },
  {
-  "Date": "20-08-2025",
+  "Date": "05-09-2025",
   "Time": "0945",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
@@ -442,1033 +388,7 @@
   "DestName": "MXP (Milan Malpensa - Italy)"
  },
  {
-  "Date": "20-08-2025",
-  "Time": "1015",
-  "Flight": "W45105",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BER",
-  "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1030",
-  "Flight": "W45025",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MXP",
-  "DestName": "MXP (Milan Malpensa - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1035",
-  "Flight": "W45057",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "TRN",
-  "DestName": "TRN (Turin Caselle - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1100",
-  "Flight": "LH1713",
-  "AirlineCode": "LH",
-  "Airline": "Lufthansa",
-  "Dest": "MUC",
-  "DestName": "MUC (Munich - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1105",
-  "Flight": "OS846",
-  "AirlineCode": "OS",
-  "Airline": "Austrian Airlines",
-  "Dest": "VIE",
-  "DestName": "VIE (Vienna International - Austria)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1110",
-  "Flight": "W42100",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "KRK",
-  "DestName": "KRK (Krakow John Paul II International - Poland)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1120",
-  "Flight": "ZB1010",
-  "AirlineCode": "ZB",
-  "Airline": "Air Albania",
-  "Dest": "IST",
-  "DestName": "IST (Istanbul Ataturk International - Turkey)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1125",
-  "Flight": "TK3431",
-  "AirlineCode": "TK",
-  "Airline": "Turkish Airlines",
-  "Dest": "AYT",
-  "DestName": "AYT (Antalya - Turkey)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1125",
-  "Flight": "FR8424",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "PSA",
-  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1130",
-  "Flight": "FR8422",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BGY",
-  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1130",
-  "Flight": "RK8321",
-  "AirlineCode": "RK",
-  "Airline": "Ryanair UK",
-  "Dest": "STN",
-  "DestName": "STN (London Stansted - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1135",
-  "Flight": "W45125",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "DTM",
-  "DestName": "DTM (Dortmund - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1150",
-  "Flight": "W95007",
-  "AirlineCode": "W9",
-  "Airline": "Wizz Air",
-  "Dest": "LTN",
-  "DestName": "LTN (London Luton - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1150",
-  "Flight": "W45111",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "FKB",
-  "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1155",
-  "Flight": "FR8370",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "CTA",
-  "DestName": "CTA (Catania Fontanarossa - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1155",
-  "Flight": "FZ746",
-  "AirlineCode": "FZ",
-  "Airline": "FLYDUBAI",
-  "Dest": "DXB",
-  "DestName": "DXB (Dubai International - United Arab Emirates)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1215",
-  "Flight": "W45107",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "HAM",
-  "DestName": "HAM (Hamburg - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1220",
-  "Flight": "W45085",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "PSR",
-  "DestName": "PSR (Pescara Abruzzo International - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1230",
-  "Flight": "LO598",
-  "AirlineCode": "LO",
-  "Airline": "LOT Polish Airlines",
-  "Dest": "WAW",
-  "DestName": "WAW (Warsaw Chopin - Poland)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1235",
-  "Flight": "BA929",
-  "AirlineCode": "BA",
-  "Airline": "British Airways",
-  "Dest": "LHR",
-  "DestName": "LHR (London Heathrow - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1250",
-  "Flight": "AP8748",
-  "AirlineCode": "AP",
-  "Airline": "Air One",
-  "Dest": "LGW",
-  "DestName": "LGW (London Gatwick - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1315",
-  "Flight": "LH1455",
-  "AirlineCode": "LH",
-  "Airline": "Lufthansa",
-  "Dest": "FRA",
-  "DestName": "FRA (Frankfurt - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1335",
-  "Flight": "LX1443",
-  "AirlineCode": "LX",
-  "Airline": "Swiss International Air Lines",
-  "Dest": "ZRH",
-  "DestName": "ZRH (Zurich - Switzerland)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1400",
-  "Flight": "OS848",
-  "AirlineCode": "OS",
-  "Airline": "Austrian Airlines",
-  "Dest": "VIE",
-  "DestName": "VIE (Vienna International - Austria)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1405",
-  "Flight": "JU163",
-  "AirlineCode": "JU",
-  "Airline": "Air Serbia",
-  "Dest": "BEG",
-  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1410",
-  "Flight": "MNE2233",
-  "AirlineCode": "MN",
-  "Airline": "Comair",
-  "Dest": "BTS",
-  "DestName": "BTS (Bratislava M. R. Stefanik - Slovakia)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1410",
-  "Flight": "W45129",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "FMM",
-  "DestName": "FMM (Memmingen - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1415",
-  "Flight": "FR8299",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "CRL",
-  "DestName": "CRL (Brussels South Charleroi - Belgium)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1420",
-  "Flight": "FR8403",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "KRK",
-  "DestName": "KRK (Krakow John Paul II International - Poland)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1445",
-  "Flight": "W45079",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "AOI",
-  "DestName": "AOI (Ancona - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1445",
-  "Flight": "W45019",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BGY",
-  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1445",
-  "Flight": "QS2945",
-  "AirlineCode": "QS",
-  "Airline": "SmartWings",
-  "Dest": "BRQ",
-  "DestName": "BRQ (Brno Turany - Czech Republic)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1455",
-  "Flight": "PC286",
-  "AirlineCode": "PC",
-  "Airline": "Pegasus Airlines",
-  "Dest": "SAW",
-  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1505",
-  "Flight": "W45039",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "TSF",
-  "DestName": "TSF (Treviso - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1550",
-  "Flight": "ZB2011",
-  "AirlineCode": "ZB",
-  "Airline": "Air Albania",
-  "Dest": "VRN",
-  "DestName": "VRN (Verona - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1550",
-  "Flight": "W45151",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MAD",
-  "DestName": "MAD (Madrid Barajas - Spain)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1555",
-  "Flight": "MDF9031",
-  "AirlineCode": "MD",
-  "Airline": "Air Madagascar",
-  "Dest": "ATH",
-  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1600",
-  "Flight": "GAT8198",
-  "AirlineCode": "GA",
-  "Airline": "Garuda Indonesia",
-  "Dest": "QCP",
-  "DestName": ""
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1610",
-  "Flight": "W45031",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "PSA",
-  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1615",
-  "Flight": "W45133",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "CRL",
-  "DestName": "CRL (Brussels South Charleroi - Belgium)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1635",
-  "Flight": "W45067",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "NAP",
-  "DestName": "NAP (Naples - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1640",
-  "Flight": "FR9693",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BRI",
-  "DestName": "BRI (Bari - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1640",
-  "Flight": "ZB1003",
-  "AirlineCode": "ZB",
-  "Airline": "Air Albania",
-  "Dest": "IST",
-  "DestName": "IST (Istanbul Ataturk International - Turkey)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1645",
-  "Flight": "RK8291",
-  "AirlineCode": "RK",
-  "Airline": "Ryanair UK",
-  "Dest": "STN",
-  "DestName": "STN (London Stansted - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1705",
-  "Flight": "W45171",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "WAW",
-  "DestName": "WAW (Warsaw Chopin - Poland)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1705",
-  "Flight": "W45195",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MMX",
-  "DestName": "MMX (Malmo - Sweden)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1710",
-  "Flight": "FR8350",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BGY",
-  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1715",
-  "Flight": "FR8410",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BLQ",
-  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1725",
-  "Flight": "FR8391",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "PSA",
-  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1750",
-  "Flight": "FR8314",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BVA",
-  "DestName": "BVA (Paris Beauvais-Tille - France)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1750",
-  "Flight": "W45143",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "LYS",
-  "DestName": "LYS (Lyon Saint Exupery - France)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1800",
-  "Flight": "FR8360",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "CIA",
-  "DestName": "CIA (Rome Ciampino - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1800",
-  "Flight": "MIL8394",
-  "AirlineCode": "MI",
-  "Airline": "Silkair",
-  "Dest": "AUH",
-  "DestName": "AUH (Abu Dhabi International - United Arab Emirates)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1805",
-  "Flight": "A3973",
-  "AirlineCode": "A3",
-  "Airline": "Aegean Airlines",
-  "Dest": "ATH",
-  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1805",
-  "Flight": "BA927",
-  "AirlineCode": "BA",
-  "Airline": "British Airways",
-  "Dest": "LHR",
-  "DestName": "LHR (London Heathrow - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1810",
-  "Flight": "W45153",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BCN",
-  "DestName": "BCN (Barcelona El Prat - Spain)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1840",
-  "Flight": "FR6918",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "MRS",
-  "DestName": "MRS (Marseille Provence - France)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1840",
-  "Flight": "W45027",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MXP",
-  "DestName": "MXP (Milan Malpensa - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1850",
-  "Flight": "W95003",
-  "AirlineCode": "W9",
-  "Airline": "Wizz Air",
-  "Dest": "LTN",
-  "DestName": "LTN (London Luton - United Kingdom)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1855",
-  "Flight": "FR8312",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "PRG",
-  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1855",
-  "Flight": "W45109",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "HHN",
-  "DestName": "HHN (Frankfurt Hahn - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1900",
-  "Flight": "QS2937",
-  "AirlineCode": "QS",
-  "Airline": "SmartWings",
-  "Dest": "PRG",
-  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1915",
-  "Flight": "FR8400",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "TSF",
-  "DestName": "TSF (Treviso - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1925",
-  "Flight": "FR6889",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "VIE",
-  "DestName": "VIE (Vienna International - Austria)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1925",
-  "Flight": "W45115",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "NUE",
-  "DestName": "NUE (Nuremberg - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1935",
-  "Flight": "W45051",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BLQ",
-  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1935",
-  "Flight": "W45015",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "FCO",
-  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "1950",
-  "Flight": "XY356",
-  "AirlineCode": "XY",
-  "Airline": "Nas Air",
-  "Dest": "RUH",
-  "DestName": "RUH (Riyadh King Khalid International - Saudi Arabia)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "2025",
-  "Flight": "W45055",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "VRN",
-  "DestName": "VRN (Verona - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "2050",
-  "Flight": "W45043",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BRI",
-  "DestName": "BRI (Bari - Italy)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "2100",
-  "Flight": "W62234",
-  "AirlineCode": "W6",
-  "Airline": "Wizz Air",
-  "Dest": "BUD",
-  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "2110",
-  "Flight": "6H168",
-  "AirlineCode": "6H",
-  "Airline": "Israir Airlines",
-  "Dest": "TLV",
-  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "2140",
-  "Flight": "VY8581",
-  "AirlineCode": "VY",
-  "Airline": "Vueling",
-  "Dest": "BCN",
-  "DestName": "BCN (Barcelona El Prat - Spain)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "2140",
-  "Flight": "EW913",
-  "AirlineCode": "EW",
-  "Airline": "Eurowings",
-  "Dest": "CGN",
-  "DestName": "CGN (Cologne Bonn - Germany)"
- },
- {
-  "Date": "20-08-2025",
-  "Time": "2255",
-  "Flight": "W95005",
-  "AirlineCode": "W9",
-  "Airline": "Wizz Air",
-  "Dest": "LTN",
-  "DestName": "LTN (London Luton - United Kingdom)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0120",
-  "Flight": "XQ215",
-  "AirlineCode": "XQ",
-  "Airline": "Sun Express",
-  "Dest": "AYT",
-  "DestName": "AYT (Antalya - Turkey)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0200",
-  "Flight": "PC284",
-  "AirlineCode": "PC",
-  "Airline": "Pegasus Airlines",
-  "Dest": "SAW",
-  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0230",
-  "Flight": "TK3435",
-  "AirlineCode": "TK",
-  "Airline": "Turkish Airlines",
-  "Dest": "AYT",
-  "DestName": "AYT (Antalya - Turkey)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0300",
-  "Flight": "JU167",
-  "AirlineCode": "JU",
-  "Airline": "Air Serbia",
-  "Dest": "BEG",
-  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0305",
-  "Flight": "RR5104",
-  "AirlineCode": "RR",
-  "Airline": "Buzz",
-  "Dest": "POZ",
-  "DestName": "POZ (Poznan Lawica - Poland)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0400",
-  "Flight": "W45123",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MLH",
-  "DestName": "MLH (Euro - France)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0435",
-  "Flight": "LH1715",
-  "AirlineCode": "LH",
-  "Airline": "Lufthansa",
-  "Dest": "MUC",
-  "DestName": "MUC (Munich - Germany)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0435",
-  "Flight": "AZ507",
-  "AirlineCode": "AZ",
-  "Airline": "Alitalia",
-  "Dest": "FCO",
-  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0450",
-  "Flight": "W45131",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "CRL",
-  "DestName": "CRL (Brussels South Charleroi - Belgium)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0450",
-  "Flight": "W45087",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BCN",
-  "DestName": "BCN (Barcelona El Prat - Spain)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0455",
-  "Flight": "W45101",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "DTM",
-  "DestName": "DTM (Dortmund - Germany)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0500",
-  "Flight": "OS850",
-  "AirlineCode": "OS",
-  "Airline": "Austrian Airlines",
-  "Dest": "VIE",
-  "DestName": "VIE (Vienna International - Austria)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0500",
-  "Flight": "W45011",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "FCO",
-  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0505",
-  "Flight": "W45139",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BVA",
-  "DestName": "BVA (Paris Beauvais-Tille - France)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0510",
-  "Flight": "W45041",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BRI",
-  "DestName": "BRI (Bari - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0515",
-  "Flight": "W45047",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BLQ",
-  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0520",
-  "Flight": "W45075",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "PEG",
-  "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0540",
-  "Flight": "LH1457",
-  "AirlineCode": "LH",
-  "Airline": "Lufthansa",
-  "Dest": "FRA",
-  "DestName": "FRA (Frankfurt - Germany)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0545",
-  "Flight": "W45017",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "BGY",
-  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0545",
-  "Flight": "W45135",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "EIN",
-  "DestName": "EIN (Eindhoven - Netherlands)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0550",
-  "Flight": "W45203",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "ATH",
-  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0555",
-  "Flight": "W45035",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "TSF",
-  "DestName": "TSF (Treviso - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0600",
-  "Flight": "ZB1001",
-  "AirlineCode": "ZB",
-  "Airline": "Air Albania",
-  "Dest": "IST",
-  "DestName": "IST (Istanbul Ataturk International - Turkey)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0610",
-  "Flight": "W45029",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "PSA",
-  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0615",
-  "Flight": "7O5709",
-  "AirlineCode": "7O",
-  "Airline": "Travel Service",
-  "Dest": "BUD",
-  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0630",
-  "Flight": "QS2935",
-  "AirlineCode": "QS",
-  "Airline": "SmartWings",
-  "Dest": "PRG",
-  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0640",
-  "Flight": "FR8399",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BLQ",
-  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0705",
-  "Flight": "FR8320",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "CIA",
-  "DestName": "CIA (Rome Ciampino - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0715",
-  "Flight": "FR8356",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BGY",
-  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0810",
-  "Flight": "GQ691",
-  "AirlineCode": "GQ",
-  "Airline": "Sky Express",
-  "Dest": "ATH",
-  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0810",
-  "Flight": "EAF4654",
-  "AirlineCode": "EA",
-  "Airline": "East Horizon Airlines",
-  "Dest": "WRO",
-  "DestName": "WRO (Wroclaw Copernicus - Poland)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0815",
-  "Flight": "W45023",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MXP",
-  "DestName": "MXP (Milan Malpensa - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0825",
-  "Flight": "FR9693",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BRI",
-  "DestName": "BRI (Bari - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0835",
-  "Flight": "SK2676",
-  "AirlineCode": "SK",
-  "Airline": "Scandinavian Airlines",
-  "Dest": "CPH",
-  "DestName": "CPH (Copenhagen - Denmark)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0850",
-  "Flight": "FR8431",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "TSF",
-  "DestName": "TSF (Treviso - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0905",
-  "Flight": "A3971",
-  "AirlineCode": "A3",
-  "Airline": "Aegean Airlines",
-  "Dest": "ATH",
-  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0905",
-  "Flight": "TO4047",
-  "AirlineCode": "TO",
-  "Airline": "Transavia",
-  "Dest": "NTE",
-  "DestName": "NTE (Nantes Atlantique - France)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0930",
-  "Flight": "W45077",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "TRS",
-  "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "0935",
-  "Flight": "W45083",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "GOA",
-  "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
- },
- {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "0945",
   "Flight": "W95001",
   "AirlineCode": "W9",
@@ -1477,43 +397,7 @@
   "DestName": "LTN (London Luton - United Kingdom)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "0945",
-  "Flight": "W42882",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "VIE",
-  "DestName": "VIE (Vienna International - Austria)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1000",
-  "Flight": "TO4453",
-  "AirlineCode": "TO",
-  "Airline": "Transavia",
-  "Dest": "ORY",
-  "DestName": "ORY (Paris Orly - France)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1005",
-  "Flight": "ZB1017",
-  "AirlineCode": "ZB",
-  "Airline": "Air Albania",
-  "Dest": "ESB",
-  "DestName": "ESB (Ankara Esenboga International - Turkey)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1015",
-  "Flight": "LO6224",
-  "AirlineCode": "LO",
-  "Airline": "LOT Polish Airlines",
-  "Dest": "RZE",
-  "DestName": "RZE (Rzeszow Jasionka - Poland)"
- },
- {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1015",
   "Flight": "W45105",
   "AirlineCode": "W4",
@@ -1522,7 +406,16 @@
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1025",
+  "Flight": "FR8399",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1030",
   "Flight": "AZ585",
   "AirlineCode": "AZ",
@@ -1531,7 +424,7 @@
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1035",
   "Flight": "W45057",
   "AirlineCode": "W4",
@@ -1540,7 +433,52 @@
   "DestName": "TRN (Turin Caselle - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1035",
+  "Flight": "3Z7808",
+  "AirlineCode": "3Z",
+  "Airline": "Travel Service Polska Sp. z.o.o.",
+  "Dest": "LCJ",
+  "DestName": "LCJ (Lodz Wladyslaw Reymont - Poland)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1045",
+  "Flight": "A3465",
+  "AirlineCode": "A3",
+  "Airline": "Aegean Airlines",
+  "Dest": "HER",
+  "DestName": "HER (Heraklion International - Greece)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1055",
+  "Flight": "LH1713",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "MUC",
+  "DestName": "MUC (Munich - Germany)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1055",
+  "Flight": "6H166",
+  "AirlineCode": "6H",
+  "Airline": "Israir Airlines",
+  "Dest": "TLV",
+  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1100",
+  "Flight": "FR8418",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1105",
   "Flight": "OS846",
   "AirlineCode": "OS",
@@ -1549,7 +487,16 @@
   "DestName": "VIE (Vienna International - Austria)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1110",
+  "Flight": "W42100",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "KRK",
+  "DestName": "KRK (Krakow John Paul II International - Poland)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1120",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
@@ -1558,16 +505,7 @@
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1135",
-  "Flight": "W45127",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "LEJ",
-  "DestName": "LEJ (Leipzig Halle - Germany)"
- },
- {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1135",
   "Flight": "W45125",
   "AirlineCode": "W4",
@@ -1576,52 +514,52 @@
   "DestName": "DTM (Dortmund - Germany)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1140",
-  "Flight": "W95007",
-  "AirlineCode": "W9",
-  "Airline": "Wizz Air",
-  "Dest": "LTN",
-  "DestName": "LTN (London Luton - United Kingdom)"
+  "Flight": "BA929",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1150",
-  "Flight": "W45063",
+  "Flight": "W45111",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
-  "Dest": "CTA",
-  "DestName": "CTA (Catania Fontanarossa - Italy)"
+  "Dest": "FKB",
+  "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1155",
-  "Flight": "W45119",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
+  "Flight": "FZ746",
+  "AirlineCode": "FZ",
+  "Airline": "FLYDUBAI",
+  "Dest": "DXB",
+  "DestName": "DXB (Dubai International - United Arab Emirates)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1205",
+  "Flight": "EW2913",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings",
   "Dest": "STR",
   "DestName": "STR (Stuttgart - Germany)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1210",
-  "Flight": "3Z7711",
-  "AirlineCode": "3Z",
-  "Airline": "Travel Service Polska Sp. z.o.o.",
-  "Dest": "KTW",
-  "DestName": "KTW (Katowice International - Poland)"
+  "Date": "05-09-2025",
+  "Time": "1205",
+  "Flight": "FR8431",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1215",
-  "Flight": "AF1827",
-  "AirlineCode": "AF",
-  "Airline": "Air France",
-  "Dest": "CDG",
-  "DestName": "CDG (Paris Charles de Gaulle - France)"
- },
- {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1215",
   "Flight": "W45107",
   "AirlineCode": "W4",
@@ -1630,26 +568,8 @@
   "DestName": "HAM (Hamburg - Germany)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1225",
-  "Flight": "LO598",
-  "AirlineCode": "LO",
-  "Airline": "LOT Polish Airlines",
-  "Dest": "WAW",
-  "DestName": "WAW (Warsaw Chopin - Poland)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1230",
-  "Flight": "BA929",
-  "AirlineCode": "BA",
-  "Airline": "British Airways",
-  "Dest": "LHR",
-  "DestName": "LHR (London Heathrow - United Kingdom)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1230",
+  "Date": "05-09-2025",
+  "Time": "1220",
   "Flight": "W45085",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1657,7 +577,43 @@
   "DestName": "PSR (Pescara Abruzzo International - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1220",
+  "Flight": "TO4451",
+  "AirlineCode": "TO",
+  "Airline": "Transavia",
+  "Dest": "ORY",
+  "DestName": "ORY (Paris Orly - France)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1220",
+  "Flight": "RK8289",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1220",
+  "Flight": "FR6889",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1225",
+  "Flight": "FR8403",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "KRK",
+  "DestName": "KRK (Krakow John Paul II International - Poland)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1315",
   "Flight": "LH1455",
   "AirlineCode": "LH",
@@ -1666,25 +622,7 @@
   "DestName": "FRA (Frankfurt - Germany)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1320",
-  "Flight": "PC286",
-  "AirlineCode": "PC",
-  "Airline": "Pegasus Airlines",
-  "Dest": "SAW",
-  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1345",
-  "Flight": "RK8321",
-  "AirlineCode": "RK",
-  "Airline": "Ryanair UK",
-  "Dest": "STN",
-  "DestName": "STN (London Stansted - United Kingdom)"
- },
- {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1400",
   "Flight": "OS848",
   "AirlineCode": "OS",
@@ -1693,16 +631,7 @@
   "DestName": "VIE (Vienna International - Austria)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1400",
-  "Flight": "EAF4652",
-  "AirlineCode": "EA",
-  "Airline": "East Horizon Airlines",
-  "Dest": "KTW",
-  "DestName": "KTW (Katowice International - Poland)"
- },
- {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1405",
   "Flight": "JU163",
   "AirlineCode": "JU",
@@ -1711,16 +640,7 @@
   "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1425",
-  "Flight": "FR8403",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "KRK",
-  "DestName": "KRK (Krakow John Paul II International - Poland)"
- },
- {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1425",
   "Flight": "W45129",
   "AirlineCode": "W4",
@@ -1729,43 +649,34 @@
   "DestName": "FMM (Memmingen - Germany)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1430",
-  "Flight": "IB860",
-  "AirlineCode": "IB",
-  "Airline": "Iberia",
-  "Dest": "MAD",
-  "DestName": "MAD (Madrid Barajas - Spain)"
+  "Flight": "LO6548",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1435",
-  "Flight": "LY5484",
-  "AirlineCode": "LY",
-  "Airline": "El Al Israel Airlines",
-  "Dest": "TLV",
-  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1440",
-  "Flight": "FR8360",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "CIA",
-  "DestName": "CIA (Rome Ciampino - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1445",
-  "Flight": "W45079",
+  "Date": "05-09-2025",
+  "Time": "1430",
+  "Flight": "W45065",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
-  "Dest": "AOI",
-  "DestName": "AOI (Ancona - Italy)"
+  "Dest": "CIY",
+  "DestName": "CIY (Comiso - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1440",
+  "Flight": "PC286",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "SAW",
+  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1445",
   "Flight": "W45019",
   "AirlineCode": "W4",
@@ -1774,8 +685,35 @@
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1505",
+  "Date": "05-09-2025",
+  "Time": "1500",
+  "Flight": "OU309",
+  "AirlineCode": "OU",
+  "Airline": "Croatia Airlines",
+  "Dest": "ZAG",
+  "DestName": "ZAG (Zagreb - Croatia)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1500",
+  "Flight": "ZB2011",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "VRN",
+  "DestName": "VRN (Verona - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1510",
+  "Flight": "FR8416",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1515",
   "Flight": "W45039",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1783,17 +721,8 @@
   "DestName": "TSF (Treviso - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1510",
-  "Flight": "FR8314",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BVA",
-  "DestName": "BVA (Paris Beauvais-Tille - France)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1550",
+  "Date": "05-09-2025",
+  "Time": "1540",
   "Flight": "FR8391",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1801,7 +730,16 @@
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1555",
+  "Flight": "W45067",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "NAP",
+  "DestName": "NAP (Naples - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1555",
   "Flight": "MDF9031",
   "AirlineCode": "MD",
@@ -1810,7 +748,7 @@
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1610",
   "Flight": "W45031",
   "AirlineCode": "W4",
@@ -1819,7 +757,7 @@
   "DestName": "PSA (Pisa Galileo Galilei - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1615",
   "Flight": "W45133",
   "AirlineCode": "W4",
@@ -1828,34 +766,43 @@
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1620",
-  "Flight": "W45155",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "VLC",
-  "DestName": "VLC (Valencia - Spain)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1630",
-  "Flight": "LO6222",
+  "Date": "05-09-2025",
+  "Time": "1625",
+  "Flight": "LO600",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1635",
-  "Flight": "W45095",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "QSR",
-  "DestName": "QSR (Salerno Pontecagnano - Italy)"
+  "Date": "05-09-2025",
+  "Time": "1625",
+  "Flight": "3Z7785",
+  "AirlineCode": "3Z",
+  "Airline": "Travel Service Polska Sp. z.o.o.",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1635",
+  "Flight": "W45193",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TRF",
+  "DestName": "TRF (Oslo Sandefjord - Norway)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1640",
+  "Flight": "FR8370",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CTA",
+  "DestName": "CTA (Catania Fontanarossa - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1640",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
@@ -1864,79 +811,61 @@
   "DestName": "IST (Istanbul Ataturk International - Turkey)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1640",
-  "Flight": "W45151",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MAD",
-  "DestName": "MAD (Madrid Barajas - Spain)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1655",
-  "Flight": "ZB2005",
-  "AirlineCode": "ZB",
-  "Airline": "Air Albania",
-  "Dest": "BLQ",
-  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1720",
-  "Flight": "W45027",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "MXP",
-  "DestName": "MXP (Milan Malpensa - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1725",
-  "Flight": "LH1713",
-  "AirlineCode": "LH",
-  "Airline": "Lufthansa",
-  "Dest": "MUC",
-  "DestName": "MUC (Munich - Germany)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1730",
-  "Flight": "FR8480",
+  "Date": "05-09-2025",
+  "Time": "1700",
+  "Flight": "FR8350",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1740",
-  "Flight": "3Z7763",
-  "AirlineCode": "3Z",
-  "Airline": "Travel Service Polska Sp. z.o.o.",
-  "Dest": "KRK",
-  "DestName": "KRK (Krakow John Paul II International - Poland)"
+  "Date": "05-09-2025",
+  "Time": "1700",
+  "Flight": "GAT8056",
+  "AirlineCode": "GA",
+  "Airline": "Garuda Indonesia",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1740",
-  "Flight": "FR8410",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "BLQ",
-  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+  "Date": "05-09-2025",
+  "Time": "1705",
+  "Flight": "RR7168",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "POZ",
+  "DestName": "POZ (Poznan Lawica - Poland)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1745",
-  "Flight": "BA927",
-  "AirlineCode": "BA",
-  "Airline": "British Airways",
-  "Dest": "LHR",
-  "DestName": "LHR (London Heathrow - United Kingdom)"
+  "Date": "05-09-2025",
+  "Time": "1705",
+  "Flight": "W45171",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1705",
+  "Flight": "W45195",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MMX",
+  "DestName": "MMX (Malmo - Sweden)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1715",
+  "Flight": "GQ691",
+  "AirlineCode": "GQ",
+  "Airline": "Sky Express",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1750",
   "Flight": "W45143",
   "AirlineCode": "W4",
@@ -1945,7 +874,7 @@
   "DestName": "LYS (Lyon Saint Exupery - France)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1805",
   "Flight": "A3973",
   "AirlineCode": "A3",
@@ -1954,16 +883,52 @@
   "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1805",
-  "Flight": "TO4455",
+  "Flight": "RK8295",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "EDI",
+  "DestName": "EDI (Edinburgh - United Kingdom)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1810",
+  "Flight": "TB2952",
+  "AirlineCode": "TB",
+  "Airline": "Jetairfly",
+  "Dest": "BRU",
+  "DestName": "BRU (Brussels - Belgium)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1810",
+  "Flight": "BA927",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1810",
+  "Flight": "TO4459",
   "AirlineCode": "TO",
   "Airline": "Transavia",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1810",
+  "Flight": "FR8400",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1810",
   "Flight": "W45153",
   "AirlineCode": "W4",
@@ -1972,71 +937,8 @@
   "DestName": "BCN (Barcelona El Prat - Spain)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1825",
-  "Flight": "W95003",
-  "AirlineCode": "W9",
-  "Airline": "Wizz Air",
-  "Dest": "LTN",
-  "DestName": "LTN (London Luton - United Kingdom)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1855",
-  "Flight": "EW9917",
-  "AirlineCode": "EW",
-  "Airline": "Eurowings",
-  "Dest": "DUS",
-  "DestName": "DUS (Dusseldorf International - Germany)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1855",
-  "Flight": "LX1443",
-  "AirlineCode": "LX",
-  "Airline": "Swiss International Air Lines",
-  "Dest": "ZRH",
-  "DestName": "ZRH (Zurich - Switzerland)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1855",
-  "Flight": "W45109",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "HHN",
-  "DestName": "HHN (Frankfurt Hahn - Germany)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1855",
-  "Flight": "6H164",
-  "AirlineCode": "6H",
-  "Airline": "Israir Airlines",
-  "Dest": "TLV",
-  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1900",
-  "Flight": "FR6889",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "VIE",
-  "DestName": "VIE (Vienna International - Austria)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1900",
-  "Flight": "W45137",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "PRG",
-  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1910",
+  "Date": "05-09-2025",
+  "Time": "1830",
   "Flight": "FR8299",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2044,43 +946,88 @@
   "DestName": "CRL (Brussels South Charleroi - Belgium)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1920",
-  "Flight": "FR8400",
-  "AirlineCode": "FR",
-  "Airline": "Ryanair",
-  "Dest": "TSF",
-  "DestName": "TSF (Treviso - Italy)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1920",
-  "Flight": "EZS1562",
-  "AirlineCode": "EZ",
-  "Airline": "Sun-Air of Scandinavia",
-  "Dest": "GVA",
-  "DestName": "GVA (Geneva International - Switzerland)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1925",
-  "Flight": "W45173",
-  "AirlineCode": "W4",
-  "Airline": "Wizzair Malta",
-  "Dest": "KTW",
-  "DestName": "KTW (Katowice International - Poland)"
- },
- {
-  "Date": "21-08-2025",
-  "Time": "1935",
-  "Flight": "TO4049",
+  "Date": "05-09-2025",
+  "Time": "1835",
+  "Flight": "TO4449",
   "AirlineCode": "TO",
   "Airline": "Transavia",
-  "Dest": "BOD",
-  "DestName": "BOD (Bordeaux Merignac - France)"
+  "Dest": "LYS",
+  "DestName": "LYS (Lyon Saint Exupery - France)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1840",
+  "Flight": "W45027",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1840",
+  "Flight": "FR8333",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "NRN",
+  "DestName": "NRN (Weeze - Germany)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1850",
+  "Flight": "W95003",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1905",
+  "Flight": "W41814",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "WRO",
+  "DestName": "WRO (Wroclaw Copernicus - Poland)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1910",
+  "Flight": "HV6936",
+  "AirlineCode": "HV",
+  "Airline": "Transavia",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1910",
+  "Flight": "VY8581",
+  "AirlineCode": "VY",
+  "Airline": "Vueling",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1920",
+  "Flight": "FR8360",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CIA",
+  "DestName": "CIA (Rome Ciampino - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1925",
+  "Flight": "RK8293",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "MAN",
+  "DestName": "MAN (Manchester - United Kingdom)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "1935",
   "Flight": "W45051",
   "AirlineCode": "W4",
@@ -2089,7 +1036,7 @@
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "1935",
   "Flight": "W45015",
   "AirlineCode": "W4",
@@ -2098,8 +1045,17 @@
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "1950",
+  "Date": "05-09-2025",
+  "Time": "1935",
+  "Flight": "W45115",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "NUE",
+  "DestName": "NUE (Nuremberg - Germany)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "1945",
   "Flight": "RK8291",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -2107,7 +1063,16 @@
   "DestName": "STN (London Stansted - United Kingdom)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
+  "Time": "1955",
+  "Flight": "QS1137",
+  "AirlineCode": "QS",
+  "Airline": "SmartWings",
+  "Dest": "PRG",
+  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
+ },
+ {
+  "Date": "05-09-2025",
   "Time": "2025",
   "Flight": "W45055",
   "AirlineCode": "W4",
@@ -2116,16 +1081,988 @@
   "DestName": "VRN (Verona - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "05-09-2025",
   "Time": "2055",
-  "Flight": "QS2965",
-  "AirlineCode": "QS",
-  "Airline": "SmartWings",
+  "Flight": "YW3031",
+  "AirlineCode": "YW",
+  "Airline": "Air Nostrum",
+  "Dest": "VLC",
+  "DestName": "VLC (Valencia - Spain)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2100",
+  "Flight": "W62234",
+  "AirlineCode": "W6",
+  "Airline": "Wizz Air",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2100",
+  "Flight": "W45043",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2100",
+  "Flight": "ZB2007",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2115",
+  "Flight": "FR6888",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2150",
+  "Flight": "RK8321",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2205",
+  "Flight": "FR8422",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2230",
+  "Flight": "RR7166",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)"
+ },
+ {
+  "Date": "05-09-2025",
+  "Time": "2255",
+  "Flight": "W95005",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0120",
+  "Flight": "XQ215",
+  "AirlineCode": "XQ",
+  "Airline": "Sun Express",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0145",
+  "Flight": "PC284",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "SAW",
+  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0220",
+  "Flight": "FH810",
+  "AirlineCode": "FH",
+  "Airline": "Freebird Airlines",
+  "Dest": "BJV",
+  "DestName": "BJV (Bodrum Milas - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0225",
+  "Flight": "XC108",
+  "AirlineCode": "XC",
+  "Airline": "Corendon Airlines",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0300",
+  "Flight": "JU167",
+  "AirlineCode": "JU",
+  "Airline": "Air Serbia",
+  "Dest": "BEG",
+  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0400",
+  "Flight": "W45123",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MLH",
+  "DestName": "MLH (Euro - France)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0435",
+  "Flight": "AZ507",
+  "AirlineCode": "AZ",
+  "Airline": "Alitalia",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0450",
+  "Flight": "W45087",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0455",
+  "Flight": "W45101",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "DTM",
+  "DestName": "DTM (Dortmund - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0455",
+  "Flight": "LH1715",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "MUC",
+  "DestName": "MUC (Munich - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0500",
+  "Flight": "OS850",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0500",
+  "Flight": "W45011",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0505",
+  "Flight": "W45139",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BVA",
+  "DestName": "BVA (Paris Beauvais-Tille - France)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0510",
+  "Flight": "W45041",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0515",
+  "Flight": "W45047",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0520",
+  "Flight": "W45075",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PEG",
+  "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0540",
+  "Flight": "LH1457",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0545",
+  "Flight": "W45017",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0545",
+  "Flight": "W45135",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "EIN",
+  "DestName": "EIN (Eindhoven - Netherlands)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0550",
+  "Flight": "W45203",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0555",
+  "Flight": "W45035",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0600",
+  "Flight": "ZB1001",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0610",
+  "Flight": "W45103",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FMM",
+  "DestName": "FMM (Memmingen - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0640",
+  "Flight": "FR9693",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0650",
+  "Flight": "ZB1019",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0700",
+  "Flight": "FR8360",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CIA",
+  "DestName": "CIA (Rome Ciampino - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0735",
+  "Flight": "FR8370",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CTA",
+  "DestName": "CTA (Catania Fontanarossa - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0805",
+  "Flight": "LO6270",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0810",
+  "Flight": "FR8400",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0815",
+  "Flight": "W45023",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0815",
+  "Flight": "FR8399",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0905",
+  "Flight": "A3971",
+  "AirlineCode": "A3",
+  "Airline": "Aegean Airlines",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0915",
+  "Flight": "RK8289",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0930",
+  "Flight": "XHA8155",
+  "AirlineCode": "XH",
+  "Airline": "Special Ground Handling Service -XH",
+  "Dest": "RLG",
+  "DestName": "RLG (Rostock Laage - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0930",
+  "Flight": "W45077",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TRS",
+  "DestName": "TRS (Trieste Friuli Venezia Giulia - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0935",
+  "Flight": "FR8356",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0935",
+  "Flight": "W45083",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "GOA",
+  "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0945",
+  "Flight": "W95001",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0945",
+  "Flight": "W42882",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "0945",
+  "Flight": "W45029",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1005",
+  "Flight": "ZB1017",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "ESB",
+  "DestName": "ESB (Ankara Esenboga International - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1015",
+  "Flight": "W45105",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BER",
+  "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1030",
+  "Flight": "AZ585",
+  "AirlineCode": "AZ",
+  "Airline": "Alitalia",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1035",
+  "Flight": "W45057",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TRN",
+  "DestName": "TRN (Turin Caselle - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1105",
+  "Flight": "OS846",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1120",
+  "Flight": "W45053",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VRN",
+  "DestName": "VRN (Verona - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1120",
+  "Flight": "ZB1010",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1135",
+  "Flight": "W45127",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "LEJ",
+  "DestName": "LEJ (Leipzig Halle - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1135",
+  "Flight": "W45125",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "DTM",
+  "DestName": "DTM (Dortmund - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1140",
+  "Flight": "W95007",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1150",
+  "Flight": "W45063",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CTA",
+  "DestName": "CTA (Catania Fontanarossa - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1215",
+  "Flight": "W45107",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "HAM",
+  "DestName": "HAM (Hamburg - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1230",
+  "Flight": "LO598",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1230",
+  "Flight": "W45085",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSR",
+  "DestName": "PSR (Pescara Abruzzo International - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1305",
+  "Flight": "PC286",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "SAW",
+  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1305",
+  "Flight": "D83293",
+  "AirlineCode": "D8",
+  "Airline": "Norwegian Air International",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1305",
+  "Flight": "FR8320",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CIA",
+  "DestName": "CIA (Rome Ciampino - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1315",
+  "Flight": "LH1455",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1405",
+  "Flight": "JU163",
+  "AirlineCode": "JU",
+  "Airline": "Air Serbia",
+  "Dest": "BEG",
+  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1410",
+  "Flight": "W45119",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "STR",
+  "DestName": "STR (Stuttgart - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1445",
+  "Flight": "W45079",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "AOI",
+  "DestName": "AOI (Ancona - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1445",
+  "Flight": "W45019",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1505",
+  "Flight": "W45039",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1525",
+  "Flight": "FR8422",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1540",
+  "Flight": "FR8391",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1545",
+  "Flight": "LX1443",
+  "AirlineCode": "LX",
+  "Airline": "Swiss International Air Lines",
+  "Dest": "ZRH",
+  "DestName": "ZRH (Zurich - Switzerland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1610",
+  "Flight": "W45031",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1615",
+  "Flight": "W45133",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1625",
+  "Flight": "LO600",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1635",
+  "Flight": "W45095",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "QSR",
+  "DestName": "QSR (Salerno Pontecagnano - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1640",
+  "Flight": "ZB1003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1640",
+  "Flight": "W45151",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MAD",
+  "DestName": "MAD (Madrid Barajas - Spain)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1700",
+  "Flight": "FR8350",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1715",
+  "Flight": "FR6810",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1720",
+  "Flight": "W45027",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1725",
+  "Flight": "LH1713",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "MUC",
+  "DestName": "MUC (Munich - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1730",
+  "Flight": "ZB2003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1735",
+  "Flight": "OS848",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1750",
+  "Flight": "BA927",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1805",
+  "Flight": "A3973",
+  "AirlineCode": "A3",
+  "Airline": "Aegean Airlines",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1810",
+  "Flight": "W45153",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1820",
+  "Flight": "RK8291",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1825",
+  "Flight": "TO4459",
+  "AirlineCode": "TO",
+  "Airline": "Transavia",
+  "Dest": "ORY",
+  "DestName": "ORY (Paris Orly - France)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1825",
+  "Flight": "FR8299",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1835",
+  "Flight": "IB860",
+  "AirlineCode": "IB",
+  "Airline": "Iberia",
+  "Dest": "MAD",
+  "DestName": "MAD (Madrid Barajas - Spain)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1850",
+  "Flight": "W95003",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1850",
+  "Flight": "W45175",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "POZ",
+  "DestName": "POZ (Poznan Lawica - Poland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1855",
+  "Flight": "FR8314",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BVA",
+  "DestName": "BVA (Paris Beauvais-Tille - France)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1855",
+  "Flight": "W45109",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "HHN",
+  "DestName": "HHN (Frankfurt Hahn - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1900",
+  "Flight": "W45137",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
   "Dest": "PRG",
   "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "06-09-2025",
+  "Time": "1915",
+  "Flight": "FR8436",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CTA",
+  "DestName": "CTA (Catania Fontanarossa - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1925",
+  "Flight": "W45173",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1935",
+  "Flight": "W45051",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1935",
+  "Flight": "W45015",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "1945",
+  "Flight": "HV5126",
+  "AirlineCode": "HV",
+  "Airline": "Transavia",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2010",
+  "Flight": "DY1935",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Shuttle",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2010",
+  "Flight": "EW913",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings",
+  "Dest": "CGN",
+  "DestName": "CGN (Cologne Bonn - Germany)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2025",
+  "Flight": "W45055",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VRN",
+  "DestName": "VRN (Verona - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2040",
+  "Flight": "FR8410",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2040",
+  "Flight": "FR8480",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
   "Time": "2115",
   "Flight": "W45043",
   "AirlineCode": "W4",
@@ -2134,8 +2071,287 @@
   "DestName": "BRI (Bari - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "2120",
+  "Date": "06-09-2025",
+  "Time": "2150",
+  "Flight": "RK8321",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2155",
+  "Flight": "W61800",
+  "AirlineCode": "W6",
+  "Airline": "Wizz Air",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2250",
+  "Flight": "FR7091",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "SUF",
+  "DestName": "SUF (Lamezia Terme - Italy)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2255",
+  "Flight": "W95005",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "06-09-2025",
+  "Time": "2340",
+  "Flight": "ZB1015",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "ADB",
+  "DestName": "ADB (Izmir Adnan Menderes International - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0120",
+  "Flight": "XQ215",
+  "AirlineCode": "XQ",
+  "Airline": "Sun Express",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0125",
+  "Flight": "PC5550",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0145",
+  "Flight": "PC284",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "SAW",
+  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0225",
+  "Flight": "XC248",
+  "AirlineCode": "XC",
+  "Airline": "Corendon Airlines",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0235",
+  "Flight": "ZB7001",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "BRU",
+  "DestName": "BRU (Brussels - Belgium)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0300",
+  "Flight": "JU167",
+  "AirlineCode": "JU",
+  "Airline": "Air Serbia",
+  "Dest": "BEG",
+  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0400",
+  "Flight": "W45123",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MLH",
+  "DestName": "MLH (Euro - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0435",
+  "Flight": "AZ507",
+  "AirlineCode": "AZ",
+  "Airline": "Alitalia",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0450",
+  "Flight": "W45131",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0455",
+  "Flight": "W45101",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "DTM",
+  "DestName": "DTM (Dortmund - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0455",
+  "Flight": "LH1715",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "MUC",
+  "DestName": "MUC (Munich - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0500",
+  "Flight": "W45011",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0500",
+  "Flight": "OS850",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0505",
+  "Flight": "W45139",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BVA",
+  "DestName": "BVA (Paris Beauvais-Tille - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0510",
+  "Flight": "W45041",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0515",
+  "Flight": "W45047",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0520",
+  "Flight": "W45075",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PEG",
+  "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0540",
+  "Flight": "LH1457",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0545",
+  "Flight": "W45017",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0550",
+  "Flight": "W45135",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "EIN",
+  "DestName": "EIN (Eindhoven - Netherlands)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0550",
+  "Flight": "W45203",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0555",
+  "Flight": "W45035",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0600",
+  "Flight": "ZB1001",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0610",
+  "Flight": "W45029",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0650",
+  "Flight": "XQ829",
+  "AirlineCode": "XQ",
+  "Airline": "Sun Express",
+  "Dest": "ADB",
+  "DestName": "ADB (Izmir Adnan Menderes International - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0725",
+  "Flight": "FR6918",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "MRS",
+  "DestName": "MRS (Marseille Provence - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0730",
   "Flight": "FR8370",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2143,17 +2359,17 @@
   "DestName": "CTA (Catania Fontanarossa - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "2120",
-  "Flight": "FR8413",
+  "Date": "07-09-2025",
+  "Time": "0730",
+  "Flight": "FR8360",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
-  "Dest": "WMI",
-  "DestName": "WMI (Warsaw Modlin - Poland)"
+  "Dest": "CIA",
+  "DestName": "CIA (Rome Ciampino - Italy)"
  },
  {
-  "Date": "21-08-2025",
-  "Time": "2230",
+  "Date": "07-09-2025",
+  "Time": "0750",
   "Flight": "FR8350",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2161,7 +2377,1978 @@
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
  },
  {
-  "Date": "21-08-2025",
+  "Date": "07-09-2025",
+  "Time": "0755",
+  "Flight": "FR8314",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BVA",
+  "DestName": "BVA (Paris Beauvais-Tille - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0815",
+  "Flight": "EW9917",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings",
+  "Dest": "DUS",
+  "DestName": "DUS (Dusseldorf International - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0815",
+  "Flight": "FR8399",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0815",
+  "Flight": "W45023",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0820",
+  "Flight": "FR8333",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "NRN",
+  "DestName": "NRN (Weeze - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0830",
+  "Flight": "EZS1562",
+  "AirlineCode": "EZ",
+  "Airline": "Sun-Air of Scandinavia",
+  "Dest": "GVA",
+  "DestName": "GVA (Geneva International - Switzerland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0830",
+  "Flight": "FR8413",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "WMI",
+  "DestName": "WMI (Warsaw Modlin - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0900",
+  "Flight": "TO4451",
+  "AirlineCode": "TO",
+  "Airline": "Transavia",
+  "Dest": "ORY",
+  "DestName": "ORY (Paris Orly - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0905",
+  "Flight": "A3971",
+  "AirlineCode": "A3",
+  "Airline": "Aegean Airlines",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0915",
+  "Flight": "RK8289",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0925",
+  "Flight": "TO4047",
+  "AirlineCode": "TO",
+  "Airline": "Transavia",
+  "Dest": "NTE",
+  "DestName": "NTE (Nantes Atlantique - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0930",
+  "Flight": "W45081",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "RMI",
+  "DestName": "RMI (Rimini Federico Fellini - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0935",
+  "Flight": "W45083",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "GOA",
+  "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0945",
+  "Flight": "W42882",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0945",
+  "Flight": "ZB2003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "0945",
+  "Flight": "W95001",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1015",
+  "Flight": "W45105",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BER",
+  "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1030",
+  "Flight": "AZ585",
+  "AirlineCode": "AZ",
+  "Airline": "Alitalia",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1035",
+  "Flight": "W45057",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TRN",
+  "DestName": "TRN (Turin Caselle - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1045",
+  "Flight": "W45103",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FMM",
+  "DestName": "FMM (Memmingen - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1050",
+  "Flight": "LX1443",
+  "AirlineCode": "LX",
+  "Airline": "Swiss International Air Lines",
+  "Dest": "ZRH",
+  "DestName": "ZRH (Zurich - Switzerland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1105",
+  "Flight": "OS846",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1120",
+  "Flight": "RK8291",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1120",
+  "Flight": "ZB1010",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1130",
+  "Flight": "FR8312",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "PRG",
+  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1135",
+  "Flight": "W45125",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "DTM",
+  "DestName": "DTM (Dortmund - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1140",
+  "Flight": "W95007",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1150",
+  "Flight": "W45063",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CTA",
+  "DestName": "CTA (Catania Fontanarossa - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1150",
+  "Flight": "W45111",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FKB",
+  "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1155",
+  "Flight": "FZ746",
+  "AirlineCode": "FZ",
+  "Airline": "FLYDUBAI",
+  "Dest": "DXB",
+  "DestName": "DXB (Dubai International - United Arab Emirates)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1200",
+  "Flight": "FR8480",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1210",
+  "Flight": "LO6258",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "RDO",
+  "DestName": "RDO (Radom - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1215",
+  "Flight": "W45107",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "HAM",
+  "DestName": "HAM (Hamburg - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1230",
+  "Flight": "LO598",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1230",
+  "Flight": "W45085",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSR",
+  "DestName": "PSR (Pescara Abruzzo International - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1235",
+  "Flight": "RR5118",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "POZ",
+  "DestName": "POZ (Poznan Lawica - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1255",
+  "Flight": "PC286",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "SAW",
+  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1255",
+  "Flight": "FR8431",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1305",
+  "Flight": "RR5094",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1315",
+  "Flight": "LH1455",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1400",
+  "Flight": "OS848",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1405",
+  "Flight": "JU163",
+  "AirlineCode": "JU",
+  "Airline": "Air Serbia",
+  "Dest": "BEG",
+  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1405",
+  "Flight": "FR8391",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1415",
+  "Flight": "FR8418",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1425",
+  "Flight": "W45129",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FMM",
+  "DestName": "FMM (Memmingen - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1435",
+  "Flight": "LY5484",
+  "AirlineCode": "LY",
+  "Airline": "El Al Israel Airlines",
+  "Dest": "TLV",
+  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1445",
+  "Flight": "W45019",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1445",
+  "Flight": "W45079",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "AOI",
+  "DestName": "AOI (Ancona - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1500",
+  "Flight": "OU309",
+  "AirlineCode": "OU",
+  "Airline": "Croatia Airlines",
+  "Dest": "ZAG",
+  "DestName": "ZAG (Zagreb - Croatia)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1505",
+  "Flight": "W45039",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1515",
+  "Flight": "FR6889",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1535",
+  "Flight": "FR8299",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1540",
+  "Flight": "FR8403",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "KRK",
+  "DestName": "KRK (Krakow John Paul II International - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1545",
+  "Flight": "ZB2011",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "VRN",
+  "DestName": "VRN (Verona - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1545",
+  "Flight": "FR8410",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1600",
+  "Flight": "5W7092",
+  "AirlineCode": "5W",
+  "Airline": "Wizz Air",
+  "Dest": "AUH",
+  "DestName": "AUH (Abu Dhabi International - United Arab Emirates)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1615",
+  "Flight": "W45133",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1620",
+  "Flight": "W45155",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VLC",
+  "DestName": "VLC (Valencia - Spain)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1635",
+  "Flight": "W45067",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "NAP",
+  "DestName": "NAP (Naples - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1640",
+  "Flight": "W45031",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1640",
+  "Flight": "ZB1003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1640",
+  "Flight": "W45151",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MAD",
+  "DestName": "MAD (Madrid Barajas - Spain)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1715",
+  "Flight": "GQ691",
+  "AirlineCode": "GQ",
+  "Airline": "Sky Express",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1720",
+  "Flight": "W45027",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1750",
+  "Flight": "W45143",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "LYS",
+  "DestName": "LYS (Lyon Saint Exupery - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1805",
+  "Flight": "A3973",
+  "AirlineCode": "A3",
+  "Airline": "Aegean Airlines",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1810",
+  "Flight": "FR8356",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1810",
+  "Flight": "W45153",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1820",
+  "Flight": "LO6644",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1825",
+  "Flight": "LO6622",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1850",
+  "Flight": "W95003",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1850",
+  "Flight": "FR8320",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CIA",
+  "DestName": "CIA (Rome Ciampino - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1855",
+  "Flight": "W45109",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "HHN",
+  "DestName": "HHN (Frankfurt Hahn - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1855",
+  "Flight": "6H164",
+  "AirlineCode": "6H",
+  "Airline": "Israir Airlines",
+  "Dest": "TLV",
+  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1900",
+  "Flight": "W45137",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PRG",
+  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1905",
+  "Flight": "FR8343",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1910",
+  "Flight": "VY8581",
+  "AirlineCode": "VY",
+  "Airline": "Vueling",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1915",
+  "Flight": "FR8400",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1925",
+  "Flight": "W45115",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "NUE",
+  "DestName": "NUE (Nuremberg - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1935",
+  "Flight": "TO4049",
+  "AirlineCode": "TO",
+  "Airline": "Transavia",
+  "Dest": "BOD",
+  "DestName": "BOD (Bordeaux Merignac - France)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1935",
+  "Flight": "W45015",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "1935",
+  "Flight": "W45051",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2000",
+  "Flight": "FR6888",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2005",
+  "Flight": "EW2913",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings",
+  "Dest": "STR",
+  "DestName": "STR (Stuttgart - Germany)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2025",
+  "Flight": "W45055",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VRN",
+  "DestName": "VRN (Verona - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2040",
+  "Flight": "RK8293",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "MAN",
+  "DestName": "MAN (Manchester - United Kingdom)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2100",
+  "Flight": "W62234",
+  "AirlineCode": "W6",
+  "Airline": "Wizz Air",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2115",
+  "Flight": "W45043",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2200",
+  "Flight": "RK8321",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2235",
+  "Flight": "FR9693",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2250",
+  "Flight": "ZB1021",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "COV",
+  "DestName": "COV (Covilha - Portugal)"
+ },
+ {
+  "Date": "07-09-2025",
+  "Time": "2255",
+  "Flight": "W95005",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0120",
+  "Flight": "XQ215",
+  "AirlineCode": "XQ",
+  "Airline": "Sun Express",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0145",
+  "Flight": "PC284",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "SAW",
+  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0225",
+  "Flight": "XC248",
+  "AirlineCode": "XC",
+  "Airline": "Corendon Airlines",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0225",
+  "Flight": "XC102",
+  "AirlineCode": "XC",
+  "Airline": "Corendon Airlines",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0300",
+  "Flight": "JU167",
+  "AirlineCode": "JU",
+  "Airline": "Air Serbia",
+  "Dest": "BEG",
+  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0355",
+  "Flight": "RR2004",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "IEG",
+  "DestName": "IEG (Zielona Gora Babimost - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0400",
+  "Flight": "RR7008",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0400",
+  "Flight": "RR7254",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "WRO",
+  "DestName": "WRO (Wroclaw Copernicus - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0400",
+  "Flight": "W45123",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MLH",
+  "DestName": "MLH (Euro - France)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0435",
+  "Flight": "AZ507",
+  "AirlineCode": "AZ",
+  "Airline": "Alitalia",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0445",
+  "Flight": "ZB2001",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0450",
+  "Flight": "W45131",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0455",
+  "Flight": "LH1715",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "MUC",
+  "DestName": "MUC (Munich - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0455",
+  "Flight": "W45101",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "DTM",
+  "DestName": "DTM (Dortmund - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0500",
+  "Flight": "OS850",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0500",
+  "Flight": "W45011",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0500",
+  "Flight": "ZB1001",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0505",
+  "Flight": "W45139",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BVA",
+  "DestName": "BVA (Paris Beauvais-Tille - France)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0510",
+  "Flight": "W45041",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0510",
+  "Flight": "ZB3001",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0515",
+  "Flight": "W45047",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0520",
+  "Flight": "W45075",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PEG",
+  "DestName": "PEG (Perugia San Francesco d'Assisi \u00e2\u20ac\u201c Umbria - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0540",
+  "Flight": "LH1457",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0545",
+  "Flight": "W45135",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "EIN",
+  "DestName": "EIN (Eindhoven - Netherlands)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0545",
+  "Flight": "W45017",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0555",
+  "Flight": "W45035",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0555",
+  "Flight": "W45145",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "NCE",
+  "DestName": "NCE (Nice Cote dAzur - France)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0610",
+  "Flight": "W45103",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FMM",
+  "DestName": "FMM (Memmingen - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0640",
+  "Flight": "FR9693",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0655",
+  "Flight": "FR8399",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0705",
+  "Flight": "FR8391",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0705",
+  "Flight": "FR8360",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CIA",
+  "DestName": "CIA (Rome Ciampino - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0715",
+  "Flight": "LY5184",
+  "AirlineCode": "LY",
+  "Airline": "El Al Israel Airlines",
+  "Dest": "TLV",
+  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0720",
+  "Flight": "3Z7768",
+  "AirlineCode": "3Z",
+  "Airline": "Travel Service Polska Sp. z.o.o.",
+  "Dest": "POZ",
+  "DestName": "POZ (Poznan Lawica - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0730",
+  "Flight": "FR8370",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CTA",
+  "DestName": "CTA (Catania Fontanarossa - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0800",
+  "Flight": "IZ412",
+  "AirlineCode": "IZ",
+  "Airline": "Arkia",
+  "Dest": "TLV",
+  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0800",
+  "Flight": "FR8431",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0810",
+  "Flight": "GQ691",
+  "AirlineCode": "GQ",
+  "Airline": "Sky Express",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0815",
+  "Flight": "W45023",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0830",
+  "Flight": "TB2952",
+  "AirlineCode": "TB",
+  "Airline": "Jetairfly",
+  "Dest": "BRU",
+  "DestName": "BRU (Brussels - Belgium)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0905",
+  "Flight": "A3971",
+  "AirlineCode": "A3",
+  "Airline": "Aegean Airlines",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0915",
+  "Flight": "RR7010",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "RZE",
+  "DestName": "RZE (Rzeszow Jasionka - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0915",
+  "Flight": "RK8289",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0930",
+  "Flight": "W45081",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "RMI",
+  "DestName": "RMI (Rimini Federico Fellini - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0930",
+  "Flight": "RR2002",
+  "AirlineCode": "RR",
+  "Airline": "Buzz",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0935",
+  "Flight": "W45083",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "GOA",
+  "DestName": "GOA (Genoa Cristoforo Colombo - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0935",
+  "Flight": "FR8356",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0945",
+  "Flight": "W42882",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0945",
+  "Flight": "W45029",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0945",
+  "Flight": "ZB2003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "0945",
+  "Flight": "W95001",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1005",
+  "Flight": "ZB2011",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "VRN",
+  "DestName": "VRN (Verona - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1015",
+  "Flight": "W45105",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BER",
+  "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1030",
+  "Flight": "ZB6003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1030",
+  "Flight": "AZ585",
+  "AirlineCode": "AZ",
+  "Airline": "Alitalia",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1035",
+  "Flight": "W45057",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TRN",
+  "DestName": "TRN (Turin Caselle - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1055",
+  "Flight": "LH1713",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "MUC",
+  "DestName": "MUC (Munich - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1055",
+  "Flight": "FR8416",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1100",
+  "Flight": "RK8295",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "EDI",
+  "DestName": "EDI (Edinburgh - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1105",
+  "Flight": "OS846",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1110",
+  "Flight": "W42100",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "KRK",
+  "DestName": "KRK (Krakow John Paul II International - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1125",
+  "Flight": "TO4451",
+  "AirlineCode": "TO",
+  "Airline": "Transavia",
+  "Dest": "ORY",
+  "DestName": "ORY (Paris Orly - France)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1135",
+  "Flight": "W45125",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "DTM",
+  "DestName": "DTM (Dortmund - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1145",
+  "Flight": "RK8291",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1150",
+  "Flight": "W45063",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CTA",
+  "DestName": "CTA (Catania Fontanarossa - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1150",
+  "Flight": "W45111",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FKB",
+  "DestName": "FKB (Karlsruhe/Baden-Baden - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1150",
+  "Flight": "U57534",
+  "AirlineCode": "U5",
+  "Airline": "Karinou Airlines",
+  "Dest": "IEG",
+  "DestName": "IEG (Zielona Gora Babimost - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1155",
+  "Flight": "FZ746",
+  "AirlineCode": "FZ",
+  "Airline": "FLYDUBAI",
+  "Dest": "DXB",
+  "DestName": "DXB (Dubai International - United Arab Emirates)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1205",
+  "Flight": "BA929",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1215",
+  "Flight": "FR8422",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1215",
+  "Flight": "W45107",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "HAM",
+  "DestName": "HAM (Hamburg - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1230",
+  "Flight": "LO598",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1230",
+  "Flight": "W45085",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSR",
+  "DestName": "PSR (Pescara Abruzzo International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1235",
+  "Flight": "FR6888",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1305",
+  "Flight": "PC286",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
+  "Dest": "SAW",
+  "DestName": "SAW (Istanbul Sabiha Gokcen International - Turkey)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1315",
+  "Flight": "LH1455",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1320",
+  "Flight": "3Z7770",
+  "AirlineCode": "3Z",
+  "Airline": "Travel Service Polska Sp. z.o.o.",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1345",
+  "Flight": "QS2131",
+  "AirlineCode": "QS",
+  "Airline": "SmartWings",
+  "Dest": "PRG",
+  "DestName": "PRG (Prague Vaclav Havel - Czech Republic)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1400",
+  "Flight": "OS848",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1405",
+  "Flight": "JU163",
+  "AirlineCode": "JU",
+  "Airline": "Air Serbia",
+  "Dest": "BEG",
+  "DestName": "BEG (Belgrade Nikola Tesla - Serbia)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1410",
+  "Flight": "FR3020",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CIA",
+  "DestName": "CIA (Rome Ciampino - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1425",
+  "Flight": "W45129",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FMM",
+  "DestName": "FMM (Memmingen - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1430",
+  "Flight": "EW9917",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings",
+  "Dest": "DUS",
+  "DestName": "DUS (Dusseldorf International - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1430",
+  "Flight": "W45065",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CIY",
+  "DestName": "CIY (Comiso - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1445",
+  "Flight": "W45019",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1450",
+  "Flight": "FR8299",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1505",
+  "Flight": "W45039",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1510",
+  "Flight": "FR6889",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "VIE",
+  "DestName": "VIE (Vienna International - Austria)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1515",
+  "Flight": "FR6810",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1520",
+  "Flight": "FR8403",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "KRK",
+  "DestName": "KRK (Krakow John Paul II International - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1535",
+  "Flight": "ZB7003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "GVA",
+  "DestName": "GVA (Geneva International - Switzerland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1540",
+  "Flight": "ZB2005",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1555",
+  "Flight": "MDF9031",
+  "AirlineCode": "MD",
+  "Airline": "Air Madagascar",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1610",
+  "Flight": "W45031",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1615",
+  "Flight": "W45133",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "CRL",
+  "DestName": "CRL (Brussels South Charleroi - Belgium)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1620",
+  "Flight": "FR8418",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1635",
+  "Flight": "W45067",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "NAP",
+  "DestName": "NAP (Naples - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1635",
+  "Flight": "W45193",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "TRF",
+  "DestName": "TRF (Oslo Sandefjord - Norway)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1705",
+  "Flight": "W45171",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1705",
+  "Flight": "W45195",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MMX",
+  "DestName": "MMX (Malmo - Sweden)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1715",
+  "Flight": "5W7092",
+  "AirlineCode": "5W",
+  "Airline": "Wizz Air",
+  "Dest": "AUH",
+  "DestName": "AUH (Abu Dhabi International - United Arab Emirates)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1740",
+  "Flight": "FR8410",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1750",
+  "Flight": "W45143",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "LYS",
+  "DestName": "LYS (Lyon Saint Exupery - France)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1750",
+  "Flight": "VY8581",
+  "AirlineCode": "VY",
+  "Airline": "Vueling",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1800",
+  "Flight": "U57536",
+  "AirlineCode": "U5",
+  "Airline": "Karinou Airlines",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1805",
+  "Flight": "A3973",
+  "AirlineCode": "A3",
+  "Airline": "Aegean Airlines",
+  "Dest": "ATH",
+  "DestName": "ATH (Athens Eleftherios Venizelos - Greece)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1810",
+  "Flight": "W45153",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1840",
+  "Flight": "ZB1003",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1840",
+  "Flight": "W45027",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "MXP",
+  "DestName": "MXP (Milan Malpensa - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1850",
+  "Flight": "W95003",
+  "AirlineCode": "W9",
+  "Airline": "Wizz Air",
+  "Dest": "LTN",
+  "DestName": "LTN (London Luton - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1905",
+  "Flight": "W41814",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "WRO",
+  "DestName": "WRO (Wroclaw Copernicus - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1910",
+  "Flight": "HV5126",
+  "AirlineCode": "HV",
+  "Airline": "Transavia",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1915",
+  "Flight": "FR8400",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "TSF",
+  "DestName": "TSF (Treviso - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1915",
+  "Flight": "6H163",
+  "AirlineCode": "6H",
+  "Airline": "Israir Airlines",
+  "Dest": "TLV",
+  "DestName": "TLV (Tel Aviv Ben Gurion International - Israel)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1915",
+  "Flight": "3Z7785",
+  "AirlineCode": "3Z",
+  "Airline": "Travel Service Polska Sp. z.o.o.",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1915",
+  "Flight": "FR8350",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1920",
+  "Flight": "RK8321",
+  "AirlineCode": "RK",
+  "Airline": "Ryanair UK",
+  "Dest": "STN",
+  "DestName": "STN (London Stansted - United Kingdom)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1925",
+  "Flight": "W45115",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "NUE",
+  "DestName": "NUE (Nuremberg - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1935",
+  "Flight": "W45051",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BLQ",
+  "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1935",
+  "Flight": "W45015",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "FCO",
+  "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "1940",
+  "Flight": "EW913",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings",
+  "Dest": "CGN",
+  "DestName": "CGN (Cologne Bonn - Germany)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "2025",
+  "Flight": "W45055",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "VRN",
+  "DestName": "VRN (Verona - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "2035",
+  "Flight": "FR8424",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "PSA",
+  "DestName": "PSA (Pisa Galileo Galilei - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "2040",
+  "Flight": "FR8480",
+  "AirlineCode": "FR",
+  "Airline": "Ryanair",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "2100",
+  "Flight": "W62234",
+  "AirlineCode": "W6",
+  "Airline": "Wizz Air",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "2100",
+  "Flight": "ZB2007",
+  "AirlineCode": "ZB",
+  "Airline": "Air Albania",
+  "Dest": "BGY",
+  "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
+  "Time": "2115",
+  "Flight": "W45043",
+  "AirlineCode": "W4",
+  "Airline": "Wizzair Malta",
+  "Dest": "BRI",
+  "DestName": "BRI (Bari - Italy)"
+ },
+ {
+  "Date": "08-09-2025",
   "Time": "2255",
   "Flight": "W95005",
   "AirlineCode": "W9",
