@@ -2,7 +2,7 @@
 [
  {
   "Date": "12-10-2025",
-  "Time": "2125",
+  "Time": "2025",
   "Flight": "W45115",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -11,7 +11,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -20,7 +20,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2100",
+  "Time": "2000",
   "Flight": "W45137",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -29,7 +29,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1105",
+  "Time": "1005",
   "Flight": "A3971",
   "AirlineCode": "A3",
   "Airline": "Aegean Airlines",
@@ -38,7 +38,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1030",
+  "Time": "0930",
   "Flight": "TO4451",
   "AirlineCode": "TO",
   "Airline": "Transavia",
@@ -47,7 +47,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0810",
+  "Time": "0710",
   "Flight": "W45029",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -56,7 +56,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2305",
+  "Time": "2205",
   "Flight": "W62234",
   "AirlineCode": "W6",
   "Airline": "Wizz Air",
@@ -65,7 +65,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1705",
+  "Time": "1605",
   "Flight": "W45039",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -74,7 +74,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1430",
+  "Time": "1330",
   "Flight": "W45203",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -83,7 +83,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2030",
+  "Time": "1930",
   "Flight": "FR8343",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -92,7 +92,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2015",
+  "Time": "1915",
   "Flight": "GQ691",
   "AirlineCode": "GQ",
   "Airline": "Sky Express",
@@ -101,7 +101,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2010",
+  "Time": "1910",
   "Flight": "W45153",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -110,7 +110,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0600",
+  "Time": "0500",
   "Flight": "W45123",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -119,7 +119,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2225",
+  "Time": "2125",
   "Flight": "W45055",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -128,7 +128,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0750",
+  "Time": "0650",
   "Flight": "W45035",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -137,7 +137,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1815",
+  "Time": "1715",
   "Flight": "W45133",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -146,7 +146,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1830",
+  "Time": "1730",
   "Flight": "W45031",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -155,7 +155,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0955",
+  "Time": "0855",
   "Flight": "FR8314",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -164,7 +164,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1920",
+  "Time": "1820",
   "Flight": "W45027",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -173,7 +173,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1355",
+  "Time": "1255",
   "Flight": "FZ746",
   "AirlineCode": "FZ",
   "Airline": "FLYDUBAI",
@@ -182,7 +182,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1840",
+  "Time": "1740",
   "Flight": "W45151",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -191,7 +191,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0650",
+  "Time": "0550",
   "Flight": "W45131",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -200,7 +200,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1000",
+  "Time": "0900",
   "Flight": "EW2913",
   "AirlineCode": "EW",
   "Airline": "Eurowings",
@@ -209,7 +209,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1215",
+  "Time": "1115",
   "Flight": "W45105",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -218,7 +218,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2400",
+  "Time": "2300",
   "Flight": "RK8321",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -227,7 +227,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1305",
+  "Time": "1205",
   "Flight": "OS846",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -236,7 +236,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1020",
+  "Time": "0920",
   "Flight": "FR8333",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -245,7 +245,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1700",
+  "Time": "1600",
   "Flight": "OU309",
   "AirlineCode": "OU",
   "Airline": "Croatia Airlines",
@@ -254,7 +254,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1515",
+  "Time": "1415",
   "Flight": "LH1455",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -263,7 +263,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1840",
+  "Time": "1740",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -272,7 +272,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1230",
+  "Time": "1130",
   "Flight": "AZ0585",
   "AirlineCode": "AZ",
   "Airline": "Alitalia",
@@ -281,7 +281,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "OS850",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -290,7 +290,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1005",
+  "Time": "0905",
   "Flight": "W45023",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -299,7 +299,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1835",
+  "Time": "1735",
   "Flight": "W45067",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -308,7 +308,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2050",
+  "Time": "1950",
   "Flight": "FR8320",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -317,7 +317,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1030",
+  "Time": "0930",
   "Flight": "U21562",
   "AirlineCode": "U2",
   "Airline": "EasyJet",
@@ -326,7 +326,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1625",
+  "Time": "1525",
   "Flight": "W45129",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -335,7 +335,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0930",
+  "Time": "0830",
   "Flight": "FR8360",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -344,7 +344,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2110",
+  "Time": "2010",
   "Flight": "VY8581",
   "AirlineCode": "VY",
   "Airline": "Vueling",
@@ -353,7 +353,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1455",
+  "Time": "1355",
   "Flight": "PC286",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
@@ -362,7 +362,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "W45041",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -371,7 +371,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0745",
+  "Time": "0645",
   "Flight": "W45017",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -380,7 +380,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0710",
+  "Time": "0610",
   "Flight": "W45075",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -389,7 +389,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0715",
+  "Time": "0615",
   "Flight": "W45047",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -398,7 +398,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0635",
+  "Time": "0535",
   "Flight": "AZ0507",
   "AirlineCode": "AZ",
   "Airline": "Alitalia",
@@ -407,7 +407,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0320",
+  "Time": "0220",
   "Flight": "XQ215",
   "AirlineCode": "XQ",
   "Airline": "Sun Express",
@@ -416,7 +416,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1455",
+  "Time": "1355",
   "Flight": "FR8431",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -425,7 +425,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1140",
+  "Time": "1040",
   "Flight": "W45081",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -434,7 +434,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1235",
+  "Time": "1135",
   "Flight": "W45057",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -443,7 +443,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1725",
+  "Time": "1625",
   "Flight": "FR8299",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -452,7 +452,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "W45011",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -461,7 +461,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1750",
+  "Time": "1650",
   "Flight": "FR8403",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -470,7 +470,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1745",
+  "Time": "1645",
   "Flight": "FR8410",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -479,7 +479,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1605",
+  "Time": "1505",
   "Flight": "JU163",
   "AirlineCode": "JU",
   "Airline": "Air Serbia",
@@ -488,7 +488,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1600",
+  "Time": "1500",
   "Flight": "OS848",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -497,7 +497,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0655",
+  "Time": "0555",
   "Flight": "W45101",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -506,7 +506,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1115",
+  "Time": "1015",
   "Flight": "RK8289",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -515,7 +515,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "W95001",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -524,7 +524,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1430",
+  "Time": "1330",
   "Flight": "LO598",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
@@ -533,7 +533,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1400",
+  "Time": "1300",
   "Flight": "FR8480",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -542,7 +542,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0705",
+  "Time": "0605",
   "Flight": "LH1715",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -551,7 +551,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2050",
+  "Time": "1950",
   "Flight": "W95003",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -560,7 +560,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2240",
+  "Time": "2140",
   "Flight": "FR6888",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -569,7 +569,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2055",
+  "Time": "1955",
   "Flight": "6H164",
   "AirlineCode": "6H",
   "Airline": "Israir Airlines",
@@ -578,7 +578,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1340",
+  "Time": "1240",
   "Flight": "W95007",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -587,7 +587,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2055",
+  "Time": "1955",
   "Flight": "W45109",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -596,7 +596,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1415",
+  "Time": "1315",
   "Flight": "W45107",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -605,7 +605,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1135",
+  "Time": "1035",
   "Flight": "W45083",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -614,7 +614,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1705",
+  "Time": "1605",
   "Flight": "W45079",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -623,7 +623,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1350",
+  "Time": "1250",
   "Flight": "W45111",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -632,7 +632,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1950",
+  "Time": "1850",
   "Flight": "W45155",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -641,7 +641,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0750",
+  "Time": "0650",
   "Flight": "W45135",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -650,7 +650,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1715",
+  "Time": "1615",
   "Flight": "FR6889",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -659,7 +659,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0745",
+  "Time": "0645",
   "Flight": "W45143",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -668,7 +668,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0800",
+  "Time": "0700",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -677,7 +677,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2010",
+  "Time": "1910",
   "Flight": "FR8356",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -686,7 +686,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2435",
+  "Time": "2335",
   "Flight": "FR9693",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -695,7 +695,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1245",
+  "Time": "1145",
   "Flight": "W45103",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -704,7 +704,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "W42882",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -713,7 +713,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2305",
+  "Time": "2205",
   "Flight": "W45043",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -722,7 +722,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2240",
+  "Time": "2140",
   "Flight": "RK8293",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -731,7 +731,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1320",
+  "Time": "1220",
   "Flight": "RK8291",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -740,7 +740,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1505",
+  "Time": "1405",
   "Flight": "LY5484",
   "AirlineCode": "LY",
   "Airline": "El Al Israel Airlines",
@@ -749,7 +749,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0950",
+  "Time": "0850",
   "Flight": "FR8350",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -758,7 +758,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0925",
+  "Time": "0825",
   "Flight": "FR6918",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -767,7 +767,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1015",
+  "Time": "0915",
   "Flight": "EW9917",
   "AirlineCode": "EW",
   "Airline": "Eurowings",
@@ -776,7 +776,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2135",
+  "Time": "2035",
   "Flight": "W45015",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -785,7 +785,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1330",
+  "Time": "1230",
   "Flight": "FR8312",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -794,7 +794,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0345",
+  "Time": "0245",
   "Flight": "PC284",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
@@ -803,7 +803,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2135",
+  "Time": "2035",
   "Flight": "W45051",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -812,7 +812,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1050",
+  "Time": "0950",
   "Flight": "LX1443",
   "AirlineCode": "LX",
   "Airline": "Swiss International Air Lines",
@@ -821,7 +821,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0930",
+  "Time": "0830",
   "Flight": "FR8370",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -830,7 +830,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0910",
+  "Time": "0810",
   "Flight": "FR8391",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -839,7 +839,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1615",
+  "Time": "1515",
   "Flight": "FR8418",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -848,7 +848,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1015",
+  "Time": "0915",
   "Flight": "FR8399",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -857,7 +857,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1030",
+  "Time": "0930",
   "Flight": "FR8413",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -866,7 +866,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1335",
+  "Time": "1235",
   "Flight": "W45125",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -875,7 +875,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0705",
+  "Time": "0605",
   "Flight": "W45139",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -884,7 +884,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "2005",
+  "Time": "1905",
   "Flight": "A3973",
   "AirlineCode": "A3",
   "Airline": "Aegean Airlines",
@@ -893,7 +893,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1645",
+  "Time": "1545",
   "Flight": "W45019",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -902,7 +902,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0115",
+  "Time": "0015",
   "Flight": "FR7091",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -911,7 +911,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "0740",
+  "Time": "0640",
   "Flight": "LH1457",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -920,7 +920,7 @@
  },
  {
   "Date": "12-10-2025",
-  "Time": "1430",
+  "Time": "1330",
   "Flight": "W45085",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -929,7 +929,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0655",
+  "Time": "0555",
   "Flight": "W45101",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -938,7 +938,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2235",
+  "Time": "2135",
   "Flight": "FR8424",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -947,7 +947,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0335",
+  "Time": "0235",
   "Flight": "BT470",
   "AirlineCode": "BT",
   "Airline": "Air Baltic",
@@ -956,7 +956,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1355",
+  "Time": "1255",
   "Flight": "FZ746",
   "AirlineCode": "FZ",
   "Airline": "FLYDUBAI",
@@ -965,7 +965,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1800",
+  "Time": "1700",
   "Flight": "IZ412",
   "AirlineCode": "IZ",
   "Airline": "Arkia",
@@ -974,7 +974,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0745",
+  "Time": "0645",
   "Flight": "W45135",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -983,7 +983,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0705",
+  "Time": "0605",
   "Flight": "W45139",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -992,7 +992,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2135",
+  "Time": "2035",
   "Flight": "W45051",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1001,7 +1001,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2115",
+  "Time": "2015",
   "Flight": "6H164",
   "AirlineCode": "6H",
   "Airline": "Israir Airlines",
@@ -1010,7 +1010,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1305",
+  "Time": "1205",
   "Flight": "OS846",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -1019,7 +1019,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1610",
+  "Time": "1510",
   "Flight": "FR8320",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1028,7 +1028,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1905",
+  "Time": "1805",
   "Flight": "W45195",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1037,7 +1037,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "W45041",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1046,7 +1046,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1205",
+  "Time": "1105",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -1055,7 +1055,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1910",
+  "Time": "1810",
   "Flight": "FR8410",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1064,7 +1064,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2455",
+  "Time": "2355",
   "Flight": "W95005",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -1073,7 +1073,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1140",
+  "Time": "1040",
   "Flight": "W45081",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1082,7 +1082,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0910",
+  "Time": "0810",
   "Flight": "FR8391",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1091,7 +1091,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1235",
+  "Time": "1135",
   "Flight": "W45057",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1100,7 +1100,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1810",
+  "Time": "1710",
   "Flight": "W45031",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1109,7 +1109,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1115",
+  "Time": "1015",
   "Flight": "RK8289",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -1118,7 +1118,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1010",
+  "Time": "0910",
   "Flight": "GQ691",
   "AirlineCode": "GQ",
   "Airline": "Sky Express",
@@ -1127,7 +1127,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1300",
+  "Time": "1200",
   "Flight": "RK8295",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -1136,7 +1136,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1840",
+  "Time": "1740",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -1145,7 +1145,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1415",
+  "Time": "1315",
   "Flight": "FR8422",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1154,7 +1154,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1710",
+  "Time": "1610",
   "Flight": "FR6889",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1163,7 +1163,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2135",
+  "Time": "2035",
   "Flight": "W45015",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1172,7 +1172,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "W42882",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1181,7 +1181,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1345",
+  "Time": "1245",
   "Flight": "RK8291",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -1190,7 +1190,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0755",
+  "Time": "0655",
   "Flight": "W45145",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1199,7 +1199,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2115",
+  "Time": "2015",
   "Flight": "HV5126",
   "AirlineCode": "HV",
   "Airline": "Transavia",
@@ -1208,7 +1208,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0715",
+  "Time": "0615",
   "Flight": "W45047",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1217,7 +1217,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0845",
+  "Time": "0745",
   "Flight": "FR9693",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1226,7 +1226,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2300",
+  "Time": "2200",
   "Flight": "W62234",
   "AirlineCode": "W6",
   "Airline": "Wizz Air",
@@ -1235,7 +1235,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1350",
+  "Time": "1250",
   "Flight": "W45111",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1244,7 +1244,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2040",
+  "Time": "1940",
   "Flight": "W45027",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1253,7 +1253,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0325",
+  "Time": "0225",
   "Flight": "PC5550",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
@@ -1262,7 +1262,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1030",
+  "Time": "0930",
   "Flight": "TB2952",
   "AirlineCode": "TB",
   "Airline": "Jetairfly",
@@ -1271,7 +1271,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0810",
+  "Time": "0710",
   "Flight": "W45103",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1280,7 +1280,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1905",
+  "Time": "1805",
   "Flight": "W45171",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1289,7 +1289,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0710",
+  "Time": "0610",
   "Flight": "W45075",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1298,7 +1298,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1255",
+  "Time": "1155",
   "Flight": "FR8416",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1307,7 +1307,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0800",
+  "Time": "0700",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -1316,7 +1316,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0745",
+  "Time": "0645",
   "Flight": "W45017",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1325,7 +1325,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1230",
+  "Time": "1130",
   "Flight": "VY8581",
   "AirlineCode": "VY",
   "Airline": "Vueling",
@@ -1334,7 +1334,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1135",
+  "Time": "1035",
   "Flight": "FR8356",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1343,7 +1343,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1215",
+  "Time": "1115",
   "Flight": "W45105",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1352,7 +1352,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0750",
+  "Time": "0650",
   "Flight": "W45035",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1361,7 +1361,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1125",
+  "Time": "1025",
   "Flight": "W45083",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1370,7 +1370,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1645",
+  "Time": "1545",
   "Flight": "W45019",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1379,7 +1379,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "W95001",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -1388,7 +1388,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1435",
+  "Time": "1335",
   "Flight": "FR6888",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1397,7 +1397,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1105",
+  "Time": "1005",
   "Flight": "A3971",
   "AirlineCode": "A3",
   "Airline": "Aegean Airlines",
@@ -1406,7 +1406,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1955",
+  "Time": "1855",
   "Flight": "FR8400",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1415,7 +1415,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1405",
+  "Time": "1305",
   "Flight": "BA929",
   "AirlineCode": "BA",
   "Airline": "British Airways",
@@ -1424,7 +1424,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -1433,7 +1433,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1605",
+  "Time": "1505",
   "Flight": "JU163",
   "AirlineCode": "JU",
   "Airline": "Air Serbia",
@@ -1442,7 +1442,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1705",
+  "Time": "1605",
   "Flight": "W45039",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1451,7 +1451,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2125",
+  "Time": "2025",
   "Flight": "W45115",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1460,7 +1460,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1320",
+  "Time": "1220",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -1469,7 +1469,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1015",
+  "Time": "0915",
   "Flight": "FR8431",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1478,7 +1478,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0740",
+  "Time": "0640",
   "Flight": "LH1457",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -1487,7 +1487,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0915",
+  "Time": "0815",
   "Flight": "LY5184",
   "AirlineCode": "LY",
   "Airline": "El Al Israel Airlines",
@@ -1496,7 +1496,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2230",
+  "Time": "2130",
   "Flight": "W45055",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1505,7 +1505,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1310",
+  "Time": "1210",
   "Flight": "W45203",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1514,7 +1514,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2105",
+  "Time": "2005",
   "Flight": "W45097",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1523,7 +1523,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2245",
+  "Time": "2145",
   "Flight": "W45043",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1532,7 +1532,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1730",
+  "Time": "1630",
   "Flight": "W95007",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -1541,7 +1541,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "W45011",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1550,7 +1550,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1650",
+  "Time": "1550",
   "Flight": "FR8299",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1559,7 +1559,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1600",
+  "Time": "1500",
   "Flight": "OS848",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -1568,7 +1568,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2110",
+  "Time": "2010",
   "Flight": "FR8350",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1577,7 +1577,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1645",
+  "Time": "1545",
   "Flight": "W45079",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1586,7 +1586,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1820",
+  "Time": "1720",
   "Flight": "FR8418",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1595,7 +1595,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2240",
+  "Time": "2140",
   "Flight": "FR8480",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1604,7 +1604,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2005",
+  "Time": "1905",
   "Flight": "A3973",
   "AirlineCode": "A3",
   "Airline": "Aegean Airlines",
@@ -1613,7 +1613,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1255",
+  "Time": "1155",
   "Flight": "LH1713",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -1622,7 +1622,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0855",
+  "Time": "0755",
   "Flight": "FR8399",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1631,7 +1631,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1335",
+  "Time": "1235",
   "Flight": "W45125",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1640,7 +1640,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1630",
+  "Time": "1530",
   "Flight": "EW9917",
   "AirlineCode": "EW",
   "Airline": "Eurowings",
@@ -1649,7 +1649,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1715",
+  "Time": "1615",
   "Flight": "FR6810",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1658,7 +1658,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1005",
+  "Time": "0905",
   "Flight": "W45023",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1667,7 +1667,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1835",
+  "Time": "1735",
   "Flight": "W45193",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1676,7 +1676,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1625",
+  "Time": "1525",
   "Flight": "W45129",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1685,7 +1685,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1720",
+  "Time": "1620",
   "Flight": "FR8403",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1694,7 +1694,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2050",
+  "Time": "1950",
   "Flight": "W95003",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -1703,7 +1703,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0650",
+  "Time": "0550",
   "Flight": "W45131",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1712,7 +1712,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1415",
+  "Time": "1315",
   "Flight": "W45107",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1721,7 +1721,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0905",
+  "Time": "0805",
   "Flight": "FR8360",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1730,7 +1730,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0635",
+  "Time": "0535",
   "Flight": "LH1715",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -1739,7 +1739,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0400",
+  "Time": "0300",
   "Flight": "PC284",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
@@ -1748,7 +1748,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1840",
+  "Time": "1740",
   "Flight": "W45067",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1757,7 +1757,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0915",
+  "Time": "0815",
   "Flight": "FR8370",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1766,7 +1766,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1815",
+  "Time": "1715",
   "Flight": "W45133",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1775,7 +1775,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2010",
+  "Time": "1910",
   "Flight": "W45153",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1784,7 +1784,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1950",
+  "Time": "1850",
   "Flight": "W45143",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1793,7 +1793,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1420",
+  "Time": "1320",
   "Flight": "W45085",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1802,7 +1802,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "OS850",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -1811,7 +1811,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "1505",
+  "Time": "1405",
   "Flight": "PC286",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
@@ -1820,7 +1820,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0600",
+  "Time": "0500",
   "Flight": "W45123",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1829,7 +1829,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "2120",
+  "Time": "2020",
   "Flight": "RK8321",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -1838,7 +1838,7 @@
  },
  {
   "Date": "13-10-2025",
-  "Time": "0500",
+  "Time": "0400",
   "Flight": "JU167",
   "AirlineCode": "JU",
   "Airline": "Air Serbia",
@@ -1847,7 +1847,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1410",
+  "Time": "1310",
   "Flight": "BA929",
   "AirlineCode": "BA",
   "Airline": "British Airways",
@@ -1856,7 +1856,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0635",
+  "Time": "0535",
   "Flight": "LH1715",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -1865,7 +1865,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2455",
+  "Time": "2355",
   "Flight": "W95005",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -1874,7 +1874,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2055",
+  "Time": "1955",
   "Flight": "W45109",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1883,7 +1883,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1225",
+  "Time": "1125",
   "Flight": "W45119",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1892,7 +1892,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0800",
+  "Time": "0700",
   "Flight": "ZB1001",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -1901,7 +1901,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1915",
+  "Time": "1815",
   "Flight": "W45027",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1910,7 +1910,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2100",
+  "Time": "2000",
   "Flight": "W45137",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1919,7 +1919,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1420",
+  "Time": "1320",
   "Flight": "W45085",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1928,7 +1928,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1445",
+  "Time": "1345",
   "Flight": "FR8299",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1937,7 +1937,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2135",
+  "Time": "2035",
   "Flight": "W45051",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1946,7 +1946,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1925",
+  "Time": "1825",
   "Flight": "FR8410",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1955,7 +1955,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0745",
+  "Time": "0645",
   "Flight": "W45017",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1964,7 +1964,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0705",
+  "Time": "0605",
   "Flight": "W45139",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -1973,7 +1973,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0900",
+  "Time": "0800",
   "Flight": "FR8360",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -1982,7 +1982,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "OS850",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -1991,7 +1991,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0845",
+  "Time": "0745",
   "Flight": "FR8399",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2000,7 +2000,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1755",
+  "Time": "1655",
   "Flight": "ZB2011",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -2009,7 +2009,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1820",
+  "Time": "1720",
   "Flight": "W45155",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2018,7 +2018,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0500",
+  "Time": "0400",
   "Flight": "JU167",
   "AirlineCode": "JU",
   "Airline": "Air Serbia",
@@ -2027,7 +2027,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1705",
+  "Time": "1605",
   "Flight": "W45079",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2036,7 +2036,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2245",
+  "Time": "2145",
   "Flight": "W45043",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2045,7 +2045,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0600",
+  "Time": "0500",
   "Flight": "W45123",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2054,7 +2054,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1305",
+  "Time": "1205",
   "Flight": "OS846",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -2063,7 +2063,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1655",
+  "Time": "1555",
   "Flight": "PC286",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
@@ -2072,7 +2072,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1320",
+  "Time": "1220",
   "Flight": "ZB1010",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -2081,7 +2081,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1840",
+  "Time": "1740",
   "Flight": "6H166",
   "AirlineCode": "6H",
   "Airline": "Israir Airlines",
@@ -2090,7 +2090,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2055",
+  "Time": "1955",
   "Flight": "FR8314",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2099,7 +2099,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2135",
+  "Time": "2035",
   "Flight": "A3465",
   "AirlineCode": "A3",
   "Airline": "Aegean Airlines",
@@ -2108,7 +2108,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2225",
+  "Time": "2125",
   "Flight": "W45015",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2117,7 +2117,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2135",
+  "Time": "2035",
   "Flight": "FR8320",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2126,7 +2126,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1215",
+  "Time": "1115",
   "Flight": "W45105",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2135,7 +2135,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1645",
+  "Time": "1545",
   "Flight": "W45019",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2144,7 +2144,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1705",
+  "Time": "1605",
   "Flight": "W45039",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2153,7 +2153,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2110",
+  "Time": "2010",
   "Flight": "FR8400",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2162,7 +2162,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2230",
+  "Time": "2130",
   "Flight": "RK8321",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -2171,7 +2171,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0655",
+  "Time": "0555",
   "Flight": "W45101",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2180,7 +2180,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1925",
+  "Time": "1825",
   "Flight": "LH1713",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -2189,7 +2189,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1840",
+  "Time": "1740",
   "Flight": "ZB1003",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -2198,7 +2198,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1415",
+  "Time": "1315",
   "Flight": "W45107",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2207,7 +2207,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2010",
+  "Time": "1910",
   "Flight": "W45153",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2216,7 +2216,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1815",
+  "Time": "1715",
   "Flight": "W45133",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2225,7 +2225,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "W45011",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2234,7 +2234,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1600",
+  "Time": "1500",
   "Flight": "OS848",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
@@ -2243,7 +2243,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2040",
+  "Time": "1940",
   "Flight": "FR8343",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2252,7 +2252,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0715",
+  "Time": "0615",
   "Flight": "W45047",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2261,7 +2261,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0710",
+  "Time": "0610",
   "Flight": "W45075",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2270,7 +2270,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1515",
+  "Time": "1415",
   "Flight": "LH1455",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -2279,7 +2279,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1010",
+  "Time": "0910",
   "Flight": "GQ691",
   "AirlineCode": "GQ",
   "Airline": "Sky Express",
@@ -2288,7 +2288,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0355",
+  "Time": "0255",
   "Flight": "PC284",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
@@ -2297,7 +2297,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1130",
+  "Time": "1030",
   "Flight": "W45023",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2306,7 +2306,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2355",
+  "Time": "2255",
   "Flight": "W61800",
   "AirlineCode": "W6",
   "Airline": "Wizz Air",
@@ -2315,7 +2315,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2005",
+  "Time": "1905",
   "Flight": "A3973",
   "AirlineCode": "A3",
   "Airline": "Aegean Airlines",
@@ -2324,7 +2324,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2205",
+  "Time": "2105",
   "Flight": "W95007",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -2333,7 +2333,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0750",
+  "Time": "0650",
   "Flight": "W45035",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2342,7 +2342,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2125",
+  "Time": "2025",
   "Flight": "W45059",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2351,7 +2351,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2000",
+  "Time": "1900",
   "Flight": "FR8422",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2360,7 +2360,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0700",
+  "Time": "0600",
   "Flight": "W45041",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2369,7 +2369,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1315",
+  "Time": "1215",
   "Flight": "RK8291",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -2378,7 +2378,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0810",
+  "Time": "0710",
   "Flight": "W45103",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2387,7 +2387,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0750",
+  "Time": "0650",
   "Flight": "W45055",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2396,7 +2396,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0740",
+  "Time": "0640",
   "Flight": "LH1457",
   "AirlineCode": "LH",
   "Airline": "Lufthansa",
@@ -2405,7 +2405,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1605",
+  "Time": "1505",
   "Flight": "JU163",
   "AirlineCode": "JU",
   "Airline": "Air Serbia",
@@ -2414,7 +2414,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1235",
+  "Time": "1135",
   "Flight": "W45057",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2423,7 +2423,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0950",
+  "Time": "0850",
   "Flight": "FR8350",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2432,7 +2432,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0845",
+  "Time": "0745",
   "Flight": "FR8370",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2441,7 +2441,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1535",
+  "Time": "1435",
   "Flight": "LX1443",
   "AirlineCode": "LX",
   "Airline": "Swiss International Air Lines",
@@ -2450,7 +2450,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1430",
+  "Time": "1330",
   "Flight": "FR8356",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2459,7 +2459,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0650",
+  "Time": "0550",
   "Flight": "W45087",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2468,7 +2468,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2220",
+  "Time": "2120",
   "Flight": "RK8293",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -2477,7 +2477,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1825",
+  "Time": "1725",
   "Flight": "LO600",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
@@ -2486,7 +2486,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "W45029",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2495,7 +2495,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1810",
+  "Time": "1710",
   "Flight": "W45031",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2504,7 +2504,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1125",
+  "Time": "1025",
   "Flight": "W45083",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2513,7 +2513,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1340",
+  "Time": "1240",
   "Flight": "W45161",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2522,7 +2522,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1805",
+  "Time": "1705",
   "Flight": "W45077",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2531,7 +2531,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1145",
+  "Time": "1045",
   "Flight": "ZB2003",
   "AirlineCode": "ZB",
   "Airline": "Air Albania",
@@ -2540,7 +2540,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2020",
+  "Time": "1920",
   "Flight": "W45053",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2549,7 +2549,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1710",
+  "Time": "1610",
   "Flight": "U21562",
   "AirlineCode": "U2",
   "Airline": "EasyJet",
@@ -2558,7 +2558,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1105",
+  "Time": "1005",
   "Flight": "A3971",
   "AirlineCode": "A3",
   "Airline": "Aegean Airlines",
@@ -2567,7 +2567,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0745",
+  "Time": "0645",
   "Flight": "W45135",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2576,7 +2576,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "0635",
+  "Time": "0535",
   "Flight": "AZ0507",
   "AirlineCode": "AZ",
   "Airline": "Alitalia",
@@ -2585,7 +2585,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2050",
+  "Time": "1950",
   "Flight": "W95003",
   "AirlineCode": "W9",
   "Airline": "Wizz Air",
@@ -2594,7 +2594,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1130",
+  "Time": "1030",
   "Flight": "DY1935",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Shuttle",
@@ -2603,7 +2603,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1840",
+  "Time": "1740",
   "Flight": "W45151",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2612,7 +2612,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1005",
+  "Time": "0905",
   "Flight": "W45201",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2621,7 +2621,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1455",
+  "Time": "1355",
   "Flight": "W45203",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2630,7 +2630,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1345",
+  "Time": "1245",
   "Flight": "FR6889",
   "AirlineCode": "FR",
   "Airline": "Ryanair",
@@ -2639,7 +2639,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1335",
+  "Time": "1235",
   "Flight": "W45125",
   "AirlineCode": "W4",
   "Airline": "Wizzair Malta",
@@ -2648,7 +2648,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "1115",
+  "Time": "1015",
   "Flight": "RK8289",
   "AirlineCode": "RK",
   "Airline": "Ryanair UK",
@@ -2657,7 +2657,7 @@
  },
  {
   "Date": "14-10-2025",
-  "Time": "2110",
+  "Time": "2010",
   "Flight": "HV5126",
   "AirlineCode": "HV",
   "Airline": "Transavia",
